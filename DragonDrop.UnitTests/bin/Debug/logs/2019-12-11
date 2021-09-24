@@ -1,0 +1,101 @@
+2019-12-11 08:23:09.2234|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:23:09.2394|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:23:09.2394|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:23:09.2394|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 08:36:12.5880|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:36:12.5970|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:36:12.5970|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:36:12.5970|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 08:36:54.0389|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:36:54.0469|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:36:54.0469|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:36:54.0469|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 08:36:54.1839|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:36:54.1839|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:36:54.1839|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:36:54.1839|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 08:38:37.2912|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:38:37.3002|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:38:37.3002|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:38:37.3002|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 08:38:37.4262|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:38:37.4262|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:38:37.4262|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:38:37.4262|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 08:38:37.4262|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:38:37.4262|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:38:37.4262|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:38:37.4262|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 08:48:00.7894|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:48:00.7994|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:48:00.7994|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:48:00.7994|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 08:50:10.2087|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:50:10.2207|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:50:10.2207|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:50:10.2207|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 08:52:16.9451|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:52:16.9601|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:52:16.9601|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:52:16.9601|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 08:56:18.3743|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:56:18.3943|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:56:18.3943|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:56:18.3943|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 08:57:59.1339|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 08:57:59.1519|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 08:57:59.1519|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 08:57:59.1519|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 12:43:37.2676|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 12:43:37.2826|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 12:43:37.2826|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 12:43:37.2826|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 12:43:37.5766|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 12:43:37.5766|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 12:43:37.5766|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 12:43:37.5766|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 12:43:37.5766|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 12:43:37.5766|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 12:43:37.5766|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 12:43:37.5766|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 12:43:37.6056|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 12:43:37.6056|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 12:43:37.6056|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 12:43:37.6056|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 12:43:37.6056|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 12:43:37.6056|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 12:43:37.6056|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 12:43:37.6056|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 12:43:37.6226|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 12:43:37.6226|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 12:43:37.6226|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 12:43:37.6226|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 12:43:37.6226|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 12:43:37.6226|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 12:43:37.6226|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 12:43:37.6226|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 12:43:38.1936|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 12:43:38.1936|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 12:43:38.1936|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 12:43:38.1936|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 12:44:54.9313|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 12:44:54.9483|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-11 12:44:54.9483|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-11 12:44:54.9483|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-11 16:35:21.8790|INFO|DragonDrop.WPF.MainSubViews.ViewModels.RegisterViewModel|Account registration submitted by WPF form for Customer: Will Smith with Phone: 221-120-2619
+2019-12-11 16:35:21.8940|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer creation request to Repo. Name:	Will Smith
+2019-12-11 16:35:21.8940|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-12-11 16:35:21.8940|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-12-11 16:35:21.8940|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-12-11 16:38:48.5882|INFO|DragonDrop.WPF.MainSubViews.ViewModels.RegisterViewModel|Account registration submitted by WPF form for Customer: Will Smith with Phone: 239-737-8187
+2019-12-11 16:38:48.5982|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer creation request to Repo. Name:	Will Smith
+2019-12-11 16:38:48.5982|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-12-11 16:38:48.5982|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-12-11 16:38:48.5982|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-12-11 16:38:52.6640|ERROR|DragonDrop.WPF.MainSubViews.ViewModels.RegisterViewModel|WPF Register Form completed execution but could not find Window to close.Details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.WPF.MainSubViews.ViewModels.RegisterViewModel.CloseAndReturn(RoutedEventArgs obj) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.WPF\MainSubViews\ViewModels\RegisterViewModel.cs:line 524
+   at DragonDrop.WPF.MainSubViews.ViewModels.RegisterViewModel.SubmitBtnClickCommandExecute(RoutedEventArgs e) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.WPF\MainSubViews\ViewModels\RegisterViewModel.cs:line 399
+2019-12-11 16:38:52.6640|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	239-737-8187 from Repo.
+2019-12-11 16:38:52.6711|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	239-737-8187
+2019-12-11 16:38:52.6850|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: 239-737-8187
+2019-12-11 16:38:52.7240|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 1 from Repo.

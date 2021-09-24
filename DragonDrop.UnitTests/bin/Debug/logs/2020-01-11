@@ -1,0 +1,17 @@
+2020-01-11 05:43:49.3877|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with Barcode:	876259219018
+2020-01-11 05:43:49.4437|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with Barcode:	110159219786
+2020-01-11 05:43:49.4437|WARN|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found no Product with Barcode:	110159219786
+2020-01-11 06:34:16.0053|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with Barcode:	876259219018 from Repo.
+2020-01-11 06:34:16.0133|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with Barcode:	876259219018
+2020-01-11 06:34:16.0133|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2020-01-11 06:34:16.0493|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with Barcode:	267911876210 from Repo.
+2020-01-11 06:34:16.0493|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with Barcode:	267911876210
+2020-01-11 06:34:16.0493|WARN|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found no Product with Barcode:	267911876210
+2020-01-11 06:34:16.0493|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2020-01-11 06:34:16.0493|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with Barcode:	876259219018 from Repo.
+2020-01-11 06:34:16.0493|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with Barcode:	876259219018
+2020-01-11 06:34:16.0493|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2020-01-11 06:34:16.0493|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with Barcode:	585707010762 from Repo.
+2020-01-11 06:34:16.0493|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with Barcode:	585707010762
+2020-01-11 06:34:16.0493|WARN|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found no Product with Barcode:	585707010762
+2020-01-11 06:34:16.0493|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.

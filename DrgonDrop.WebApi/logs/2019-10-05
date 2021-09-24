@@ -1,0 +1,173 @@
+2019-10-05 05:13:22.6217|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-10-05 05:13:22.6327|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-10-05 05:13:28.0733|INFO|DragonDrop.DAL.Implementation.CustomerRepository|35 records found.
+2019-10-05 05:13:28.0733|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 35 records.
+2019-10-05 05:13:42.0998|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	3
+2019-10-05 05:13:42.0998|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	3
+2019-10-05 07:16:13.4127|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer creation request to Repo. Name:	Tanu Motanu
+2019-10-05 07:16:13.4327|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo creating record for Customer named:	Tanu Motanu
+2019-10-05 07:16:22.5682|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Customer:/tTanu Motanu succesfully registered.
+2019-10-05 07:16:22.5682|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-10-05 08:13:44.4787|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:19:10.5175|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:20:09.8586|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:20:48.9326|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:21:01.0965|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:21:08.1563|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:29:15.6916|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:29:21.2287|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:30:26.3490|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:30:41.2958|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:31:01.8163|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:31:05.2816|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:31:11.6578|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:34:50.4232|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-10-05 08:36:53.4105|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+2019-10-05 08:46:03.0433|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer creation request to Repo. Name:	Tanu Motanu
+2019-10-05 08:46:03.0433|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo creating record for Customer named:	Tanu Motanu
+2019-10-05 08:46:04.6733|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Customer:/tTanu Motanu succesfully registered.
+2019-10-05 08:46:04.6733|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-10-05 08:46:07.8970|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer creation request to Repo. Name:	Tanu Motanu
+2019-10-05 08:46:07.8970|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo creating record for Customer named:	Tanu Motanu
+2019-10-05 08:46:07.8970|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Customer:/tTanu Motanu succesfully registered.
+2019-10-05 08:46:07.8970|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-10-05 08:47:04.4328|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+
+2019-10-05 08:47:32.5484|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1002 to Repo.
+2019-10-05 08:47:32.5484|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo updating record for Customer with ID:	1002
+2019-10-05 08:47:32.5484|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1002
+2019-10-05 08:47:32.6894|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo succesfully updated Customer with ID:	1002
+2019-10-05 08:47:32.6894|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-10-05 08:48:14.1735|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1002 to Repo.
+2019-10-05 08:48:14.1845|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo updating record for Customer with ID:	1002
+2019-10-05 08:48:14.1845|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1002
+2019-10-05 08:48:14.3735|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo succesfully updated Customer with ID:	1002
+2019-10-05 08:48:14.3735|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-10-05 08:49:36.5993|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting page 3 of size 2 from all Customer in Repo.
+2019-10-05 08:49:36.6002|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching page 3 of size 2 from all Customer records.
+2019-10-05 09:04:16.7552|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting page 3 of size 2 from all Customer in Repo.
+2019-10-05 09:04:16.7642|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching page 3 of size 2 from all Customer records.
+2019-10-05 10:57:51.3296|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting page 3 of size 2 from all Customer in Repo.
+2019-10-05 10:57:51.3406|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching page 3 of size 2 from all Customer records.
+2019-10-05 10:57:53.3797|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo retrieved 2 records.
+2019-10-05 10:57:53.3797|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 2 records from repo.
+2019-10-05 11:04:08.6155|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	Ce from Repo.
+2019-10-05 11:04:08.6465|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo searching Customer records by:	CE
+2019-10-05 14:10:50.4174|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	Ce from Repo.
+2019-10-05 14:10:50.4174|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo searching Customer records by:	CE
+2019-10-05 14:37:01.6372|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	Ce from Repo.
+2019-10-05 14:37:01.6692|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo searching Customer records by:	CE
+2019-10-05 14:37:06.2709|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo found 4 Customers that match: CE
+2019-10-05 14:37:06.2709|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 4 from Repo.
+2019-10-05 14:41:24.3106|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	Ce from Repo.
+2019-10-05 14:41:24.3286|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo searching Customer records by:	CE
+2019-10-05 14:41:27.7656|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo found 4 Customers that match: CE
+2019-10-05 14:41:27.7656|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 4 from Repo.
+2019-10-05 14:41:35.7267|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	Ca from Repo.
+2019-10-05 14:41:35.7267|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo searching Customer records by:	CA
+2019-10-05 14:41:35.7677|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo found 9 Customers that match: CA
+2019-10-05 14:41:35.7677|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 9 from Repo.
+2019-10-05 14:47:29.4295|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customer records, according to 
+ SEARCH: Ca
+ Page Index: 1; Page Size: 2 from Repo
+2019-10-05 14:47:29.4295|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo filtering and paging Customers, according to 
+ SEARCH: Ca
+ Page Index: 1; Page Size: 2
+2019-10-05 14:47:29.4295|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo searching Customer records by:	CA
+2019-10-05 14:47:29.4295|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo found 9 Customers that match: CA
+2019-10-05 14:47:29.4295|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching page 1 of size 2 from filtered Customer records.
+2019-10-05 14:47:29.4435|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo retrieved 2 records.
+2019-10-05 14:47:29.4435|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 2 records back from Repo.
+2019-10-05 14:48:01.4803|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-10-05 14:48:01.4803|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-10-05 14:48:01.4803|INFO|DragonDrop.DAL.Implementation.CustomerRepository|37 records found.
+2019-10-05 14:48:01.4803|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 37 records.
+2019-10-05 14:49:13.8796|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-10-05 14:49:13.8796|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-10-05 14:49:13.8846|INFO|DragonDrop.DAL.Implementation.CustomerRepository|37 records found.
+2019-10-05 14:49:13.8846|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 37 records.
+2019-10-05 14:49:30.0204|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-10-05 14:49:30.0204|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-10-05 14:49:30.0224|INFO|DragonDrop.DAL.Implementation.CustomerRepository|37 records found.
+2019-10-05 14:49:30.0224|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 37 records.
+2019-10-05 14:50:52.6229|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-10-05 14:50:52.6229|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-10-05 14:50:52.6229|INFO|DragonDrop.DAL.Implementation.CustomerRepository|37 records found.
+2019-10-05 14:50:52.6229|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 37 records.
+2019-10-05 14:52:12.7120|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-10-05 14:52:12.7330|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-10-05 14:52:14.8324|INFO|DragonDrop.DAL.Implementation.CustomerRepository|37 records found.
+2019-10-05 14:52:14.8324|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 37 records.
+2019-10-05 14:52:27.9007|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-10-05 14:52:27.9007|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-10-05 14:52:27.9007|INFO|DragonDrop.DAL.Implementation.CustomerRepository|37 records found.
+2019-10-05 14:52:27.9007|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 37 records.
+2019-10-05 14:55:37.6488|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting page 4 of size 2 from all Customer in Repo.
+2019-10-05 14:55:37.6488|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching page 4 of size 2 from all Customer records.
+2019-10-05 14:55:37.8648|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo retrieved 2 records.
+2019-10-05 14:55:37.8648|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 2 records from repo.
+2019-10-05 14:56:22.5672|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	Kansas from Repo.
+2019-10-05 14:56:22.5711|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo searching Customer records by:	KANSAS
+2019-10-05 14:56:22.7592|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo found 3 Customers that match: KANSAS
+2019-10-05 14:56:22.7592|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 3 from Repo.
+2019-10-05 14:56:51.6147|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customer records by Filter: Kansas and Filtered according to: custId in descending order from Repo.
+2019-10-05 14:56:51.6158|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo filtering results by: Kansas, then sorting the result by: custId.
+2019-10-05 14:56:51.6158|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo searching Customer records by:	KANSAS
+2019-10-05 14:56:51.6387|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo found 3 Customers that match: KANSAS
+2019-10-05 14:56:51.6478|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-10-05 14:56:51.6478|INFO|DragonDrop.DAL.Implementation.CustomerRepository|37 records found.
+2019-10-05 14:56:51.6478|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo found 37 results.
+2019-10-05 14:56:51.6478|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 37 records back from Repo.
+2019-10-05 15:10:01.5701|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-10-05 15:10:01.5940|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-10-05 15:10:04.6368|INFO|DragonDrop.DAL.Implementation.OrderRepository|20 records found.
+2019-10-05 15:10:04.6368|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 20 records from Repo.
+2019-10-05 15:10:17.2268|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-10-05 15:10:17.2268|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-10-05 15:10:17.2268|INFO|DragonDrop.DAL.Implementation.OrderRepository|20 records found.
+2019-10-05 15:10:17.2268|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 20 records from Repo.
+2019-10-05 15:10:25.8011|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting page 1 of size 2 from all records in Repo.
+2019-10-05 15:10:25.8031|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching page 1 of size 2 from all Order records.
+2019-10-05 15:10:26.0043|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo retrieved 2 records.
+2019-10-05 15:10:26.0043|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service received 2 records from Repo.
+2019-10-05 15:12:21.2334|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-10-05 15:12:25.0264|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-10-05 15:12:25.0704|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo found: 0 orders placed by Customer with ID: 1
+2019-10-05 15:12:25.0704|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 0 records from Repo.
+2019-10-05 15:12:36.2074|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-10-05 15:12:36.2074|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-10-05 15:12:36.2233|INFO|DragonDrop.DAL.Implementation.OrderRepository|20 records found.
+2019-10-05 15:12:36.2233|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 20 records from Repo.
+2019-10-05 15:12:56.8476|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 17 from Repo.
+2019-10-05 15:12:56.8506|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo retrieving all orders placed by Customer:	17	NAME: Robin Andreev
+2019-10-05 15:12:56.8506|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo found: 2 orders placed by Customer with ID: 17
+2019-10-05 15:12:56.8506|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 2 records from Repo.

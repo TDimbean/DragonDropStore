@@ -1,0 +1,818 @@
+2019-10-01 14:06:47.8499|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher, Sorting them in ascending order by: meth and displaying Page: 2 of Size: 2
+2019-10-01 14:06:47.8670|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retreiving Payments made by Customer:	3	NAME: Ced Brasher and sorting them in ascending order, according to criteria: meth
+2019-10-01 14:06:47.8680|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:47.8680|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:06:47.8839|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: meth ascending.Payment Method
+2019-10-01 14:06:47.8839|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:47.8839|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:06:47.8839|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:47.8839|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:47.8839|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.2100|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher, Sorting them in descending order by: date and displaying Page: 2 of Size: 2
+2019-10-01 14:06:48.2100|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retreiving Payments made by Customer:	3	NAME: Ced Brasher and sorting them in descending order, according to criteria: date
+2019-10-01 14:06:48.2100|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.2100|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:06:48.2130|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: date descending.Date
+2019-10-01 14:06:48.2130|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.2130|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:06:48.2130|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:48.2130|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.2130|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.2309|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made before 6/15/2019 by Customer:	Ced Brasher, Sorting in ascending order by: amt and showing Page: 2 of Size: 2
+2019-10-01 14:06:48.2309|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments before 6/15/2019 made by Customer:	Ced Brasher and Sorting in ascending order by: amt
+2019-10-01 14:06:48.2309|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherbefore 6/15/2019 12:00:00 AM.
+2019-10-01 14:06:48.2309|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.2309|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:06:48.2309|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	6/15/2019
+2019-10-01 14:06:48.2309|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 4 Payments that match criteria.
+2019-10-01 14:06:48.2309|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :4 records.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: amt ascending.Amount
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|4 records found.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 4 records.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made after 3/21/2019 by Customer:	Ced Brasher, Sorting in ascending order by: meth and showing Page: 2 of Size: 2
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments after 3/21/2019 made by Customer:	Ced Brasher and Sorting in ascending order by: meth
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherafter 3/21/2019 12:00:00 AM.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	3/21/2019
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 4 Payments that match criteria.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :4 records.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: meth ascending.Payment Method
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|4 records found.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 4 records.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.2500|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.2619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-10-01 14:06:48.2619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	777068123
+2019-10-01 14:06:48.2619|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Payment with ID:	777068123
+2019-10-01 14:06:48.2619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.2619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-10-01 14:06:48.2619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-10-01 14:06:48.2619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|4 records found.
+2019-10-01 14:06:48.2890|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2890|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.2890|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-10-01 14:06:48.2890|ERROR|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo could not register Payment because submitted info was incomplete.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-10-01 14:06:48.2919|ERROR|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo could not register Payment because no customer with ID:	.904865876 was found.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo updating record for Payment with ID:	1
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo succesfully updated Payment with ID:	1
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo updating record for Payment with ID:	1204382962
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1204382962
+2019-10-01 14:06:48.2919|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Payment with ID:	1204382962
+2019-10-01 14:06:48.2919|ERROR|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo could not find any Payment with ID:	1204382962 to update.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo updating record for Payment with ID:	1
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-10-01 14:06:48.2919|ERROR|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo could not update Payment because submitted info was incomplete.
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.3059|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.3059|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 3 of size 1 from all Payment records.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 1 of size 2 from all Payment records.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from all Payment records.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 1 of size 13 from all Payment records.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 13 of size 1 from all Payment records.
+2019-10-01 14:06:48.3260|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 0 records.
+2019-10-01 14:06:48.3390|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-10-01 14:06:48.3390|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-10-01 14:06:48.3390|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	1
+2019-10-01 14:06:48.3390|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CED BRASHER
+2019-10-01 14:06:48.3390|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	9/10/2019 12:00:00 AM
+2019-10-01 14:06:48.3390|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CREDIT CARD
+2019-10-01 14:06:48.3520|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	EAE54417-56E7-4B61-AB2C-8F9B554E5729
+2019-10-01 14:06:48.3520|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-10-01 14:06:48.3520|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-10-01 14:06:48.3520|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-10-01 14:06:48.3520|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-10-01 14:06:48.3520|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	1 1
+2019-10-01 14:06:48.3520|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	2
+2019-10-01 14:06:48.3520|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo filtering and paging Payments, according to 
+ SEARCH: 25.59
+ Page Index: 2; Page Size: 1
+2019-10-01 14:06:48.3520|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	25.59
+2019-10-01 14:06:48.3780|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	9/13/2019
+2019-10-01 14:06:48.3780|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.3780|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	9/10/2019
+2019-10-01 14:06:48.3780|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.3780|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments over:	50.00$.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 1 Payments that match criteria.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments under:	60.00$.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments under:	25.59$.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 0 Payments that match criteria.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments over:	60.00$.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 0 Payments that match criteria.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	9/10/2019
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 0 Payments that match criteria.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	9/13/2019
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 0 Payments that match criteria.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	2
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo filtering and paging Payments, according to 
+ DATE: before 9/13/2019 12:00:00 AM
+ Page Index: 2; Page Size: 1
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	9/13/2019
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 1 from select Payment records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	3
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo filtering and paging Payments, according to 
+ DATE: after 9/10/2019 12:00:00 AM
+ Page Index: 2; Page Size: 1
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	9/10/2019
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 1 from select Payment records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo filtering and paging Payments, according to 
+ AMMOUNT: over than 50.00
+ Page Index: 2; Page Size: 1
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments over:	50.00$.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 1 from select Payment records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	2
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo filtering and paging Payments, according to 
+ AMMOUNT: under than 60.00
+ Page Index: 2; Page Size: 1
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments under:	60.00$.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 1 from select Payment records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.4010|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Amount
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Amount
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Amount
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Amount
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Amount
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Amount
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Amount
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Amount
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Date
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Date
+2019-10-01 14:06:48.4299|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Date
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Date
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4459|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4619|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Payment Method
+2019-10-01 14:06:48.4769|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records, sorted by: cust in ascending order, and displaying Page 2 of Size: 2.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records, sorted by: id in descending order, and displaying Page 2 of Size: 2.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.ID
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.5000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.5089|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo filtering Payments by: 25.59 and sorting them in ascending order by cust.
+2019-10-01 14:06:48.5089|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	25.59
+2019-10-01 14:06:48.5089|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo filtering Payments by: 25.59 and sorting them in descending order by date.
+2019-10-01 14:06:48.5089|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	25.59
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo getting Payments before 9/13/2019 and sorting them in ascending order by cust.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	9/13/2019
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: cust ascending.Customer
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo getting Payments before 9/13/2019 and sorting them in descending order by cust.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	9/13/2019
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: cust descending.Customer
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo getting Payments after 9/10/2019 and sorting them in ascending order by cust.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	9/10/2019
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: cust ascending.Customer
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo getting Payments after 9/10/2019 and sorting them in descending order by amt.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	9/10/2019
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: amt descending.Amount
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 14:06:48.5249|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.5530|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records filtered by: Ced, then sorting them in asending order by: amt and showing Page: 2 of Size: 2
+2019-10-01 14:06:48.5530|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo filtering Payments by: Ced and sorting them in ascending order by amt.
+2019-10-01 14:06:48.5530|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CED
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records filtered by: Ced, then sorting them in descending order by: date and showing Page: 2 of Size: 2
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo filtering Payments by: Ced and sorting them in descending order by date.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CED
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records before 9/10/2019, then sorting them in asending order by: id and showing Page: 2 of Size: 2
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo getting Payments before 9/10/2019 and sorting them in ascending order by id.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	9/10/2019
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 3 Payments that match criteria.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: id ascending.ID
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records before 9/10/2019, then sorting them in descending order by: cust and showing Page: 2 of Size: 2
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo getting Payments before 9/10/2019 and sorting them in descending order by cust.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	9/10/2019
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 3 Payments that match criteria.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: cust descending.Customer
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records after 3/21/2019, then sorting them in asending order by: id and showing Page: 2 of Size: 2
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo getting Payments after 3/21/2019 and sorting them in ascending order by id.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	3/21/2019
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 3 Payments that match criteria.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: id ascending.ID
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.5600|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.5789|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records after 3/21/2019, then sorting them in descending order by: cust and showing Page: 2 of Size: 2
+2019-10-01 14:06:48.5789|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo getting Payments after 3/21/2019 and sorting them in descending order by cust.
+2019-10-01 14:06:48.5789|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	3/21/2019
+2019-10-01 14:06:48.5789|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 3 Payments that match criteria.
+2019-10-01 14:06:48.5789|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: cust descending.Customer
+2019-10-01 14:06:48.5789|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.5789|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:06:48.5789|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:48.5789|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.5789|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.6139|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-10-01 14:06:48.6139|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-10-01 14:06:48.6139|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.6139|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records of payments by Customer ID: 3
+2019-10-01 14:06:48.6139|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Customer with ID:	1564179702. Details: Object reference not set to an instance of an object.
+Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestPaymentRepo.GetAllByCustomerId(Int32 custId) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestPaymentRepo.cs:line 90
+2019-10-01 14:06:48.6189|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retreiving Payments made by Customer:	3	NAME: Ced Brasher from Page: 2 of Size: 2
+2019-10-01 14:06:48.6189|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.6189|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:06:48.6189|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found: 1 Payments on requested page.
+2019-10-01 14:06:48.6189|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasher and filtering them by: 60.
+2019-10-01 14:06:48.6189|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.6189|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:06:48.6189|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	60
+2019-10-01 14:06:48.6189|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 0 Payments that match: 60
+2019-10-01 14:06:48.6189|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :0 records.
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherbefore 9/10/2019 12:00:00 AM.
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	9/10/2019
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherafter 3/17/2019 12:00:00 AM.
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	3/17/2019
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.6349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 14:06:48.6709|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retreiving Payments made by Customer:	3	NAME: Ced Brasher and sorting them in ascending order, according to criteria: date
+2019-10-01 14:06:48.6709|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.6709|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:06:48.6709|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: date ascending.Date
+2019-10-01 14:06:48.6709|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.6709|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retreiving Payments made by Customer:	3	NAME: Ced Brasher and sorting them in descending order, according to criteria: amt
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: amt descending.Amount
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher, filtering by: Cash and showing Page: 2 of Size: 1
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasher and filtering them by: Cash.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CASH
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match: CASH
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 1 from select Payment records.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher before 6/15/2019 and showing Page: 2 of Size: 2
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherbefore 6/15/2019 12:00:00 AM.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	6/15/2019
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 4 Payments that match criteria.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :4 records.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher after 6/15/2019 and showing Page: 2 of Size: 2
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherafter 6/15/2019 12:00:00 AM.
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	6/15/2019
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 1 Payments that match criteria.
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :1 records.
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 0 records.
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 0 records.
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher, Filtering by: Cash and Sorting in ascending order by: date
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasher and filtering them by: Cash.
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CASH
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match: CASH
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: date ascending.Date
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 14:06:48.7000|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher, Filtering by: Cash and Sorting in descending order by: date
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasher and filtering them by: Cash.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CASH
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match: CASH
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: date descending.Date
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments before 6/10/2019 made by Customer:	Ced Brasher and Sorting in ascending order by: meth
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherbefore 6/10/2019 12:00:00 AM.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	6/10/2019
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: meth ascending.Payment Method
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments before 6/10/2019 made by Customer:	Ced Brasher and Sorting in descending order by: meth
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherbefore 6/10/2019 12:00:00 AM.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	6/10/2019
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: meth descending.Payment Method
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments after 6/12/2019 made by Customer:	Ced Brasher and Sorting in ascending order by: payMeth
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherafter 6/12/2019 12:00:00 AM.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	6/12/2019
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: payMeth ascending.Payment Method
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments after 6/12/2019 made by Customer:	Ced Brasher and Sorting in descending order by: date
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherafter 6/12/2019 12:00:00 AM.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	6/12/2019
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: date descending.Date
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 14:06:48.7119|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:10:10.0723|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records after 6/12/2019, then sorting them in asending order by: meth and showing Page: 2 of Size: 2
+2019-10-01 14:10:10.0893|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo getting Payments after 6/12/2019 and sorting them in ascending order by meth.
+2019-10-01 14:10:10.0893|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	6/12/2019
+2019-10-01 14:10:10.0893|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 3 Payments that match criteria.
+2019-10-01 14:10:10.1083|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: meth ascending.Payment Method
+2019-10-01 14:10:10.1083|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:10:10.1083|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:10:10.1083|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:10:10.1083|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:10:10.1083|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:10:44.6820|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records after 6/12/2019, then sorting them in asending order by: meth and showing Page: 2 of Size: 2
+2019-10-01 14:10:44.6820|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo getting Payments after 6/12/2019 and sorting them in ascending order by meth.
+2019-10-01 14:10:44.6960|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	6/12/2019
+2019-10-01 14:10:44.6960|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 4 Payments that match criteria.
+2019-10-01 14:10:44.6960|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: meth ascending.Payment Method
+2019-10-01 14:10:44.6960|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|4 records found.
+2019-10-01 14:10:44.6960|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 4 records.
+2019-10-01 14:10:44.6960|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:10:44.7130|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:10:44.7130|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:12:42.9354|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records after 3/19/2019, then sorting them in descending order by: amt and showing Page: 2 of Size: 2
+2019-10-01 14:12:42.9504|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo getting Payments after 3/19/2019 and sorting them in descending order by amt.
+2019-10-01 14:12:42.9504|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	3/19/2019
+2019-10-01 14:12:42.9504|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 4 Payments that match criteria.
+2019-10-01 14:12:42.9674|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: amt descending.Amount
+2019-10-01 14:12:42.9674|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|4 records found.
+2019-10-01 14:12:42.9674|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 4 records.
+2019-10-01 14:12:42.9674|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:12:42.9674|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:12:42.9674|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:14:29.9712|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher after 6/10/2019 and showing Page: 2 of Size: 2
+2019-10-01 14:14:29.9882|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherafter 6/10/2019 12:00:00 AM.
+2019-10-01 14:14:29.9882|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:14:29.9882|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:14:29.9882|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	6/10/2019
+2019-10-01 14:14:29.9882|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 3 Payments that match criteria.
+2019-10-01 14:14:29.9882|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :3 records.
+2019-10-01 14:14:29.9932|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:14:29.9932|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:14:29.9932|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:14:47.5513|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher after 6/10/2019 and showing Page: 2 of Size: 2
+2019-10-01 14:14:47.5643|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherafter 6/10/2019 12:00:00 AM.
+2019-10-01 14:14:47.5643|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:14:47.5643|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 14:14:47.5643|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	6/10/2019
+2019-10-01 14:14:47.5643|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 3 Payments that match criteria.
+2019-10-01 14:14:47.5643|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :3 records.
+2019-10-01 14:14:47.5643|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 14:14:47.5643|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:14:47.5643|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:15:57.9808|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherafter 3/21/2019 12:00:00 AM.
+2019-10-01 14:15:57.9958|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:15:57.9958|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:15:57.9958|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	3/21/2019
+2019-10-01 14:15:57.9958|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 1 Payments that match criteria.
+2019-10-01 14:15:57.9958|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :1 records.
+2019-10-01 14:16:07.1147|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherafter 3/21/2019 12:00:00 AM.
+2019-10-01 14:16:07.1307|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:16:07.1307|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:16:07.1307|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed after:	3/21/2019
+2019-10-01 14:16:07.1307|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 1 Payments that match criteria.
+2019-10-01 14:16:07.1307|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :1 records.
+2019-10-01 14:17:15.2787|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherbefore 9/10/2019 12:00:00 AM.
+2019-10-01 14:17:15.2957|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:17:15.2957|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:17:15.2957|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	9/10/2019
+2019-10-01 14:17:15.2957|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:17:15.2957|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 14:17:40.4383|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasher and filtering them by: 60.00.
+2019-10-01 14:17:40.4543|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:17:40.4543|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:17:40.4543|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	60.00
+2019-10-01 14:17:40.4673|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 0 Payments that match: 60.00
+2019-10-01 14:17:40.4673|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :0 records.
+2019-10-01 14:18:44.4066|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasher and filtering them by: cash.
+2019-10-01 14:18:44.4166|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:18:44.4166|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:18:44.4166|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CASH
+2019-10-01 14:18:44.4166|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 1 Payments that match: CASH
+2019-10-01 14:18:44.4166|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :1 records.
+2019-10-01 14:19:02.6777|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasher and filtering them by: cash.
+2019-10-01 14:19:02.6907|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:19:02.6907|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:19:02.6907|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CASH
+2019-10-01 14:19:02.7007|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 1 Payments that match: CASH
+2019-10-01 14:19:02.7007|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :1 records.
+2019-10-01 14:43:05.0425|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasherover {6:0}
+2019-10-01 14:43:05.0425|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:43:05.0425|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:43:05.0425|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments under:	60$.
+2019-10-01 14:43:05.0425|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 1 Payments that match criteria.
+2019-10-01 14:43:05.0425|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 14:48:13.6776|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasherover {6:0}
+2019-10-01 14:48:13.6886|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:48:13.6886|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:48:13.6886|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments over:	60$.
+2019-10-01 14:48:13.6886|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:48:13.6886|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:50:41.4981|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasherover {6:0}
+2019-10-01 14:50:54.5917|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:50:57.9160|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:51:32.1625|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments over:	60$.
+2019-10-01 14:51:56.9221|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:52:04.7349|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:52:54.4305|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasherover {6:0}
+2019-10-01 14:52:54.4305|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:52:54.4305|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:52:54.4305|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments over:	60$.
+2019-10-01 14:52:54.4305|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 14:52:54.4305|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 14:55:18.4530|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retreiving Payments made by Customer:	3	NAME: Ced Brasher and sorting them in descending order, according to criteria: amt
+2019-10-01 14:55:18.4620|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:55:18.4620|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:55:18.4620|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: amt descending.Amount
+2019-10-01 14:55:18.4620|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:55:18.4620|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:56:01.6012|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retreiving Payments made by Customer:	3	NAME: Ced Brasher and sorting them in descending order, according to criteria: amt
+2019-10-01 14:56:01.6102|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:56:01.6102|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:56:01.6102|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: amt descending.Amount
+2019-10-01 14:56:01.6102|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:56:01.6102|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 14:57:33.9246|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retreiving Payments made by Customer:	3	NAME: Ced Brasher and sorting them in ascending order, according to criteria: date
+2019-10-01 14:57:33.9329|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 14:57:33.9329|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 14:57:33.9329|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: date ascending.Date
+2019-10-01 14:57:33.9329|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-01 14:57:33.9329|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records.
+2019-10-01 15:00:22.7747|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasherunder {12:0}
+2019-10-01 15:00:33.5421|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 15:00:40.7632|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 15:00:46.7205|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments under:	120$.
+2019-10-01 15:00:51.7861|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 15:00:54.6566|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 15:01:44.7985|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasherunder {12:0}
+2019-10-01 15:01:44.8085|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 15:01:44.8085|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 3 records of payments by Customer ID: 3
+2019-10-01 15:01:44.8085|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments under:	120$.
+2019-10-01 15:01:44.8085|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match criteria.
+2019-10-01 15:01:44.8085|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 15:03:20.0538|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher before 6/15/2019 and showing Page: 2 of Size: 2
+2019-10-01 15:03:20.0628|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherbefore 6/15/2019 12:00:00 AM.
+2019-10-01 15:03:20.0628|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 15:03:20.0628|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 15:03:20.0628|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	6/15/2019
+2019-10-01 15:03:20.0628|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 4 Payments that match criteria.
+2019-10-01 15:03:20.0628|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :4 records.
+2019-10-01 15:03:20.0628|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 15:03:20.0628|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 15:03:20.0628|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 15:04:19.2076|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher before 6/15/2019 and showing Page: 2 of Size: 2
+2019-10-01 15:04:19.2156|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasherbefore 6/15/2019 12:00:00 AM.
+2019-10-01 15:04:19.2156|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 15:04:19.2156|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 15:04:19.2156|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payments placed before:	6/15/2019
+2019-10-01 15:04:19.2156|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 4 Payments that match criteria.
+2019-10-01 15:04:19.2156|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :4 records.
+2019-10-01 15:04:19.2156|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-01 15:04:19.2156|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 15:04:19.2156|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 15:04:28.2173|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher, filtering by: Cash and showing Page: 2 of Size: 1
+2019-10-01 15:04:28.2173|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasher and filtering them by: Cash.
+2019-10-01 15:04:28.2173|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 15:04:28.2173|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 15:04:28.2273|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CASH
+2019-10-01 15:04:28.2273|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match: CASH
+2019-10-01 15:04:28.2273|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 15:04:28.2273|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 1 from select Payment records.
+2019-10-01 15:04:28.2273|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 15:04:28.2273|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 15:05:33.1826|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher, filtering by: Cash and showing Page: 2 of Size: 1
+2019-10-01 15:05:33.1826|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasher and filtering them by: Cash.
+2019-10-01 15:05:33.1826|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 15:05:33.1826|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 15:05:33.1826|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CASH
+2019-10-01 15:05:33.2006|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match: CASH
+2019-10-01 15:05:33.2006|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 15:05:33.2006|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 1 from select Payment records.
+2019-10-01 15:05:33.2006|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 15:05:33.2006|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 15:06:00.8510|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher Filtering by: cash, Sorting in ascending order by: date and showing Page: 2 of Size: 1
+2019-10-01 15:06:00.8620|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher, Filtering by: cash and Sorting in ascending order by: date
+2019-10-01 15:06:00.8620|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasher and filtering them by: cash.
+2019-10-01 15:06:00.8620|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 15:06:00.8620|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 15:06:00.8620|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CASH
+2019-10-01 15:06:00.8750|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match: CASH
+2019-10-01 15:06:00.8750|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 15:06:00.8880|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: date ascending.Date
+2019-10-01 15:06:00.8880|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 15:06:00.8880|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 15:06:00.8880|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 1 from select Payment records.
+2019-10-01 15:06:00.8880|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 15:06:00.8880|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 15:06:46.6762|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher Filtering by: cash, Sorting in ascending order by: date and showing Page: 2 of Size: 1
+2019-10-01 15:06:46.6852|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payments made by Customer:	Ced Brasher, Filtering by: cash and Sorting in ascending order by: date
+2019-10-01 15:06:46.6852|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by: Ced Brasher and filtering them by: cash.
+2019-10-01 15:06:46.6852|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Ced Brasher
+2019-10-01 15:06:46.6852|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 6 records of payments by Customer ID: 3
+2019-10-01 15:06:46.6852|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo searching Payment records by:	CASH
+2019-10-01 15:06:46.6852|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found 2 Payments that match: CASH
+2019-10-01 15:06:46.6852|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved :2 records.
+2019-10-01 15:06:46.7022|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching  Payments, sorted by: date ascending.Date
+2019-10-01 15:06:46.7022|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|2 records found.
+2019-10-01 15:06:46.7022|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 2 records.
+2019-10-01 15:06:46.7022|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 1 from select Payment records.
+2019-10-01 15:06:46.7022|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-01 15:06:46.7022|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.

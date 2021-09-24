@@ -1,0 +1,174 @@
+﻿<Window x:Class="DragonDrop.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DragonDrop.WPF"
+        xmlns:my="clr-namespace:System;assembly=mscorlib"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:beh="clr-namespace:DragonDrop.WPF"
+        xmlns:ff="clr-namespace:DragonDrop.WPF.Helpers"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="470" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <Grid.Resources>
+            
+                <Style x:Key="LinkBtnTxtBlk" TargetType="TextBlock">
+                    <Setter Property="Foreground" Value="LightBlue"/>
+                    <Setter Property="TextDecorations" Value="Underline"/>
+                </Style>
+                <Style x:Key="LinkBtn" TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Setter Property="BorderBrush" Value="Transparent"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                    <Setter Property="Width" Value="100"/>
+                    <Setter Property="HorizontalAlignment" Value="Left"/>
+                </Style>
+                <Style x:Key="LoginField" TargetType="StackPanel">
+                    <Setter Property="Margin" Value="0 0 0 30"/>
+                </Style>
+                <Style x:Key="LoginWarn" TargetType="Label">
+                    <Setter Property="Foreground" Value="Crimson"/>
+                    <Setter Property="FontWeight" Value="ExtraBold"/>
+                    <Setter Property="Margin" Value="10 0"/>
+                    <Setter Property="Visibility" Value="Hidden"/>
+                </Style>
+                <my:Double x:Key="InputTextBoxHeight">36</my:Double>
+                <Style x:Key="InputTextBoxStyle" TargetType="TextBox">
+                    <Setter Property="Height" Value="{StaticResource InputTextBoxHeight}"/>
+                    <Setter Property="Background" Value="Gold"/>
+                    <Setter Property="Width" Value="400"/>
+                    <Setter Property="TextAlignment" Value="Center"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    <Setter Property="FontSize" Value="16"/>
+                </Style>
+                <Style x:Key="PasswordBoxStyle" TargetType="PasswordBox">
+                    <Setter Property="Height" Value="{StaticResource InputTextBoxHeight}"/>
+                    <Setter Property="Background" Value="Gold"/>
+                    <Setter Property="Width" Value="400"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    <Setter Property="FontSize" Value="16"/>
+                </Style>
+                <Style x:Key="VersionLabelsStyle" TargetType="Label">
+                    <Setter Property="FontSize" Value="16" />
+                    <Setter Property="Padding" Value="5,5,5,0"/>
+                </Style>
+                <Style x:Key="AccessButtonStyle" TargetType="Button">
+                    <Setter Property="FontSize" Value="28"/>
+                    <Setter Property="FontFamily" Value="Open Sans Semibold"/>
+                    <Setter Property="Padding" Value="10"/>
+                    <Setter Property="Margin" Value="0 0 20 20"/>
+                </Style>
+            
+        </Grid.Resources>
+
+        <!--Help Buttons-->
+        <StackPanel Orientation="Vertical"   VerticalAlignment="Top" Margin="20">
+
+            <Button Style="{StaticResource LinkBtn}" Click="ForgetBtn_Click" KeyUp="ForgetBtn_KeyUp">
+                <TextBlock Text="Having Trouble?" Style="{StaticResource LinkBtnTxtBlk}"/>
+        </Button>
+            <Button Style="{StaticResource LinkBtn}" Click="RegisterBtn_Click" KeyUp="RegisterBtn_KeyUp">
+                <TextBlock Text="Register?" Style="{StaticResource LinkBtnTxtBlk}"/>
+            </Button>
+        </StackPanel>
+
+        <!--Central Stack-->
+        <StackPanel Orientation="Vertical"  HorizontalAlignment="Center">
+
+            <!--#region Banner-->
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="0 32 0 0">
+
+                <Image Source="./Art/dragon.png" Width="100" VerticalAlignment="Center"/>
+                <Label Content="Dragon Drop Store"  FontSize="40" VerticalAlignment="Center" FontWeight="Heavy" FontFamily="Segoe UI Semibold"/>
+            </StackPanel>
+            <!--#endregion-->
+            
+            <Label Content="Login" HorizontalAlignment="Left" FontSize="28" VerticalAlignment="Top" Padding="0" Margin="110 0"/>
+            
+            <!--#region Address-->
+            <StackPanel Orientation="Vertical" Style="{StaticResource LoginField}">
+                <StackPanel Orientation="Vertical">
+                    
+                    <StackPanel Orientation="Horizontal">
+                    <Label Content="E-mail or Account"/>
+                        <Label Content="Not Recognized. Please use a valid E-mail or Account." Style="{StaticResource LoginWarn}"
+                               Visibility="{Binding Path=AdrErrorVisibility, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal">
+                        <TextBox x:Name="AdrBox"
+                                Text="{Binding Path=AdrBoxText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                                 Style="{StaticResource InputTextBoxStyle}"  TextAlignment="Center"
+                                 KeyUp="AdrBox_KeyUp" Tag="LosslessTxtBox">
+                            <i:Interaction.Behaviors>
+                                <beh:EventToCommandBehavior Command="{Binding AdrBoxTextChangedCommand}" Event="TextChanged" PassArguments="False"/>
+                            </i:Interaction.Behaviors>
+                        </TextBox>
+                        <Image x:Name="AdrApproved" 
+                            Source="./Art/check.png" Height="{StaticResource InputTextBoxHeight}"
+                               Visibility="{Binding Path=AdrApprovedVisibility, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <!--#endregion-->
+
+            <!--#region  Password-->
+            <StackPanel Orientation="Vertical" Style="{StaticResource LoginField}" Margin="0 0 0 15">
+                <StackPanel Orientation="Vertical">
+
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Password"/>
+                        <Label Content="Mismatch" Style="{StaticResource LoginWarn}"
+                               Visibility="{Binding Path=PassErrorVisibility}"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Vertical">
+                            <PasswordBox x:Name="PassBox" KeyUp="PassBox_KeyUp"
+                                     Style="{StaticResource PasswordBoxStyle}">
+                                <i:Interaction.Behaviors>
+                                    <beh:EventToCommandBehavior Command="{Binding PassBoxTextChangedCommand}" Event="PasswordChanged" PassArguments="False"/>
+                                </i:Interaction.Behaviors>
+                            </PasswordBox>
+
+                        </StackPanel>
+                        <Image x:Name="PassApproved"
+                                Source="./Art/check.png" Height="{StaticResource InputTextBoxHeight}" 
+                               Visibility="{Binding Path=PassApprovedVisibility, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                               VerticalAlignment="Top"/>
+                    </StackPanel>
+
+                </StackPanel>
+                <!--#endregion-->
+
+            </StackPanel>
+
+            <!--#region Access Button-->
+            <Grid HorizontalAlignment="Right">
+                
+<Button Content="Access" HorizontalAlignment="Right" Style="{StaticResource AccessButtonStyle}" Click="AccessButton_Click" KeyUp="Access_KeyUp">
+                <Button.Background>
+                    <LinearGradientBrush StartPoint="0, 0" EndPoint="1, 1">
+                        <GradientStop Color="#FFFFFF" Offset="0.8"/>
+                        <GradientStop Color="DarkViolet" Offset="-0.4"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+                
+            </Grid>
+            <!--#endregion-->
+            
+        </StackPanel>
+
+        <!--Version Copyright-->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Bottom" ToolTip="schaman0@hexun.com || 202">
+            <Label x:Name="VersionLabel" Content="Version: unknown" Style="{StaticResource VersionLabelsStyle}"/>
+            <Label x:Name="CopyrightLabel" Content="Configuration file corrupt" Style="{StaticResource VersionLabelsStyle}"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

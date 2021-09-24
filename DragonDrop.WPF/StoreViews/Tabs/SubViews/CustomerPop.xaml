@@ -1,0 +1,89 @@
+﻿<Window x:Class="DragonDrop.WPF.StoreViews.Tabs.SubViews.CustomerPop"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.SubViews"
+             mc:Ignorable="d"  WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" ResizeMode="NoResize" SizeToContent="WidthAndHeight" 
+        Background="AliceBlue">
+
+    <Window.Resources>
+        
+            <Style TargetType="TextBlock">
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="HorizontalAlignment" Value="Left"/>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="{x:Null}"/>
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+            </Style>
+            <SolidColorBrush x:Key="AlternateRowBg" Color="GoldenRod"/>
+        
+    </Window.Resources>
+    
+    <StackPanel Background="AliceBlue">
+        <DockPanel Margin="4">
+                <Image Source="pack://application:,,,/Art/customers.png" Height="60" DockPanel.Dock="Left" Margin="0"/>
+            <StackPanel Orientation="Vertical" DockPanel.Dock="Left" Margin="0">
+            <TextBlock Text="{Binding Name}" Width="260" Margin="0" Padding="0" FontSize="24"/>
+                <StackPanel Orientation="Horizontal" Width="260" Margin="0">
+                    <Label Content="ID: " Margin="0" Padding="0" VerticalContentAlignment="Center" FontSize="16"/>
+                    <TextBlock  Text="{Binding CustomerId}" Margin="0" Padding="0" FontSize="18" Width="230"/>
+                </StackPanel>
+            </StackPanel>
+            </DockPanel>
+        <StackPanel Orientation="Horizontal" Background="{StaticResource AlternateRowBg}">
+            <Image Source="pack://application:,,,/Art/mail.png" Height="30" Margin="4"/>
+            <TextBlock Text="{Binding Email}" Background="{x:Null}" VerticalAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Image Source="pack://application:,,,/Art/phoneReceiver.png" Margin="4" Height="30"/>
+        <TextBlock Text="{Binding Phone}" VerticalAlignment="Center" Background="{x:Null}"/>
+        </StackPanel>
+        <StackPanel x:Name="AddressStack" Orientation="Vertical" Visibility="Collapsed">
+            <StackPanel.Resources>
+                
+                    <Style TargetType="Image">
+                        <Setter Property="Height" Value="24"/>
+                        <Setter Property="Margin" Value="4"/>
+                    </Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="18"/>
+                    </Style>
+                    <Style TargetType="StackPanel">
+                        <Setter Property="Orientation" Value="Horizontal"/>
+                    </Style>
+                
+            </StackPanel.Resources>
+            <StackPanel Background="{StaticResource AlternateRowBg}">
+                <Image Source="pack://application:,,,/Art/mapMarker.png"/>
+                <TextBlock Text="{Binding Address}"/>
+            </StackPanel>
+            <StackPanel>
+                <Image Source="pack://application:,,,/Art/cityBuildings.png"/>
+                <TextBlock Text="{Binding City}"/>
+            </StackPanel>
+        <StackPanel Background="{StaticResource AlternateRowBg}">
+                <Image  Source="pack://application:,,,/Art/state.png"/>
+                <TextBlock Text="{Binding State}"/>
+            </StackPanel>
+            </StackPanel>
+        <Button Click="Button_Click" Background="LemonChiffon">
+            <StackPanel Orientation="Horizontal">
+            <Image Source="pack://application:,,,/Art/orderItem.png" Height="42"/>
+                <Label Name="AdrBtnLabel" Content="Address Details" Foreground="LightSlateGray" VerticalContentAlignment="Center" FontSize="16"/>
+            </StackPanel>
+        </Button>
+        <StackPanel Orientation="Horizontal" Background="LemonChiffon">
+            <Button Width="160" Click="Close_Click"
+                    ToolTip="Close Window">
+                <Image Source="pack://application:,,,/Art/close.png" Height="30"/>
+            </Button>
+            <Button Width="160" Click="Edit_Click" 
+                    ToolTip="Edit Customer Details">
+                <Image Source="pack://application:,,,/Art/pencil.png" Height="30"/>
+            </Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

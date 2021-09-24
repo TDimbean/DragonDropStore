@@ -1,0 +1,76 @@
+2019-09-19 08:31:25.0567|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-19 08:31:25.2347|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	753354364
+2019-09-19 08:31:25.2347|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	753354364
+2019-09-19 08:31:25.2347|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.2347|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-19 08:31:25.2447|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-09-19 08:31:25.2447|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-09-19 08:31:25.2447|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.2447|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|4 records found.
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.5047|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-19 08:31:25.5147|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.5147|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-19 08:31:25.5147|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	327107394
+2019-09-19 08:31:25.5147|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	327107394
+2019-09-19 08:31:25.5147|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	327107394
+2019-09-19 08:31:25.5327|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer record with ID:	327107394 to update. Details: Object reference not set to an instance of an object.
+Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.Update(Customer cust) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 39
+2019-09-19 08:31:25.5327|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-19 08:31:25.5327|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.5327|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-19 08:31:25.5327|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.5327|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 3 of size 1 from all Customer records.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 1 of size 2 from all Customer records.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 2 records.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 2 of size 2 from all Customer records.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 1 of size 13 from all Customer records.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 3 records.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 13 of size 1 from all Customer records.
+2019-09-19 08:31:25.6067|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 0 records.
+2019-09-19 08:31:25.6337|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	SHAYNA CHAMAN
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: SHAYNA CHAMAN
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	SCHAMAN0@HEXUN.COM
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: SCHAMAN0@HEXUN.COM
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	SCHAMAN0@HEXUN.COM
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: SCHAMAN0@HEXUN.COM
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	WASHINGTON
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: WASHINGTON
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	CALIFORNIA
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: CALIFORNIA
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	George Claudius
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tGeorge Claudius succesfully registered.
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	WY
+2019-09-19 08:31:25.6507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: WY
+2019-09-19 08:31:25.6667|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	D7671432-F68F-4488-B299-68A20ECC6959
+2019-09-19 08:31:25.6667|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 0 Customers that match: D7671432-F68F-4488-B299-68A20ECC6959
+2019-09-19 08:31:25.6667|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	SHAYNA REGINE
+2019-09-19 08:31:25.6667|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 2 Customers that match: SHAYNA REGINE
+2019-09-19 08:31:25.6667|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	2
+2019-09-19 08:31:25.6667|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering and paging Customers, according to 
+ SEARCH: of
+ Page Index: 2; Page Size: 1
+2019-09-19 08:31:25.6667|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	OF
+2019-09-19 08:31:25.6667|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 2 Customers that match: OF
+2019-09-19 08:31:25.6667|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 2 of size 1 from filtered Customer records.
+2019-09-19 08:31:25.6667|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.

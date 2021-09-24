@@ -1,0 +1,52 @@
+2019-12-13 07:03:46.9442|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-13 07:03:46.9732|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-13 07:03:46.9732|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-13 07:03:46.9732|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-13 07:03:47.2782|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-13 07:03:47.2782|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-13 07:03:47.2782|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-13 07:03:47.2782|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-13 07:03:47.9052|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-13 07:03:47.9052|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-13 07:03:47.9052|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-13 07:03:47.9052|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-13 07:03:47.9052|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-13 07:03:47.9052|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-13 07:03:47.9052|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-13 07:03:47.9052|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-13 08:09:01.1824|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-13 08:09:01.1824|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-13 08:09:01.1824|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-13 08:09:01.1824|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-13 08:09:01.2904|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-13 08:09:01.2904|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-13 08:09:01.2904|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-13 08:09:01.2904|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-13 16:01:22.4930|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-13 16:01:22.5170|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-13 16:01:22.5170|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-13 16:01:22.5170|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-13 16:01:22.7570|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-13 16:01:22.7570|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-13 16:01:22.7570|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-13 16:01:22.7570|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-13 16:01:22.8440|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-13 16:01:22.8440|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-13 16:01:22.8440|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-13 16:01:22.8440|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-13 16:01:22.8440|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-13 16:01:22.8440|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-13 16:01:22.8440|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-13 16:01:22.8440|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-13 16:01:22.8600|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-13 16:01:22.8600|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-13 16:01:22.8600|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-13 16:01:22.8600|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-13 16:01:22.8670|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-13 16:01:22.8670|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-13 16:01:22.8670|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-13 16:01:22.8670|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-13 16:01:22.8670|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-13 16:01:22.8670|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-13 16:01:22.8670|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-13 16:01:22.8670|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.

@@ -1,0 +1,144 @@
+2019-12-12 08:43:58.0340|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-12 08:43:58.0450|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-12-12 08:43:58.1359|INFO|DragonDrop.DAL.Implementation.CustomerRepository|47 records found.
+2019-12-12 08:43:58.1359|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 47 records.
+2019-12-12 08:44:03.7401|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@h, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:03.7461|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@he, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:03.8943|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hex, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:04.0170|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexu, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:04.1243|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:04.4597|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun., but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:04.6676|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun.c, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:04.8465|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun.co, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:05.7711|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-12 08:44:05.7711|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-12-12 08:44:05.9491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-12 08:44:05.9491|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-12-12 08:44:06.0451|INFO|DragonDrop.DAL.Implementation.ProductRepository|78 records found.
+2019-12-12 08:44:06.0451|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 78 records from Repo.
+2019-12-12 08:44:06.0751|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-12-12 08:44:06.1341|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-12-12 08:44:06.1341|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo found: 7 orders placed by Customer with ID: 1
+2019-12-12 08:44:06.1341|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 7 records from Repo.
+2019-12-12 08:44:06.1801|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-12 08:44:06.1801|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-12 08:44:06.1801|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 3 records of payments by Customer ID: 1
+2019-12-12 08:44:06.1801|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 3 records from Repo.
+2019-12-12 08:44:10.6306|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-12 08:44:10.6306|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching Product with ID:	1
+2019-12-12 08:44:10.6336|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-12 08:44:11.4170|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	2 from Repo.
+2019-12-12 08:44:11.4170|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching Product with ID:	2
+2019-12-12 08:44:11.4170|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-12 08:44:31.9847|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-12 08:44:32.0567|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-12-12 08:44:32.1997|INFO|DragonDrop.DAL.Implementation.CustomerRepository|47 records found.
+2019-12-12 08:44:32.1997|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 47 records.
+2019-12-12 08:44:37.8936|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@h, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:37.9647|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@he, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:38.0806|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hex, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:38.1647|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexu, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:38.2427|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:38.4827|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun., but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:38.7686|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun.c, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:38.9107|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun.co, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:44:39.8377|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-12 08:44:39.8377|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-12-12 08:44:39.9906|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-12 08:44:39.9916|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-12-12 08:44:40.0217|INFO|DragonDrop.DAL.Implementation.ProductRepository|78 records found.
+2019-12-12 08:44:40.0217|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 78 records from Repo.
+2019-12-12 08:44:40.0737|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-12-12 08:44:40.1627|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-12-12 08:44:40.1717|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo found: 7 orders placed by Customer with ID: 1
+2019-12-12 08:44:40.1717|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 7 records from Repo.
+2019-12-12 08:44:40.2407|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-12 08:44:40.2437|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-12 08:44:40.2687|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 3 records of payments by Customer ID: 1
+2019-12-12 08:44:40.2687|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 3 records from Repo.
+2019-12-12 08:44:43.4381|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-12 08:44:43.4381|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching Product with ID:	1
+2019-12-12 08:44:43.4461|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-12 08:44:44.2261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	2 from Repo.
+2019-12-12 08:44:44.2261|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching Product with ID:	2
+2019-12-12 08:44:44.2261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-12 08:46:05.1092|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-12 08:46:05.1272|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-12-12 08:46:05.1962|INFO|DragonDrop.DAL.Implementation.CustomerRepository|47 records found.
+2019-12-12 08:46:05.1962|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 47 records.
+2019-12-12 08:46:09.2501|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@h, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:46:09.3271|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@he, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:46:09.4691|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hex, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:46:09.5621|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexu, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:46:09.6351|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:46:09.9001|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun., but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:46:10.0651|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun.c, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:46:10.1951|ERROR|DragonDrop.DAL.Implementation.CustomerRepository|Repo tried to fetch Account by Email: schaman0@hexun.co, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.DAL.Implementation.CustomerRepository.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.DAL\Implementation\CustomerRepository.cs:line 233
+2019-12-12 08:46:11.0211|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-12 08:46:11.0211|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-12-12 08:46:11.1401|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-12 08:46:11.1401|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-12-12 08:46:11.1581|INFO|DragonDrop.DAL.Implementation.ProductRepository|78 records found.
+2019-12-12 08:46:11.1581|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 78 records from Repo.
+2019-12-12 08:46:11.1981|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-12-12 08:46:11.2841|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-12-12 08:46:11.2901|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo found: 7 orders placed by Customer with ID: 1
+2019-12-12 08:46:11.2901|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 7 records from Repo.
+2019-12-12 08:46:11.3731|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-12 08:46:11.3731|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-12 08:46:11.4081|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 3 records of payments by Customer ID: 1
+2019-12-12 08:46:11.4081|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 3 records from Repo.
+2019-12-12 08:46:15.0427|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-12 08:46:15.0427|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching Product with ID:	1
+2019-12-12 08:46:15.0427|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-12 08:46:15.8797|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	2 from Repo.
+2019-12-12 08:46:15.8797|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching Product with ID:	2
+2019-12-12 08:46:15.8797|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.

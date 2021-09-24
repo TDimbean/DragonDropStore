@@ -1,0 +1,28 @@
+2019-12-11 12:50:19.2290|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 12:50:19.2290|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-12-11 12:50:19.4079|INFO|DragonDrop.DAL.Implementation.CustomerRepository|47 records found.
+2019-12-11 12:50:19.4079|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 47 records.
+2019-12-11 12:50:29.5958|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	kuh from Repo.
+2019-12-11 12:50:29.5958|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo searching Customer records by:	KUH
+2019-12-11 12:50:29.7369|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo found 0 Customers that match: KUH
+2019-12-11 12:50:29.7369|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 0 from Repo.
+2019-12-11 12:50:35.5529|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 12:50:35.5529|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-12-11 12:50:35.5529|INFO|DragonDrop.DAL.Implementation.CustomerRepository|47 records found.
+2019-12-11 12:50:35.5529|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 47 records.
+2019-12-11 14:12:09.9913|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 14:12:10.0064|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-12-11 14:12:10.1003|INFO|DragonDrop.DAL.Implementation.CustomerRepository|47 records found.
+2019-12-11 14:12:10.1003|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 47 records.
+2019-12-11 14:13:04.5100|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 14:13:04.5100|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-12-11 14:13:04.5120|INFO|DragonDrop.DAL.Implementation.CustomerRepository|47 records found.
+2019-12-11 14:13:04.5120|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 47 records.
+2019-12-11 14:13:13.1140|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 14:13:13.1140|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-12-11 14:13:13.1140|INFO|DragonDrop.DAL.Implementation.CustomerRepository|47 records found.
+2019-12-11 14:13:13.1140|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 47 records.
+2019-12-11 15:55:49.2892|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-11 15:55:49.3052|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-12-11 15:55:49.4002|INFO|DragonDrop.DAL.Implementation.CustomerRepository|47 records found.
+2019-12-11 15:55:49.4002|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 47 records.

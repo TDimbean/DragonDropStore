@@ -1,0 +1,60 @@
+2019-10-28 07:04:45.9561|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Reggie Ulric
+2019-10-28 07:04:45.9561|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tReggie Ulric succesfully registered.
+2019-10-28 07:13:38.6949|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Reggie Ulric
+2019-10-28 07:13:38.7159|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tReggie Ulric succesfully registered.
+2019-10-28 07:13:38.7229|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo tried to fetch Account by Email: schaman0@hexun.com, but found multiple Customers using the same E-mail Address. Please check the repo.
+2019-10-28 08:15:02.3721|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo tried to extract an Account's password by the Customer ID: 481066473, but could not find said ID.
+Exception Details: Object reference not set to an instance of an object.
+ Stack Trace:    at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.GetPassByCustomerId(Int32 custId) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 242
+2019-10-28 08:20:53.6193|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Reggie Ulric
+2019-10-28 08:20:53.6283|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tReggie Ulric succesfully registered.
+2019-10-28 08:20:53.6763|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo tried to fetch Account by Email: schaman0@hexun.com, but found multiple Customers using the same E-mail Address. Please check the repo. 
+Exception details: Sequence contains more than one matching element
+Stack Trace:    at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 228
+2019-10-28 08:25:44.3628|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo tried to fetch Account by Email: uFDKqfNVwhrtRkKAONXPPUYgeZsumR, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 228
+2019-10-28 08:25:53.4179|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Reggie Ulric
+2019-10-28 08:25:53.4279|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tReggie Ulric succesfully registered.
+2019-10-28 08:25:53.4599|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo tried to fetch Account by Email: schaman0@hexun.com, but found multiple Customers using the same E-mail Address. Please check the repo. 
+Exception details: Sequence contains more than one matching element
+Stack Trace:    at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 228
+2019-10-28 08:26:04.5393|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo tried to extract an Account's password by the Customer ID: 1791744433, but could not find said ID.
+Exception Details: Object reference not set to an instance of an object.
+ Stack Trace:    at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.GetPassByCustomerId(Int32 custId) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 247
+2019-10-28 08:50:13.7723|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo tried to fetch Account by Email: EQafMsjisnQSZgIypCoD@gmail.com, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 228
+2019-10-28 08:50:13.7953|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer creation request to Repo. Name:	William Wallace
+2019-10-28 08:50:13.7953|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	William Wallace
+2019-10-28 08:50:13.7953|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWilliam Wallace succesfully registered.
+2019-10-28 08:50:13.7953|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-10-28 08:50:13.8523|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo tried to fetch Account by Email: schaman0@hexun.com, but found multiple Customers using the same E-mail Address. Please check the repo. 
+Exception details: Sequence contains more than one matching element
+Stack Trace:    at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 228
+2019-10-28 11:50:52.8547|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo tried to fetch Account by Email: schaman0@hexu.com, but found no Customer using the given E-mail Address. Please check the repo. 
+Exception details: Object reference not set to an instance of an object.
+Stack Trace:    at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.FindIdByEmail(String email) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 228
+2019-10-28 12:31:48.6574|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer creation request to Repo. Name:	Will Smith
+2019-10-28 12:31:48.6994|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-10-28 12:31:48.6994|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-10-28 12:31:48.6994|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-10-28 12:55:04.9125|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Email must be in a valid format ([account]@[provider].[domainAbreviation]).
+2019-10-28 12:55:04.9235|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-10-28 12:55:04.9235|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-10-28 12:55:04.9235|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-10-28 12:55:04.9235|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-10-28 12:58:08.1996|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Email must be in a valid format ([account]@provider[DOT]domainAbreviation).
+2019-10-28 12:58:08.2126|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-10-28 12:58:08.2126|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-10-28 12:58:08.2126|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-10-28 12:58:08.2126|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-10-28 13:09:57.2387|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Email must be in a valid format ([account]@provider[DOT]domainAbreviation).
+2019-10-28 13:09:57.2897|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-10-28 13:09:57.2897|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1

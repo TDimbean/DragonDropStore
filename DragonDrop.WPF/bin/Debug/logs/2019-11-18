@@ -1,0 +1,577 @@
+2019-11-18 06:38:55.4317|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 06:38:55.4627|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 06:39:03.0338|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 06:39:03.0338|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 06:39:14.1323|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 06:39:14.1323|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 06:39:14.1323|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 06:39:14.1323|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 06:39:14.1653|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-18 06:39:14.1653|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-18 06:39:14.1873|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-18 06:39:14.1873|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-18 06:39:14.2043|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-18 06:39:14.2043|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-18 06:39:14.2213|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-18 06:39:14.2213|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-18 06:39:14.2213|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-18 06:39:14.2213|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-18 06:39:14.2743|INFO|DragonDrop.DAL.Implementation.ProductRepository|77 records found.
+2019-11-18 06:39:14.2743|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 77 records from Repo.
+2019-11-18 06:39:14.3453|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 06:39:14.3453|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 06:39:14.3583|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 06:39:14.3583|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 06:39:24.8380|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-11-18 06:39:24.8380|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Derek
+2019-11-18 06:39:24.8500|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 3 records of payments by Customer ID: 1
+2019-11-18 06:39:24.8500|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 3 records from Repo.
+2019-11-18 06:39:28.9479|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 06:39:28.9479|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:39:28.9479|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:39:28.9479|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 06:39:38.9345|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 under 200.0:$ from Repo.
+2019-11-18 06:39:38.9345|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching Payments made by Customer:	Regine Reimersunder {20:0}
+2019-11-18 06:39:38.9345|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:39:38.9345|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:39:38.9345|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payments under:	200$.
+2019-11-18 06:39:38.9345|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 2 Payments that match criteria.
+2019-11-18 06:39:38.9345|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 2 records.
+2019-11-18 06:39:38.9396|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 2 records from Repo.
+2019-11-18 06:39:42.8750|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 over 200.0:$ from Repo.
+2019-11-18 06:39:42.8750|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching Payments made by Customer:	Regine Reimersover {20:0}
+2019-11-18 06:39:42.8750|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:39:42.8750|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:39:42.8750|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payments over:	200.00$.
+2019-11-18 06:39:42.8750|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 2 Payments that match criteria.
+2019-11-18 06:39:42.8750|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 2 records.
+2019-11-18 06:39:42.8750|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 2 records from Repo.
+2019-11-18 06:39:54.5262|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 06:39:54.5262|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:39:54.5262|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:39:54.5262|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 06:40:02.6930|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Servive requesting page: 1 of size: 2 from Customer with ID: 2's Payments.
+2019-11-18 06:40:02.6930|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retreiving Payments made by Customer:	2	NAME: Regine Reimers from Page: 1 of Size: 2
+2019-11-18 06:40:02.6930|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:02.6930|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:02.6930|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found: 2 Payments on requested page.
+2019-11-18 06:40:02.6930|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got: 2 records from Repo.
+2019-11-18 06:40:02.6930|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 06:40:02.6930|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:02.6930|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:02.6930|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 06:40:04.4485|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Servive requesting page: 2 of size: 2 from Customer with ID: 2's Payments.
+2019-11-18 06:40:04.4485|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retreiving Payments made by Customer:	2	NAME: Regine Reimers from Page: 2 of Size: 2
+2019-11-18 06:40:04.4485|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:04.4485|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:04.4485|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found: 2 Payments on requested page.
+2019-11-18 06:40:04.4485|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got: 2 records from Repo.
+2019-11-18 06:40:04.4485|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 06:40:04.4485|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:04.4485|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:04.4485|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 06:40:05.9144|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Servive requesting page: 1 of size: 2 from Customer with ID: 2's Payments.
+2019-11-18 06:40:05.9144|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retreiving Payments made by Customer:	2	NAME: Regine Reimers from Page: 1 of Size: 2
+2019-11-18 06:40:05.9144|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:05.9144|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:05.9144|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found: 2 Payments on requested page.
+2019-11-18 06:40:05.9144|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got: 2 records from Repo.
+2019-11-18 06:40:05.9144|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 06:40:05.9144|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:05.9144|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:05.9144|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 06:40:11.5072|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Servive requesting page: 1 of size: 7 from Customer with ID: 2's Payments.
+2019-11-18 06:40:11.5072|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retreiving Payments made by Customer:	2	NAME: Regine Reimers from Page: 1 of Size: 7
+2019-11-18 06:40:11.5072|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:11.5072|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:11.5072|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found: 4 Payments on requested page.
+2019-11-18 06:40:11.5072|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got: 4 records from Repo.
+2019-11-18 06:40:11.5072|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 06:40:11.5072|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:11.5072|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:11.5072|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 06:40:22.9820|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 and Filtered by: wire from Repo.
+2019-11-18 06:40:22.9820|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by: Regine Reimers and filtering them by: wire.
+2019-11-18 06:40:22.9820|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:22.9820|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:22.9820|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	WIRE
+2019-11-18 06:40:23.0711|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 0 Payments that match: WIRE
+2019-11-18 06:40:23.0711|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved :0 records.
+2019-11-18 06:40:23.0711|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 0 records from Repo.
+2019-11-18 06:40:29.7390|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 and Filtered by: cash from Repo.
+2019-11-18 06:40:29.7390|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by: Regine Reimers and filtering them by: cash.
+2019-11-18 06:40:29.7390|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:29.7390|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:29.7390|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CASH
+2019-11-18 06:40:29.7390|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 1 Payments that match: CASH
+2019-11-18 06:40:29.7390|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved :1 records.
+2019-11-18 06:40:29.7390|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-11-18 06:40:34.9297|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 06:40:34.9297|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:34.9297|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:34.9297|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 06:40:47.0213|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 Sorted by: amount in ascending order from Repo.
+2019-11-18 06:40:47.0213|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retreiving Payments made by Customer:	2	NAME: Regine Reimers and sorting them in ascending order, according to criteria: amount
+2019-11-18 06:40:47.0213|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:40:47.0213|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:40:47.0213|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching  Payments, sorted by: amount ascending.Amount
+2019-11-18 06:40:47.0213|INFO|DragonDrop.DAL.Implementation.PaymentRepository|4 records found.
+2019-11-18 06:40:47.0213|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records.
+2019-11-18 06:40:47.0213|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 06:41:05.2476|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 06:41:05.2476|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 06:41:05.2476|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 06:41:05.2476|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 06:41:08.9487|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 06:41:08.9487|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 06:41:08.9487|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 06:41:08.9487|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 06:41:10.8832|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 06:41:10.8832|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 06:41:10.8832|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 06:41:10.8832|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 06:50:13.4860|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 06:50:13.5000|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 06:50:19.4899|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 06:50:19.4899|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 06:50:27.5637|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 06:50:27.5637|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 06:50:27.5667|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 06:50:27.5667|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 06:50:27.5897|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-18 06:50:27.5897|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-18 06:50:27.6057|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-18 06:50:27.6057|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-18 06:50:27.6207|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-18 06:50:27.6207|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-18 06:50:27.6397|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-18 06:50:27.6397|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-18 06:50:27.6667|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-18 06:50:27.6667|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-18 06:50:27.7547|INFO|DragonDrop.DAL.Implementation.ProductRepository|77 records found.
+2019-11-18 06:50:27.7547|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 77 records from Repo.
+2019-11-18 06:50:27.8377|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 06:50:27.8377|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 06:50:27.8537|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 06:50:27.8537|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 06:50:59.5871|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 06:50:59.6191|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 06:51:05.4787|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 06:51:05.4787|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 06:51:14.4736|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 06:51:14.4736|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 06:51:14.4736|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 06:51:14.4736|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 06:51:14.5456|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-18 06:51:14.5456|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-18 06:51:14.6016|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-18 06:51:14.6016|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-18 06:51:14.6516|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-18 06:51:14.6516|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-18 06:51:14.7036|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-18 06:51:14.7036|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-18 06:51:14.7586|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-18 06:51:14.7586|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-18 06:51:14.8558|INFO|DragonDrop.DAL.Implementation.ProductRepository|77 records found.
+2019-11-18 06:51:14.8558|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 77 records from Repo.
+2019-11-18 06:51:15.0539|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 06:51:15.0539|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 06:51:15.1070|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 06:51:15.1070|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 06:52:14.3473|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 06:52:14.4123|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 06:52:20.1900|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 06:52:20.1900|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 06:52:28.6467|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 06:52:28.6467|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 06:52:28.6467|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 06:52:28.6467|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 06:52:28.7167|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-18 06:52:28.7167|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-18 06:52:28.7557|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-18 06:52:28.7557|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-18 06:52:28.7898|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-18 06:52:28.7898|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-18 06:52:28.8258|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-18 06:52:28.8258|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-18 06:52:28.8618|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-18 06:52:28.8618|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-18 06:52:28.8967|INFO|DragonDrop.DAL.Implementation.ProductRepository|77 records found.
+2019-11-18 06:52:28.8967|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 77 records from Repo.
+2019-11-18 06:52:28.9908|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 06:52:28.9908|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 06:52:29.0238|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 06:52:29.0238|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 06:52:41.1768|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting page 1 of size 2 from all Payment records in Repo.
+2019-11-18 06:52:41.1768|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching page 1 of size 2 from all Payment records.
+2019-11-18 06:52:41.1768|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 2 records.
+2019-11-18 06:52:41.1768|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 2 records from Repo.
+2019-11-18 06:52:41.1998|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 06:52:41.1998|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 06:52:41.1998|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 06:52:41.1998|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 06:52:43.9634|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting page 1 of size 5 from all Payment records in Repo.
+2019-11-18 06:52:43.9634|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching page 1 of size 5 from all Payment records.
+2019-11-18 06:52:43.9634|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 5 records.
+2019-11-18 06:52:43.9634|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 5 records from Repo.
+2019-11-18 06:52:43.9634|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 06:52:43.9634|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 06:52:43.9634|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 06:52:43.9634|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 06:52:46.9261|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting page 1 of size 70 from all Payment records in Repo.
+2019-11-18 06:52:46.9261|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching page 1 of size 70 from all Payment records.
+2019-11-18 06:52:46.9261|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 63 records.
+2019-11-18 06:52:46.9261|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 63 records from Repo.
+2019-11-18 06:52:46.9261|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 06:52:46.9261|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 06:52:46.9261|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 06:52:46.9261|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 06:52:54.7171|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 06:52:54.7171|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 06:52:54.7171|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 06:52:54.7171|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 06:52:58.6376|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting page 1 of size 8 from all Payment records in Repo.
+2019-11-18 06:52:58.6376|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching page 1 of size 8 from all Payment records.
+2019-11-18 06:52:58.6376|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 8 records.
+2019-11-18 06:52:58.6376|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 8 records from Repo.
+2019-11-18 06:52:58.6825|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 06:52:58.6825|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 06:52:58.6825|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 06:52:58.6825|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 06:57:21.2402|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 06:57:21.2692|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 06:57:25.4324|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 06:57:25.4324|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 08:16:16.0133|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 08:16:16.0263|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 08:16:20.4477|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 08:16:20.4477|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 08:16:29.2859|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 08:16:29.2859|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 08:16:29.2859|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 08:16:29.2859|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 08:16:29.3078|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-18 08:16:29.3078|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-18 08:16:29.3258|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-18 08:16:29.3258|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-18 08:16:29.3378|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-18 08:16:29.3378|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-18 08:16:29.3498|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-18 08:16:29.3498|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-18 08:16:29.3498|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-18 08:16:29.3498|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-18 08:16:29.4168|INFO|DragonDrop.DAL.Implementation.ProductRepository|77 records found.
+2019-11-18 08:16:29.4168|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 77 records from Repo.
+2019-11-18 08:16:29.4528|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:16:29.4528|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:16:29.4628|INFO|DragonDrop.DAL.Implementation.PaymentRepository|63 records found.
+2019-11-18 08:16:29.4628|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 63 records from Repo.
+2019-11-18 08:17:04.6179|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.PaymentAddViewModel|Admin requesting Payment Registration from WPF form.
+2019-11-18 08:17:04.6179|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting record creation for Payment:	0
+2019-11-18 08:17:04.6179|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo creating record for Payment:	0
+2019-11-18 08:17:04.8530|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Payment:/t8001 succesfully registered.
+2019-11-18 08:17:04.8530|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-11-18 08:17:04.8530|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:17:04.8530|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:17:04.8530|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 08:17:04.8530|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 08:18:51.2430|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 08:18:51.2580|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 08:18:53.3131|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 08:18:53.3131|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 08:19:02.0467|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 08:19:02.0728|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 08:19:05.1541|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 08:19:05.1541|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 08:19:10.3722|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 08:19:10.3722|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 08:19:10.3722|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 08:19:10.3722|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 08:19:10.3992|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-18 08:19:10.3992|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-18 08:19:10.4142|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-18 08:19:10.4142|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-18 08:19:10.4282|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-18 08:19:10.4282|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-18 08:19:10.4412|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-18 08:19:10.4412|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-18 08:19:10.4552|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-18 08:19:10.4552|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-18 08:19:10.4742|INFO|DragonDrop.DAL.Implementation.ProductRepository|77 records found.
+2019-11-18 08:19:10.4742|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 77 records from Repo.
+2019-11-18 08:19:10.5302|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:19:10.5302|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:19:10.5452|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 08:19:10.5452|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 08:23:29.0490|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 08:23:29.0690|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 08:23:31.1190|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 08:23:31.1190|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 08:23:36.3024|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 08:23:36.3024|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 08:23:36.3024|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 08:23:36.3024|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 08:23:36.3354|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-18 08:23:36.3354|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-18 08:23:36.3604|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-18 08:23:36.3604|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-18 08:23:36.3844|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-18 08:23:36.3844|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-18 08:23:36.4094|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-18 08:23:36.4094|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-18 08:23:36.4434|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-18 08:23:36.4434|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-18 08:23:36.4654|INFO|DragonDrop.DAL.Implementation.ProductRepository|77 records found.
+2019-11-18 08:23:36.4654|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 77 records from Repo.
+2019-11-18 08:23:36.5464|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:23:36.5464|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:23:36.5664|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 08:23:36.5664|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 08:23:45.8495|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting page 1 of size 2 from all Payment records in Repo.
+2019-11-18 08:23:45.8495|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching page 1 of size 2 from all Payment records.
+2019-11-18 08:23:45.8495|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 2 records.
+2019-11-18 08:23:45.8495|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 2 records from Repo.
+2019-11-18 08:23:45.8645|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:23:45.8645|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:23:45.8645|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 08:23:45.8645|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 08:23:49.6710|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:23:49.6710|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:23:49.6710|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 08:23:49.6710|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 08:23:56.6353|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	
+2019-11-18 08:23:56.6353|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	
+2019-11-18 08:23:56.8129|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 64 Payments that match: 
+2019-11-18 08:23:56.8129|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 64 records from Repo.
+2019-11-18 08:23:58.8985|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	c
+2019-11-18 08:23:58.8985|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	C
+2019-11-18 08:23:58.9989|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 39 Payments that match: C
+2019-11-18 08:23:58.9989|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 39 records from Repo.
+2019-11-18 08:23:59.2249|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	ca
+2019-11-18 08:23:59.2249|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CA
+2019-11-18 08:23:59.3554|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 25 Payments that match: CA
+2019-11-18 08:23:59.3554|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 25 records from Repo.
+2019-11-18 08:23:59.6144|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	cas
+2019-11-18 08:23:59.6144|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CAS
+2019-11-18 08:23:59.7874|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 10 Payments that match: CAS
+2019-11-18 08:23:59.7874|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 10 records from Repo.
+2019-11-18 08:23:59.8024|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	cash
+2019-11-18 08:23:59.8024|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CASH
+2019-11-18 08:23:59.9354|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 10 Payments that match: CASH
+2019-11-18 08:23:59.9354|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 10 records from Repo.
+2019-11-18 08:24:05.8181|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	wire
+2019-11-18 08:24:05.8181|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	WIRE
+2019-11-18 08:24:05.9147|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 22 Payments that match: WIRE
+2019-11-18 08:24:05.9147|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 22 records from Repo.
+2019-11-18 08:24:11.6038|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 08:24:11.6038|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 08:24:11.6118|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 08:24:11.6118|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 08:24:14.7802|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 08:24:14.7802|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 08:24:14.7802|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 08:24:14.7802|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 08:24:15.8441|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 and Filtered by: p from Repo.
+2019-11-18 08:24:15.8441|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by: Regine Reimers and filtering them by: p.
+2019-11-18 08:24:15.8461|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 08:24:15.8461|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 08:24:15.8461|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	P
+2019-11-18 08:24:15.8461|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 2 Payments that match: P
+2019-11-18 08:24:15.8461|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved :2 records.
+2019-11-18 08:24:15.8461|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 2 records from Repo.
+2019-11-18 08:24:15.9797|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 and Filtered by: pa from Repo.
+2019-11-18 08:24:15.9797|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by: Regine Reimers and filtering them by: pa.
+2019-11-18 08:24:15.9797|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 08:24:15.9797|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 08:24:15.9797|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	PA
+2019-11-18 08:24:15.9797|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 2 Payments that match: PA
+2019-11-18 08:24:15.9797|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved :2 records.
+2019-11-18 08:24:15.9797|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 2 records from Repo.
+2019-11-18 08:24:16.3771|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 and Filtered by: pay from Repo.
+2019-11-18 08:24:16.3771|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by: Regine Reimers and filtering them by: pay.
+2019-11-18 08:24:16.3771|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 08:24:16.3771|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 08:24:16.3771|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	PAY
+2019-11-18 08:24:16.3771|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 2 Payments that match: PAY
+2019-11-18 08:24:16.3771|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved :2 records.
+2019-11-18 08:24:16.3771|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 2 records from Repo.
+2019-11-18 08:24:17.0792|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 and Filtered by: pa from Repo.
+2019-11-18 08:24:17.0802|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by: Regine Reimers and filtering them by: pa.
+2019-11-18 08:24:17.0802|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 08:24:17.0802|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 08:24:17.0802|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	PA
+2019-11-18 08:24:17.0802|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 2 Payments that match: PA
+2019-11-18 08:24:17.0802|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved :2 records.
+2019-11-18 08:24:17.0802|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 2 records from Repo.
+2019-11-18 08:24:17.2676|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 and Filtered by: p from Repo.
+2019-11-18 08:24:17.2676|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by: Regine Reimers and filtering them by: p.
+2019-11-18 08:24:17.2676|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 08:24:17.2676|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 08:24:17.2676|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	P
+2019-11-18 08:24:17.2676|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 2 Payments that match: P
+2019-11-18 08:24:17.2676|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved :2 records.
+2019-11-18 08:24:17.2676|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 2 records from Repo.
+2019-11-18 08:24:17.4228|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 08:24:17.4228|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 08:24:17.4248|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 08:24:17.4248|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 08:24:24.8253|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 from Repo.
+2019-11-18 08:24:24.8253|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 08:24:24.8253|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 08:24:24.8253|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 08:24:32.0170|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	2 Sorted by: date in descending order from Repo.
+2019-11-18 08:24:32.0240|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retreiving Payments made by Customer:	2	NAME: Regine Reimers and sorting them in descending order, according to criteria: date
+2019-11-18 08:24:32.0240|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments made by Customer:	Regine Reimers
+2019-11-18 08:24:32.0240|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records of payments by Customer ID: 2
+2019-11-18 08:24:32.0240|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching  Payments, sorted by: date descending.Date
+2019-11-18 08:24:32.0240|INFO|DragonDrop.DAL.Implementation.PaymentRepository|4 records found.
+2019-11-18 08:24:32.0240|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 4 records.
+2019-11-18 08:24:32.0240|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 4 records from Repo.
+2019-11-18 08:24:36.1030|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:24:36.1030|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:24:36.1030|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 08:24:36.1030|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 08:24:41.5536|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	
+2019-11-18 08:24:41.5536|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	
+2019-11-18 08:24:41.6080|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 64 Payments that match: 
+2019-11-18 08:24:41.6080|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 64 records from Repo.
+2019-11-18 08:24:42.7399|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	c
+2019-11-18 08:24:42.7399|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	C
+2019-11-18 08:24:42.8400|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 39 Payments that match: C
+2019-11-18 08:24:42.8400|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 39 records from Repo.
+2019-11-18 08:24:43.0430|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	ca
+2019-11-18 08:24:43.0430|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CA
+2019-11-18 08:24:43.1630|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 25 Payments that match: CA
+2019-11-18 08:24:43.1630|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 25 records from Repo.
+2019-11-18 08:24:43.3540|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	cas
+2019-11-18 08:24:43.3540|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CAS
+2019-11-18 08:24:43.4760|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 10 Payments that match: CAS
+2019-11-18 08:24:43.4760|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 10 records from Repo.
+2019-11-18 08:24:45.2074|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	ca
+2019-11-18 08:24:45.2074|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CA
+2019-11-18 08:24:45.3103|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 25 Payments that match: CA
+2019-11-18 08:24:45.3103|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 25 records from Repo.
+2019-11-18 08:24:45.4993|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	c
+2019-11-18 08:24:45.4993|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	C
+2019-11-18 08:24:45.6053|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 39 Payments that match: C
+2019-11-18 08:24:45.6053|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 39 records from Repo.
+2019-11-18 08:24:45.7954|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	
+2019-11-18 08:24:45.7954|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	
+2019-11-18 08:24:45.8944|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 64 Payments that match: 
+2019-11-18 08:24:45.8944|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 64 records from Repo.
+2019-11-18 08:24:48.5489|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:24:48.5489|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:24:48.5489|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 08:24:48.5489|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 08:25:39.1633|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 08:25:39.1873|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 08:25:41.7143|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 08:25:41.7143|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 08:25:47.0491|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 08:25:47.0491|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 08:25:47.0491|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 08:25:47.0491|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 08:25:47.0871|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-18 08:25:47.0871|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-18 08:25:47.1061|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-18 08:25:47.1061|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-18 08:25:47.1311|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-18 08:25:47.1311|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-18 08:25:47.1481|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-18 08:25:47.1481|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-18 08:25:47.1691|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-18 08:25:47.1691|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-18 08:25:47.1991|INFO|DragonDrop.DAL.Implementation.ProductRepository|77 records found.
+2019-11-18 08:25:47.1991|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 77 records from Repo.
+2019-11-18 08:25:47.2811|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:25:47.2811|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:25:47.3151|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 08:25:47.3151|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 08:25:57.2323|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	
+2019-11-18 08:25:57.2323|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	
+2019-11-18 08:25:57.4064|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 64 Payments that match: 
+2019-11-18 08:25:57.4064|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 64 records from Repo.
+2019-11-18 08:25:58.3070|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	c
+2019-11-18 08:25:58.3070|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	C
+2019-11-18 08:25:58.4073|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 39 Payments that match: C
+2019-11-18 08:25:58.4073|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 39 records from Repo.
+2019-11-18 08:25:58.6163|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	ca
+2019-11-18 08:25:58.6163|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CA
+2019-11-18 08:25:58.7333|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 25 Payments that match: CA
+2019-11-18 08:25:58.7333|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 25 records from Repo.
+2019-11-18 08:25:58.9123|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	cas
+2019-11-18 08:25:58.9123|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CAS
+2019-11-18 08:25:59.0523|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 10 Payments that match: CAS
+2019-11-18 08:25:59.0523|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 10 records from Repo.
+2019-11-18 08:25:59.0673|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	cash
+2019-11-18 08:25:59.0673|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CASH
+2019-11-18 08:25:59.1913|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 10 Payments that match: CASH
+2019-11-18 08:25:59.1913|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 10 records from Repo.
+2019-11-18 08:26:00.6789|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:26:00.6789|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:26:00.6789|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 08:26:00.6789|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 08:26:00.6789|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:26:00.6789|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:26:00.6789|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 08:26:00.6789|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 08:26:11.1730|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	
+2019-11-18 08:26:11.1730|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	
+2019-11-18 08:26:11.2345|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 64 Payments that match: 
+2019-11-18 08:26:11.2345|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 64 records from Repo.
+2019-11-18 08:26:11.7568|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	c
+2019-11-18 08:26:11.7568|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	C
+2019-11-18 08:26:11.8569|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 39 Payments that match: C
+2019-11-18 08:26:11.8569|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 39 records from Repo.
+2019-11-18 08:26:12.0559|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	ca
+2019-11-18 08:26:12.0559|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CA
+2019-11-18 08:26:12.1744|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 25 Payments that match: CA
+2019-11-18 08:26:12.1744|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 25 records from Repo.
+2019-11-18 08:26:12.3554|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	cas
+2019-11-18 08:26:12.3554|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CAS
+2019-11-18 08:26:12.4824|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 10 Payments that match: CAS
+2019-11-18 08:26:12.4824|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 10 records from Repo.
+2019-11-18 08:26:12.6094|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	cash
+2019-11-18 08:26:12.6094|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CASH
+2019-11-18 08:26:12.7384|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 10 Payments that match: CASH
+2019-11-18 08:26:12.7384|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 10 records from Repo.
+2019-11-18 08:26:17.5863|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	wire
+2019-11-18 08:26:17.5863|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	WIRE
+2019-11-18 08:26:17.7044|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 22 Payments that match: WIRE
+2019-11-18 08:26:17.7044|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 22 records from Repo.
+2019-11-18 08:26:19.9465|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 08:26:19.9465|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 08:26:19.9465|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 08:26:19.9465|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 13:40:55.3315|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 13:40:55.3725|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 13:41:03.0517|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 13:41:03.0517|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 13:41:13.9602|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-18 13:41:13.9602|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-18 13:41:13.9602|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-18 13:41:13.9602|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-18 13:41:13.9842|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-18 13:41:13.9842|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-18 13:41:14.0062|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-18 13:41:14.0062|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-18 13:41:14.0232|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-18 13:41:14.0232|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-18 13:41:14.0432|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-18 13:41:14.0432|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-18 13:41:14.0632|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-18 13:41:14.0632|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-18 13:41:14.1322|INFO|DragonDrop.DAL.Implementation.ProductRepository|77 records found.
+2019-11-18 13:41:14.1322|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 77 records from Repo.
+2019-11-18 13:41:14.1792|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-18 13:41:14.1792|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-18 13:41:14.1912|INFO|DragonDrop.DAL.Implementation.PaymentRepository|64 records found.
+2019-11-18 13:41:14.1912|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 64 records from Repo.
+2019-11-18 13:41:21.2059|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	cash
+2019-11-18 13:41:21.2059|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CASH
+2019-11-18 13:41:21.4465|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 10 Payments that match: CASH
+2019-11-18 13:41:21.4465|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 10 records from Repo.
+2019-11-18 13:41:28.4923|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payments under:	200$ from Repo.
+2019-11-18 13:41:28.4923|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payments under:	200$.
+2019-11-18 13:41:28.4923|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 16 Payments that match criteria.
+2019-11-18 13:41:28.4923|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 16 records from Repo.

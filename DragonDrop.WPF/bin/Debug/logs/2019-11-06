@@ -1,0 +1,1034 @@
+2019-11-06 03:57:56.0740|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 03:57:56.1070|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 03:58:06.6141|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 03:58:06.6141|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 03:58:08.7758|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 03:58:08.8078|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 03:58:12.8523|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 03:58:12.8523|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 03:58:25.3398|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 03:58:25.3398|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 03:58:25.3398|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 03:58:25.3398|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 03:58:25.3398|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 03:58:25.3398|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 03:58:25.4028|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 03:58:25.4028|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 03:58:25.4028|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 03:58:25.4028|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 03:58:25.4238|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 03:58:25.4238|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 03:58:25.4238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 03:58:25.4298|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 03:58:25.4698|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 03:58:25.4698|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 03:58:25.4828|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 03:58:25.4828|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 03:58:25.4968|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 03:58:25.4968|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 03:59:12.9533|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 03:59:12.9653|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 03:59:15.2308|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 03:59:15.2308|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 03:59:22.8944|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 03:59:22.8944|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 03:59:22.8944|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 03:59:22.8944|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 03:59:22.9001|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 03:59:22.9001|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 03:59:22.9371|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 03:59:22.9371|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 03:59:22.9371|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 03:59:22.9371|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 03:59:22.9571|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 03:59:22.9571|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 03:59:22.9621|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 03:59:22.9621|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 03:59:22.9841|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 03:59:22.9841|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 03:59:23.0041|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 03:59:23.0041|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 03:59:23.0221|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 03:59:23.0221|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 04:01:43.6241|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 04:01:43.6401|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 04:01:46.2361|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 04:01:46.2361|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 04:01:52.3120|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 04:01:52.3120|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 04:01:52.3120|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 04:01:52.3120|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 04:01:52.3120|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 04:01:52.3120|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 04:01:52.3270|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 04:01:52.3270|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 04:01:52.3270|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 04:01:52.3270|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 04:01:52.3650|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 04:01:52.3650|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 04:01:52.3700|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 04:01:52.3700|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 04:01:52.3960|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 04:01:52.3960|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 04:01:52.4160|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 04:01:52.4160|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 04:01:52.4350|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 04:01:52.4350|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:20:54.7637|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:20:54.7727|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:21:00.1940|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:21:00.1940|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:21:09.7171|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:21:09.7171|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:21:09.7171|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:21:09.7171|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:21:09.7211|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:21:09.7211|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:21:09.7211|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:21:09.7211|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:21:09.7521|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:21:09.7521|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:21:09.7521|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:21:09.7521|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:21:09.7521|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:21:09.7521|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:21:09.8182|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:21:09.8182|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:21:26.5765|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:21:26.5915|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:21:28.9892|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:21:28.9892|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:21:37.6602|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:21:37.6602|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:21:37.6602|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:21:37.6602|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:21:37.6812|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:21:37.6812|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:21:37.7102|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:21:37.7102|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:21:37.7102|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:21:37.7102|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:21:37.7432|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:21:37.7432|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:21:37.7432|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:21:37.7432|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:21:37.7812|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:21:37.7812|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:22:23.0842|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:22:23.1092|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:22:25.0123|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:22:25.0123|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:22:43.3132|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:22:43.3132|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:22:43.3132|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:22:43.3132|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:22:43.3302|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:22:43.3302|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:22:43.3302|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:22:43.3302|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:22:43.3302|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:22:43.3302|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:22:43.3492|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:22:43.3492|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:22:43.3492|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:22:43.3492|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:22:43.3612|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:22:43.3612|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:22:43.3612|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:22:43.3612|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:22:43.3812|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:22:43.3812|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:25:07.0699|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:25:07.0859|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:25:08.7739|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:25:08.7739|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:25:16.4894|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:25:16.4894|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:25:16.4894|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:25:16.4894|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:25:16.4894|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:25:16.4894|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:25:16.5024|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:25:16.5024|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:25:16.5194|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:25:16.5194|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:25:16.5194|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:25:16.5194|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:25:16.5194|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:25:16.5194|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:25:16.5404|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:25:16.5404|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:25:16.5484|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:25:16.5484|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:25:16.5484|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:25:16.5484|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:27:43.0046|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:27:43.0176|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:27:44.7546|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:27:44.7546|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:27:49.2026|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:27:49.2026|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:27:49.2046|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:27:49.2046|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:27:49.2046|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:27:49.2046|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:27:49.2196|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:27:49.2196|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:27:49.2196|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:27:49.2196|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:27:49.2526|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:27:49.2526|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:27:49.2526|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:27:49.2526|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:27:49.2726|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:27:49.2726|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:27:49.2866|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:27:49.2866|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:27:49.3026|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:27:49.3026|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:31:01.3473|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:31:01.3603|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:31:03.1151|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:31:03.1151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:31:07.5401|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:31:07.5401|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:31:07.5401|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:31:07.5401|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:31:07.5481|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:31:07.5481|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:31:07.5751|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:31:07.5751|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:31:07.5791|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:31:07.5791|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:31:07.6221|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:31:07.6221|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:31:07.6261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:31:07.6261|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:31:07.6471|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:31:07.6471|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:31:07.6621|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:31:07.6621|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:31:07.6791|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:31:07.6791|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:31:26.8450|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:31:26.8720|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:31:29.2782|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:31:29.2782|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:31:34.9782|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:31:34.9782|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:31:34.9782|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:31:34.9782|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:31:34.9782|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:31:34.9782|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:31:35.0002|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:31:35.0002|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:31:35.0002|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:31:35.0002|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:31:35.0002|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:31:35.0002|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:31:35.0172|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:31:35.0172|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:31:35.0362|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:31:35.0362|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:31:35.0562|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:31:35.0562|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:31:35.0732|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:31:35.0732|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:34:29.3601|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:34:29.3811|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:34:31.3108|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:34:31.3108|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:34:36.5530|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:34:36.5530|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:34:36.5530|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:34:36.5530|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:34:36.5630|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:34:36.5630|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:34:36.5860|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:34:36.5860|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:34:36.5860|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:34:36.5860|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:34:36.6320|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:34:36.6320|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:34:36.6320|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:34:36.6320|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:34:36.6540|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:34:36.6540|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:34:36.6650|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:34:36.6650|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:34:36.6760|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:34:36.6760|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:36:00.7987|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:36:00.8197|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:36:02.5456|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:36:02.5456|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:36:17.2523|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:36:17.2523|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:36:17.2523|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:36:17.2523|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:36:17.2523|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:36:17.2523|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:36:17.2823|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:36:17.2823|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:36:17.2823|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:36:17.2823|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:36:17.2823|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:36:17.2823|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:36:17.2823|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:36:17.2823|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:36:17.3073|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:36:17.3073|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:36:17.3153|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:36:17.3153|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:36:17.3153|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:36:17.3153|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:37:35.0133|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:37:35.0263|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:37:36.8983|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:37:36.8983|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:37:41.8254|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:37:41.8254|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:37:41.8284|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:37:41.8284|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:37:41.8284|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:37:41.8284|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:37:41.8545|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:37:41.8545|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:37:41.8594|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:37:41.8594|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:37:41.9034|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:37:41.9034|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:37:41.9075|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:37:41.9075|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:37:41.9264|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:37:41.9264|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:37:41.9394|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:37:41.9394|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:37:41.9554|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:37:41.9554|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:45:33.0730|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:45:33.0870|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:45:37.9634|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:45:37.9634|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:45:42.8488|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:45:42.8488|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:45:42.8488|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:45:42.8488|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:45:42.8488|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:45:42.8488|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:45:42.8628|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:45:42.8628|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:45:42.8628|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:45:42.8628|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:45:42.8968|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:45:42.8968|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:45:42.8968|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:45:42.8968|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:45:42.9563|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:45:42.9563|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:45:42.9563|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:45:42.9563|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:45:42.9743|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:45:42.9743|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:45:51.4649|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	2
+2019-11-06 12:45:51.4649|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	2
+2019-11-06 12:50:09.1080|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:50:09.1250|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:50:10.9174|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:50:10.9174|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:50:15.2944|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:50:15.2944|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:50:15.2944|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:50:15.2944|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:50:15.2984|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:50:15.2984|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:50:15.2984|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:50:15.2984|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:50:15.3144|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:50:15.3144|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:50:15.3544|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:50:15.3544|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:50:15.3544|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:50:15.3544|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:50:15.3734|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:50:15.3734|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:50:15.3874|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:50:15.3874|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:50:15.4004|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:50:15.4004|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:50:20.0125|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	2
+2019-11-06 12:50:20.0125|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	2
+2019-11-06 12:51:51.4792|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:51:51.4902|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:51:53.4888|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:51:53.4888|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:52:00.1904|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:52:00.1904|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:52:00.2163|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:52:00.2163|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:52:00.2203|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:52:00.2203|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:52:00.2354|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:52:00.2354|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:52:00.2354|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:52:00.2354|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:52:00.2514|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:52:00.2514|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:52:00.2514|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:52:00.2514|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:52:00.2674|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:52:00.2674|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:52:00.2674|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:52:00.2674|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:52:00.2894|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:52:00.2894|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:52:04.9419|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 12:52:04.9419|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 12:53:37.2934|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:53:37.3044|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:53:39.1165|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:53:39.1165|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:53:43.5114|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:53:43.5114|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:53:43.5114|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:53:43.5114|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:53:43.5184|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:53:43.5184|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:53:43.5384|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:53:43.5384|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:53:43.5384|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:53:43.5384|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:53:43.5984|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:53:43.5984|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:53:43.5984|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:53:43.5984|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:53:43.6214|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:53:43.6214|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:53:43.6364|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:53:43.6364|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:53:43.6514|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:53:43.6514|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:53:48.8702|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 12:53:48.8702|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 12:54:20.7871|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:54:20.8141|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:54:22.8601|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:54:22.8601|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:54:28.0892|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:54:28.0892|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:54:28.0892|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:54:28.0892|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:54:28.0942|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:54:28.0942|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:54:28.1271|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:54:28.1271|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:54:28.1271|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:54:28.1271|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:54:28.1412|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:54:28.1412|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:54:28.1412|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:54:28.1412|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:54:28.1601|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:54:28.1601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:54:28.1751|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:54:28.1751|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:54:28.1991|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:54:28.1991|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:54:34.5624|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 12:54:34.5624|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 12:54:41.4609|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	2
+2019-11-06 12:54:41.4609|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	2
+2019-11-06 12:54:59.6822|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:54:59.7112|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:55:02.2549|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:55:02.2549|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:55:06.8421|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:55:06.8421|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:55:06.8421|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:55:06.8421|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:55:06.8471|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:55:06.8471|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:55:06.8601|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:55:06.8601|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:55:06.8601|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:55:06.8601|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:55:06.9051|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:55:06.9051|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:55:06.9091|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:55:06.9091|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:55:06.9271|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:55:06.9271|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:55:06.9421|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:55:06.9421|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:55:06.9611|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:55:06.9611|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:55:11.4649|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	2
+2019-11-06 12:55:11.4649|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	2
+2019-11-06 12:55:13.7281|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 12:55:13.7281|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 12:55:31.9594|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	7
+2019-11-06 12:55:31.9594|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	7
+2019-11-06 12:56:08.3430|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:56:08.3590|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:56:10.3661|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:56:10.3661|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:56:15.0761|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:56:15.0761|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:56:15.0781|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:56:15.0781|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:56:15.0781|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:56:15.0781|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:56:15.0941|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:56:15.0941|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:56:15.1191|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:56:15.1191|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:56:15.1321|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:56:15.1321|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:56:15.1321|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:56:15.1321|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:56:15.1521|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:56:15.1521|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:56:15.1651|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:56:15.1651|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:56:15.1781|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:56:15.1781|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:56:19.4769|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 12:56:19.4769|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 12:56:52.9739|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:56:52.9979|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:56:54.8949|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:56:54.8949|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:56:59.5199|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 12:56:59.5199|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 12:56:59.5199|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 12:56:59.5199|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 12:56:59.5199|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 12:56:59.5199|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 12:56:59.5359|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 12:56:59.5359|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 12:56:59.5359|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 12:56:59.5359|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 12:56:59.5699|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 12:56:59.5699|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 12:56:59.5699|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 12:56:59.5699|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 12:56:59.5859|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 12:56:59.5859|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 12:56:59.5969|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 12:56:59.5969|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 12:56:59.5969|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 12:56:59.5969|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 12:57:06.2107|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	2
+2019-11-06 12:57:06.2107|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	2
+2019-11-06 12:57:17.7790|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	5
+2019-11-06 12:57:17.7790|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	5
+2019-11-06 12:57:24.9331|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 12:57:24.9331|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 13:44:28.4746|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 13:44:28.4876|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 13:44:33.1286|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 13:44:33.1286|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 13:44:52.9212|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 13:44:52.9212|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 13:44:52.9222|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 13:44:52.9222|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 13:44:52.9222|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 13:44:52.9222|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 13:44:52.9492|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 13:44:52.9492|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 13:44:52.9492|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 13:44:52.9492|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 13:44:52.9602|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 13:44:52.9602|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 13:44:52.9602|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 13:44:52.9602|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 13:44:53.0165|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 13:44:53.0165|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 13:44:53.0165|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 13:44:53.0165|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 13:44:53.0344|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 13:44:53.0344|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 13:45:08.2668|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 13:45:08.2668|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 13:50:23.8283|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 13:50:23.8283|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 13:50:25.7943|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 13:50:25.7943|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 13:50:33.8689|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 13:50:33.8689|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 13:50:33.8689|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 13:50:33.8689|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 13:50:33.8689|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 13:50:33.8689|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 13:50:33.9139|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 13:50:33.9139|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 13:50:33.9139|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 13:50:33.9139|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 13:50:33.9259|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 13:50:33.9259|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 13:50:33.9259|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 13:50:33.9259|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 13:50:33.9419|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 13:50:33.9419|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 13:50:33.9419|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 13:50:33.9419|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 13:50:33.9639|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 13:50:33.9639|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 13:50:39.1208|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 13:50:39.1208|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 13:52:59.9269|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 13:52:59.9379|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 13:53:01.2149|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 13:53:01.2149|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 13:53:09.0948|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 13:53:09.0948|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 13:53:09.0948|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 13:53:09.0948|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 13:53:09.0948|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 13:53:09.0948|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 13:53:09.0948|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 13:53:09.0948|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 13:53:09.1258|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 13:53:09.1258|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 13:53:09.1258|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 13:53:09.1258|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 13:53:09.1258|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 13:53:09.1258|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 13:53:09.1454|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 13:53:09.1454|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 13:53:09.1454|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 13:53:09.1454|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 13:53:09.1614|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 13:53:09.1614|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 13:53:14.1365|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 13:53:14.1365|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 13:53:58.4907|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 13:53:58.5017|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 13:53:59.9197|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 13:53:59.9197|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 13:54:07.6211|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 13:54:07.6211|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 13:54:07.6211|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 13:54:07.6211|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 13:54:07.6211|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 13:54:07.6251|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 13:54:07.6491|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 13:54:07.6491|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 13:54:07.6491|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 13:54:07.6491|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 13:54:07.6601|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 13:54:07.6601|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 13:54:07.6601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 13:54:07.6601|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 13:54:07.6730|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 13:54:07.6730|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 13:54:07.6730|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 13:54:07.6730|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 13:54:07.6890|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 13:54:07.6890|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 13:54:11.9713|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 13:54:11.9713|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:01:52.9103|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:01:52.9103|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:01:57.7880|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:01:57.7880|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:02:01.8311|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:02:01.8311|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:02:01.8311|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:02:01.8311|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:02:01.8311|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:02:01.8311|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:02:01.8471|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:02:01.8471|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:02:01.8471|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:02:01.8471|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:02:01.8821|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:02:01.8821|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:02:01.8821|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:02:01.8821|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:02:01.9231|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:02:01.9231|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:02:01.9231|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:02:01.9231|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:02:01.9481|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:02:01.9481|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:02:08.4038|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	2
+2019-11-06 14:02:08.4038|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	2
+2019-11-06 14:04:38.3548|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:04:38.3648|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:04:39.8548|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:04:39.8548|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:04:43.8728|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:04:43.8728|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:04:43.8728|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:04:43.8728|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:04:43.8778|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:04:43.8778|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:04:43.8918|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:04:43.8918|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:04:43.8918|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:04:43.8918|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:04:43.9298|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:04:43.9298|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:04:43.9298|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:04:43.9298|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:04:43.9498|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:04:43.9498|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:04:43.9698|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:04:43.9698|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:04:43.9878|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:04:43.9878|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:04:48.6667|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:04:48.6667|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:15:10.5249|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:15:10.5529|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:15:16.7292|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:15:16.7292|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:15:21.6476|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:15:21.6476|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:15:21.6476|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:15:21.6476|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:15:21.6476|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:15:21.6476|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:15:21.6896|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:15:21.6896|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:15:21.6896|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:15:21.6896|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:15:21.7036|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:15:21.7036|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:15:21.7036|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:15:21.7036|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:15:21.7366|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:15:21.7366|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:15:21.7366|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:15:21.7366|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:15:21.7576|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:15:21.7576|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:23:20.7006|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:23:20.7006|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:23:31.8532|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:23:31.8532|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:24:09.3071|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:24:09.3291|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:24:11.8801|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:24:11.8801|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:24:16.2991|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:24:16.2991|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:24:16.2991|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:24:16.2991|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:24:16.2991|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:24:16.2991|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:24:16.3201|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:24:16.3201|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:24:16.3201|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:24:16.3201|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:24:16.3601|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:24:16.3601|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:24:16.3601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:24:16.3601|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:24:16.3771|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:24:16.3771|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:24:16.3981|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:24:16.3981|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:24:16.4261|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:24:16.4261|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:24:25.6129|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:24:25.6129|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:25:16.1850|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:25:16.2030|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:25:18.7450|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:25:18.7450|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:25:26.1084|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:25:26.1084|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:25:26.1104|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:25:26.1104|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:25:26.1104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:25:26.1104|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:25:26.1104|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:25:26.1104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:25:26.1264|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:25:26.1264|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:25:26.1264|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:25:26.1264|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:25:26.1264|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:25:26.1264|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:25:26.1504|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:25:26.1504|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:25:26.1624|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:25:26.1624|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:25:26.1734|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:25:26.1734|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:25:35.0454|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:25:35.0454|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:30:59.7975|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:30:59.8214|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:31:05.9691|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:31:05.9691|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:31:10.8318|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:31:10.8318|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:31:10.8318|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:31:10.8318|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:31:10.8318|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:31:10.8318|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:31:10.8488|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:31:10.8488|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:31:10.8488|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:31:10.8488|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:31:10.8898|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:31:10.8898|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:31:10.8928|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:31:10.8928|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:31:10.9976|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:31:10.9976|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:31:11.0136|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:31:11.0136|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:31:11.0306|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:31:11.0316|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:31:15.8039|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	2
+2019-11-06 14:31:15.8039|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	2
+2019-11-06 14:37:42.6525|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:37:42.6745|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:37:49.2605|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:37:49.2605|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:37:54.3789|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:37:54.3789|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:37:54.3789|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:37:54.3789|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:37:54.3789|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:37:54.3789|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:37:54.4009|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:37:54.4009|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:37:54.4009|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:37:54.4009|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:37:54.4439|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:37:54.4439|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:37:54.4439|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:37:54.4439|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:37:54.4929|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:37:54.4929|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:37:54.5109|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:37:54.5109|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:37:54.5319|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:37:54.5319|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:38:01.0190|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:38:01.0190|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:42:33.5750|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:42:33.5960|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:42:37.2150|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:42:37.2150|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:42:41.6971|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:42:41.6971|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:42:41.6971|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:42:41.6971|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:42:41.7070|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:42:41.7070|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:42:41.7380|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:42:41.7380|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:42:41.7380|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:42:41.7380|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:42:41.8090|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:42:41.8090|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:42:41.8170|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:42:41.8170|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:42:41.8450|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:42:41.8450|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:42:41.8650|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:42:41.8650|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:42:41.8851|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:42:41.8851|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:42:49.8084|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:42:49.8084|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:44:19.3490|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:44:19.3670|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:44:22.0490|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:44:22.0490|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:44:32.8785|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:44:32.8785|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:44:32.8785|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:44:32.8785|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:44:32.8785|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:44:32.8785|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:44:32.9095|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:44:32.9095|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:44:32.9095|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:44:32.9095|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:44:32.9095|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:44:32.9095|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:44:32.9245|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:44:32.9245|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:44:32.9245|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:44:32.9245|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:44:32.9455|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:44:32.9455|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:44:32.9555|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:44:32.9555|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:44:41.6210|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:44:41.6210|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:49:31.1134|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:49:31.1254|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:49:33.7710|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:49:33.7710|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:50:02.0392|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:50:02.0622|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:50:04.7452|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:50:04.7452|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:50:08.8022|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:50:08.8022|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:50:08.8022|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:50:08.8022|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:50:08.8022|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:50:08.8022|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:50:08.8302|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:50:08.8302|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:50:08.8302|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:50:08.8302|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:50:08.8892|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:50:08.8892|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:50:08.8942|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:50:08.8942|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:50:08.9172|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:50:08.9172|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:50:08.9402|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:50:08.9402|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:50:08.9592|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:50:08.9592|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:50:16.1128|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	2
+2019-11-06 14:50:16.1128|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	2
+2019-11-06 14:52:22.6133|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:52:22.6353|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:52:25.2517|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:52:25.2517|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:52:36.1829|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:52:36.1829|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:52:36.1829|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:52:36.1829|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:52:36.1879|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:52:36.1879|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:52:36.1879|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:52:36.1879|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:52:36.1879|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:52:36.1879|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:52:36.2119|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:52:36.2119|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:52:36.2119|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:52:36.2119|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:52:36.2269|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:52:36.2269|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:52:36.2369|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:52:36.2369|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:52:36.2369|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:52:36.2369|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:52:40.0575|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:52:40.0575|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:55:23.0610|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:55:23.0830|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:55:25.4890|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:55:25.4890|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:55:29.5136|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:55:29.5136|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:55:29.5156|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:55:29.5156|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:55:29.5156|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:55:29.5156|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:55:29.5436|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:55:29.5436|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:55:29.5506|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:55:29.5506|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:55:29.6176|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:55:29.6176|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:55:29.6176|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:55:29.6176|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:55:29.6446|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:55:29.6446|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:55:29.6596|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:55:29.6596|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:55:29.6786|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:55:29.6786|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:55:35.0421|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:55:35.0421|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:56:24.9626|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:56:24.9816|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:56:27.7876|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:56:27.7876|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:56:33.4966|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:56:33.4966|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:56:33.4966|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:56:33.4966|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:56:33.5016|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:56:33.5016|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:56:33.5176|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:56:33.5176|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:56:33.5176|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:56:33.5176|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:56:33.5856|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:56:33.5856|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:56:33.5856|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:56:33.5856|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:56:33.6196|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:56:33.6196|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:56:33.6406|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:56:33.6406|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:56:33.6626|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:56:33.6626|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:56:38.9797|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:56:38.9797|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:56:48.8017|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	10
+2019-11-06 14:56:48.8017|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	10
+2019-11-06 14:57:29.5263|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:57:29.5433|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:57:31.8603|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:57:31.8603|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:57:37.5073|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:57:37.5073|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:57:37.5073|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:57:37.5073|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:57:37.5073|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:57:37.5163|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:57:37.5743|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:57:37.5743|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:57:37.5853|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:57:37.5853|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:57:37.6123|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:57:37.6123|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:57:37.6123|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:57:37.6123|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:57:37.6493|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:57:37.6493|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:57:37.6703|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:57:37.6703|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:57:37.6933|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:57:37.6933|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:57:42.2397|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:57:42.2397|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:57:43.7970|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:57:43.7970|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:57:43.9005|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:57:43.9005|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:57:44.3331|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-11-06 14:57:44.3331|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	1
+2019-11-06 14:58:28.9911|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:58:29.0031|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:58:31.1511|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:58:31.1511|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:58:35.0831|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-11-06 14:58:35.0831|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-11-06 14:58:35.0831|INFO|DragonDrop.DAL.Implementation.CustomerRepository|46 records found.
+2019-11-06 14:58:35.0831|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 46 records.
+2019-11-06 14:58:35.0831|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-11-06 14:58:35.0831|INFO|DragonDrop.DAL.Implementation.OrderRepository|Repo fetching all Orders...
+2019-11-06 14:58:35.1021|INFO|DragonDrop.DAL.Implementation.OrderRepository|38 records found.
+2019-11-06 14:58:35.1021|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 38 records from Repo.
+2019-11-06 14:58:35.1021|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-11-06 14:58:35.1021|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-11-06 14:58:35.1391|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|88 records found.
+2019-11-06 14:58:35.1391|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 88 records from Repo.
+2019-11-06 14:58:35.1441|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-11-06 14:58:35.1441|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2019-11-06 14:58:35.1701|INFO|DragonDrop.DAL.Implementation.ProductRepository|73 records found.
+2019-11-06 14:58:35.1701|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 73 records from Repo.
+2019-11-06 14:58:35.1911|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-11-06 14:58:35.1911|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-11-06 14:58:35.2101|INFO|DragonDrop.DAL.Implementation.PaymentRepository|61 records found.
+2019-11-06 14:58:35.2101|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 61 records from Repo.
+2019-11-06 14:58:39.9751|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	2
+2019-11-06 14:58:39.9751|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching Customer with ID:	2

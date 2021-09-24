@@ -1,0 +1,5 @@
+insert into Customers (CustomerId, Name, Phone, Email, Address, City, State) values (31, 'Smith-Ebert Table Top Supplies', '202-315-2899', 'vhowler0@1und1.de', '8 Kings Point', 'Washington', 'District of Columbia');
+insert into Customers (CustomerId, Name, Phone, Email, Address, City, State) values (32, 'UberPlay Group', '860-634-5773', 'smarco.supply@uber-pg.com', '00323 Toban Circle', 'Hartford', 'Connecticut');
+insert into Customers (CustomerId, Name, Phone, Email, Address, City, State) values (33, 'The Pen, Paper and Die', '816-397-4481', 'mleech2.ppd@mozilla.org', '60740 Hudson Junction', 'Kansas City', 'Missouri');
+insert into Customers (CustomerId, Name, Phone, Email, Address, City, State) values (34, 'Hansen Player''s', '469-499-8104', 'hansenplay_logistics@hansenmedia.com', '2834 Corben Center', 'Dallas', 'Texas');
+insert into Customers (CustomerId, Name, Phone, Email, Address, City, State) values (35, 'Hettinger Joux', '212-597-4730', 'hettinger_supply@gmail.edu', '9763 Ronald Regan Hill', 'New York City', 'New York');

@@ -1,0 +1,316 @@
+2019-09-14 06:02:40.9769|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:02:41.0410|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1660219505
+2019-09-14 06:02:41.0410|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	1660219505
+2019-09-14 06:02:41.0410|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:02:41.0410|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:02:41.0410|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-09-14 06:02:41.0410|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-09-14 06:02:41.0410|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:02:41.0410|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|4 records found.
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:02:41.1969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:03:34.9114|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:03:34.9254|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:03:34.9254|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-14 06:03:34.9254|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:03:34.9254|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-14 06:03:34.9254|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:03:34.9254|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:03:34.9254|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:04:08.4012|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:04:08.4182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:04:08.4182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-14 06:04:08.4182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:04:08.4182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-14 06:04:08.4182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:04:08.4182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:04:08.4182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:06:36.3904|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:06:36.4024|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:06:36.4024|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-14 06:06:36.4024|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:06:36.4024|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-14 06:06:36.4024|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:06:36.4024|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:06:36.4024|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:08:41.4103|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:08:41.4243|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:08:41.4243|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-14 06:08:41.4243|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:08:41.4243|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-14 06:08:41.4243|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:08:41.4243|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:08:41.4243|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:10:27.8933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:10:27.8933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:10:27.8933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-14 06:10:27.8933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:10:27.8933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-14 06:10:27.8933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:10:27.8933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:10:27.8933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:13:00.7065|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:13:00.7295|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:13:00.7295|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	2119442390
+2019-09-14 06:13:00.7295|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	2119442390
+2019-09-14 06:13:00.7295|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	2119442390
+2019-09-14 06:21:10.5173|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:21:10.5283|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:21:10.5283|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1797240189
+2019-09-14 06:21:10.5283|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1797240189
+2019-09-14 06:21:10.5283|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	1797240189
+2019-09-14 06:24:21.5531|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:24:21.5681|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:24:21.5681|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	393412157
+2019-09-14 06:24:21.5681|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	393412157
+2019-09-14 06:24:21.5681|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	393412157
+2019-09-14 06:24:21.5811|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer record with ID:	393412157 to update. Details: Object reference not set to an instance of an object.
+Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.Update(Customer cust) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 39
+2019-09-14 06:24:21.5811|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:24:21.5811|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:24:21.5811|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:29:31.7416|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:29:31.7606|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:29:31.7606|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	178099888
+2019-09-14 06:29:31.7606|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	178099888
+2019-09-14 06:29:31.7606|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	178099888
+2019-09-14 06:29:31.7826|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer record with ID:	178099888 to update. Details: Object reference not set to an instance of an object.
+Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.Update(Customer cust) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 39
+2019-09-14 06:29:31.7826|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:29:31.7826|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:29:31.7826|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:30:51.9306|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:30:51.9466|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:30:51.9466|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-14 06:30:51.9466|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:30:51.9466|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-14 06:30:51.9466|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:30:51.9466|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:30:51.9466|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:32:09.7215|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:32:12.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 06:32:42.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-14 06:32:42.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:32:42.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-14 06:32:42.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 06:32:42.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 06:32:42.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:21:09.5914|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:21:09.6054|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:21:09.6954|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 3 of size 1 from all Customer records.
+2019-09-14 08:21:09.6954|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-09-14 08:21:09.6954|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 1 of size 2 from all Customer records.
+2019-09-14 08:21:09.6954|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 2 records.
+2019-09-14 08:21:09.6954|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 2 of size 2 from all Customer records.
+2019-09-14 08:21:09.6954|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-09-14 08:23:10.0744|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:23:10.0864|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:23:10.0864|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 1 of size 13 from all Customer records.
+2019-09-14 08:23:10.0864|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 3 records.
+2019-09-14 08:24:51.7743|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:24:51.7903|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:24:51.7903|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 13 of size 1 from all Customer records.
+2019-09-14 08:24:51.7903|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 0 records.
+2019-09-14 08:27:58.3143|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	Shayna Chaman
+2019-09-14 08:28:21.8679|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 2 of size 2 from all Customer records.
+2019-09-14 08:28:21.8899|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-09-14 08:28:21.9449|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:21.9449|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:28:21.9449|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 1 of size 13 from all Customer records.
+2019-09-14 08:28:21.9449|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 3 records.
+2019-09-14 08:28:22.0789|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:22.0789|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:28:22.0789|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-09-14 08:28:22.0789|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-09-14 08:28:22.0789|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:22.0789|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|4 records found.
+2019-09-14 08:28:22.2969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:22.2969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:28:22.2969|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	108997058
+2019-09-14 08:28:22.2989|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	108997058
+2019-09-14 08:28:22.2989|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	108997058
+2019-09-14 08:28:22.3809|ERROR|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer record with ID:	108997058 to update. Details: Object reference not set to an instance of an object.
+Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestCustomerRepo.Update(Customer cust) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestCustomerRepo.cs:line 40
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 13 of size 1 from all Customer records.
+2019-09-14 08:28:22.3809|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 0 records.
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 1 of size 2 from all Customer records.
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 2 records.
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-14 08:28:22.4009|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-14 08:28:22.4089|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	760037378
+2019-09-14 08:28:22.4089|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	760037378
+2019-09-14 08:28:22.4089|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 3 of size 1 from all Customer records.
+2019-09-14 08:28:22.4089|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-09-14 08:29:03.7630|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	Shayna Chaman
+2019-09-14 08:30:21.9115|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	Shayna Chaman
+2019-09-14 08:33:21.8485|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	Shayna Chaman
+2019-09-14 08:34:21.6424|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	Shayna Chaman
+2019-09-14 08:34:57.7533|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	Shayna Chaman
+2019-09-14 08:38:21.9055|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	SHAYNA CHAMAN
+2019-09-14 08:41:00.4818|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	SHAYNA CHAMAN
+2019-09-14 08:44:21.2768|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	SHAYNA CHAMAN
+2019-09-14 08:44:21.2948|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: SHAYNA CHAMAN
+2019-09-14 08:44:50.5138|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	202-865-8027
+2019-09-14 08:44:50.5328|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: 202-865-8027
+2019-09-14 08:45:29.3420|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	SCHAMAN0@HEXUN.COM
+2019-09-14 08:45:29.3600|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: SCHAMAN0@HEXUN.COM
+2019-09-14 10:30:06.3044|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	4871 HOLY CROSS WAY
+2019-09-14 10:30:06.3284|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 0 Customers that match: 4871 HOLY CROSS WAY
+2019-09-14 10:30:38.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	WASHINGTON
+2019-09-14 10:30:38.3116|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: WASHINGTON
+2019-09-14 10:30:45.2144|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	SCHAMAN0@HEXUN.COM
+2019-09-14 10:30:45.2354|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: SCHAMAN0@HEXUN.COM
+2019-09-14 10:31:53.0285|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	DISTRICT OF COLUMBIA
+2019-09-14 10:31:53.0445|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 2 Customers that match: DISTRICT OF COLUMBIA
+2019-09-14 10:33:49.2548|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	DISTRICT OF COLUMBIA
+2019-09-14 10:33:49.2918|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 2 Customers that match: DISTRICT OF COLUMBIA
+2019-09-14 10:35:53.1199|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	DISTRICT OF COLUMBIA
+2019-09-14 10:38:43.6968|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	CALIFORNIA
+2019-09-14 10:38:43.7358|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: CALIFORNIA
+2019-09-14 10:49:02.8130|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	WY
+2019-09-14 10:49:02.8339|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 0 Customers that match: WY
+2019-09-14 10:49:24.6931|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	WY
+2019-09-14 10:49:24.7071|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 0 Customers that match: WY
+2019-09-14 10:50:10.0932|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	George Claudius
+2019-09-14 10:50:10.1112|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tGeorge Claudius succesfully registered.
+2019-09-14 10:50:10.1112|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	WY
+2019-09-14 10:50:10.1272|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: WY
+2019-09-14 12:25:43.3077|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	182E7068-7AD7-4447-8D60-D9FD7958D2AE
+2019-09-14 12:25:43.3197|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 0 Customers that match: 182E7068-7AD7-4447-8D60-D9FD7958D2AE
+2019-09-14 12:29:41.9640|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	2
+2019-09-14 12:29:41.9820|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering and paging Customers, according to 
+ SEARCH: of
+ Page Index: 1; Page Size: 1
+2019-09-14 12:29:41.9820|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	OF
+2019-09-14 12:29:41.9900|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 2 Customers that match: OF
+2019-09-14 12:29:41.9900|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 1 of size 1 from filtered Customer records.
+2019-09-14 12:29:41.9900|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-09-14 12:29:50.1470|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	2
+2019-09-14 12:29:50.1690|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering and paging Customers, according to 
+ SEARCH: of
+ Page Index: 2; Page Size: 1
+2019-09-14 12:29:50.1690|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	OF
+2019-09-14 12:29:50.1810|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 2 Customers that match: OF
+2019-09-14 12:29:50.1810|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 2 of size 1 from filtered Customer records.
+2019-09-14 12:29:50.1810|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-09-14 12:50:50.0900|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	2
+2019-09-14 12:50:50.1090|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering and paging Customers, according to 
+ SEARCH: of
+ Page Index: 2; Page Size: 1
+2019-09-14 12:50:50.1090|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	OF
+2019-09-14 12:50:50.1200|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 2 Customers that match: OF
+2019-09-14 12:50:50.1200|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 2 of size 1 from filtered Customer records.
+2019-09-14 12:50:50.1200|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-09-14 12:50:56.9033|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	SHAYNA REGINE
+2019-09-14 12:50:56.9402|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 2 Customers that match: SHAYNA REGINE
+2019-09-14 13:03:14.2478|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-14 13:03:14.4108|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1364784192 of Product ID:	1
+2019-09-14 13:03:14.4108|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1364784192/1
+2019-09-14 13:03:14.4108|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1364784192
+2019-09-14 13:03:14.4108|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1364784192
+2019-09-14 13:27:40.1052|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	3 for Product:	1
+2019-09-14 13:27:40.1182|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-14 13:27:40.1182|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1
+2019-09-14 13:27:40.1182|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 13:27:40.1182|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|4 records found.
+2019-09-14 13:33:31.0349|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 13:33:31.0349|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 13:33:31.0349|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	1
+2019-09-14 13:33:31.0349|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-14 13:33:31.0349|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-14 13:37:02.1575|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 13:37:02.1725|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 13:37:02.1725|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	1
+2019-09-14 13:37:02.1725|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo failed to add item as Orderd ID:1 already contains an entry for Product ID:	1
+ If you wish to edit the quantity, please Update the OrderItem rather than re-adding it.
+2019-09-14 13:37:02.1745|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-14 13:37:02.1745|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 13:37:02.1745|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:13:57.6305|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:13:57.6425|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:13:57.6425|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	0 for Product:	1
+2019-09-14 14:13:57.6425|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-14 14:13:57.6425|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:13:57.6425|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|4 records found.
+2019-09-14 14:13:58.2605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:13:58.2605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:13:58.2605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	0
+2019-09-14 14:13:58.2605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-14 14:13:58.2605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:13:58.2605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|4 records found.
+2019-09-14 14:13:58.2605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:13:58.2605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:13:58.2605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	1
+2019-09-14 14:13:58.2605|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo failed to add item as Orderd ID:1 already contains an entry for Product ID:	1
+ If you wish to edit the quantity, please Update the OrderItem rather than re-adding it.
+2019-09-14 14:13:58.2605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:13:58.2605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:24:13.9999|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:24:14.0199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:24:14.0199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	0 for Product:	1
+2019-09-14 14:24:14.0199|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo could not register OrderItem because either the Order or Product ID was non-existent or the requested quantity was 0.
+Order ID:	0 Product ID:	1
+2019-09-14 14:24:14.0199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:24:14.0199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:24:14.2735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:24:14.2735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:24:14.2735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	0
+2019-09-14 14:24:14.2735|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo could not register OrderItem because either the Order or Product ID was non-existent or the requested quantity was 0.
+Order ID:	1 Product ID:	0
+2019-09-14 14:24:14.2735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:24:14.2735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:24:14.2735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:24:14.2735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:24:14.2735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	1
+2019-09-14 14:24:14.2735|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo could not register OrderItem because either the Order or Product ID was non-existent or the requested quantity was 0.
+Order ID:	1 Product ID:	1
+2019-09-14 14:24:14.2735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:24:14.2735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:33:25.6687|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/1
+2019-09-14 14:33:25.6947|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-14 14:33:25.6947|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo succesfully updated OrderItem with Order/Product IDs:	1/1
+2019-09-14 14:33:25.6947|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-14 14:33:25.6947|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-14 14:33:25.6947|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-14 14:36:26.6900|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/1
+2019-09-14 14:36:26.7100|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-14 14:36:26.7100|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo succesfully updated OrderItem with Order/Product IDs:	1/1
+2019-09-14 14:36:26.7100|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-14 14:38:49.0993|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/1
+2019-09-14 14:38:49.1233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-14 14:38:49.1233|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo failed to update OrderItem because requested quantity was 0.
+2019-09-14 14:38:49.1233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1

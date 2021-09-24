@@ -1,0 +1,165 @@
+﻿<UserControl x:Class="DragonDrop.WPF.StoreViews.Tabs.UserAccountTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs"
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+             xmlns:beh="clr-namespace:DragonDrop.WPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="500">
+    <StackPanel Orientation="Vertical">
+        <StackPanel.Resources>
+            
+                <Style x:Key="FieldLabelStyle" TargetType="Label">
+                    <Setter Property="FontSize" Value="24"/>
+                    <Setter Property="Width" Value="100"/>
+                    <Setter Property="FontFamily" Value="Vodafone ExB"/>
+                    <Setter Property="Margin" Value="0"/>
+                    <Setter Property="Padding" Value="0"/>
+                    <Setter Property="VerticalAlignment" Value="Center"/>
+                </Style>
+                <Style x:Key="LabelStackStyle" TargetType="StackPanel">
+                    <Setter Property="ToolTip" Value="{Binding ToolTip}"/>
+                    <Setter Property="Orientation" Value="Horizontal"/>
+                    <Setter Property="Margin" Value="0"/>
+                </Style>
+                <Style x:Key="FieldEntryStyle" TargetType="TextBox">
+                    <Setter Property="Background" Value="LightGray"/>
+                    <Setter Property="Width" Value="390"/>
+                    <Setter Property="BorderBrush" Value="Transparent"/>
+                    <Setter Property="FontSize" Value="26"/>
+                    <Setter Property="VerticalAlignment" Value="Center"/>
+                    <Setter Property="Padding" Value="5 2 0 0"/>
+                    <Setter Property="Foreground" Value="{Binding EntryTxtColour}"/>
+                    <Setter Property="FontStyle" Value="{Binding EntryTxtStyle}"/>
+                    <Setter Property="IsEnabled" Value="{Binding IsEditMode}"/>
+                    <Setter Property="Text" Value="{Binding Text, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                </Style>
+                <Style x:Key="FieldStyle" TargetType="StackPanel">
+                    <Setter Property="Margin" Value="0 6"/>
+                    <Setter Property="Orientation" Value="Vertical"/>
+                </Style>
+                <Style x:Key="FieldErrorTextBlkStyle" TargetType="TextBlock">
+                    <Setter Property="TextWrapping" Value="Wrap"/>
+                    <Setter Property="Foreground" Value="Crimson"/>
+                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                    <Setter Property="Background" Value="Bisque"/>
+                    <Setter Property="Width" Value="460"/>
+                    <Setter Property="TextAlignment" Value="Center"/>
+                    <Setter Property="VerticalAlignment" Value="Center"/>
+                    <Setter Property="Margin" Value="0 5"/>
+                    <Setter Property="FontSize" Value="17"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="FontFamily" Value="BIZ UDPGothic"/>
+                    <Setter Property="Padding" Value="0 12"/>
+                    <Setter Property="Visibility" Value="{Binding ErrorVisibility}"/>
+                    <Setter Property="Text" Value="{Binding ErrorText}"/>
+                </Style>
+                <Style x:Key="EditBtnStyle" TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Setter Property="Focusable" Value="False"/>
+                </Style>
+                <Style x:Key="FieldsControlStyle" TargetType="ItemsControl">
+                    <Setter Property="ItemsSource" Value="{Binding Fields}"/>
+                    <Setter Property="Margin" Value="4 24 0 24"/>
+                    <Setter Property="Padding" Value="0"/>
+                    <Setter Property="BorderBrush" Value="Transparent"/>
+                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                    <Setter Property="Focusable" Value="False"/>
+                </Style>
+                <Style x:Key="SubmitBtnStyle" TargetType="Button">
+                    <Setter Property="Content" Value="Save Changes"/>
+                    <Setter Property="Margin" Value="80 20"/>
+                    <Setter Property="FontSize" Value="30"/>
+                    <Setter Property="Padding" Value="10"/>
+                    <Setter Property="IsEnabled" Value="{Binding CanSubmit}"/>
+                </Style>
+            
+        </StackPanel.Resources>
+
+        <!--Header-->
+        <Grid>
+
+            <Grid.Resources>
+                
+                    <Style x:Key="HeaderLinesStyle" TargetType="Rectangle">
+                        <Setter Property="Width" Value="160"/>
+                        <Setter Property="Height" Value="2"/>
+                        <Setter Property="Fill" Value="Black"/>
+                    </Style>
+                    <Style x:Key="HeaderStyle" TargetType="Label">
+                        <Setter Property="HorizontalAlignment" Value="Center"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="32"/>
+                        <Setter Property="FontFamily" Value="Segoe UI Emoji"/>
+                        <Setter Property="Content" Value="{Binding UserName, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    </Style>
+                    <Style x:Key="NinjaHeaderStyle" TargetType="TextBox">
+                        <Setter Property="HorizontalAlignment" Value="Center"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="32"/>
+                        <Setter Property="FontFamily" Value="Segoe UI Emoji"/>
+                        <Setter Property="Text" Value="{Binding UserName, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    </Style>
+                
+            </Grid.Resources>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Rectangle Grid.Column="0" Style="{StaticResource HeaderLinesStyle}"/>
+            <Label Name="Header" Grid.Column="1" Style="{StaticResource HeaderStyle}" />
+            <Rectangle Grid.Column="2" Style="{StaticResource HeaderLinesStyle}"/>
+
+        </Grid>
+
+        <!--#region Fields-->
+
+        <ItemsControl Style="{StaticResource FieldsControlStyle}">
+            <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Vertical" Margin="0">
+                            <StackPanel Orientation="Horizontal" Margin="0">
+                            <StackPanel Style="{StaticResource LabelStackStyle}">
+                                <Image Source="{Binding IconPath}" Height="24" Margin="0"/>
+                                <Label Content="{Binding Title}"  Style="{StaticResource FieldLabelStyle}"/>
+                            </StackPanel>
+                            <TextBox Style="{StaticResource FieldEntryStyle}">
+                                <i:Interaction.Behaviors>
+                                    <beh:EventToCommandBehavior Command="{Binding EntryTextChangedCommand}" Event="TextChanged" PassArguments="True"/>
+                                    <beh:EventToCommandBehavior Command="{Binding EntryLostFocusCommand}" Event="LostFocus" PassArguments="False"/>
+                                    <beh:EventToCommandBehavior Command="{Binding KeyUpCommand}" Event="KeyUp" PassArguments="True"/>
+                                </i:Interaction.Behaviors>
+                            </TextBox>
+                            <Button Style="{StaticResource EditBtnStyle}">
+                                    <Grid>
+                                        <Image Source="{Binding PencilPath}" Width="36"/>
+                                    </Grid>
+                                <i:Interaction.Behaviors>
+                                    <beh:EventToCommandBehavior Command="{Binding PencilBtnClickCommand}" Event="Click" PassArguments="False"/>
+                                </i:Interaction.Behaviors>
+                                </Button>
+                            </StackPanel>
+                            <Border>
+                                <TextBlock Style="{StaticResource FieldErrorTextBlkStyle}"/>
+                            </Border>
+                        </StackPanel>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+
+        <!--#endregion-->
+
+        <Button Style="{StaticResource SubmitBtnStyle}">
+            <i:Interaction.Behaviors>
+                <beh:EventToCommandBehavior Command="{Binding SubmitClickCommand}" Event="Click" PassArguments="False"/>
+                <beh:EventToCommandBehavior Command="{Binding SubmitKeyUpCommand}" Event="KeyUp" PassArguments="True"/>
+            </i:Interaction.Behaviors>
+        </Button>
+
+    </StackPanel>
+
+</UserControl>

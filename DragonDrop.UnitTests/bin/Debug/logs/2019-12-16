@@ -1,0 +1,1266 @@
+2019-12-16 04:28:21.3322|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.3392|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.4323|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.4323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.4323|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.4323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.4323|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.4323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.4323|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.4323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.4323|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.4323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.4323|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.4323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.4323|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.4323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.4323|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.4323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.4323|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.4323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.4323|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.4323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.6986|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.6986|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.6986|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.6986|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.6986|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.6986|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.6986|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.6986|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.6986|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.6986|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.6986|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.6986|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.6986|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.6986|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.6986|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.6986|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.7190|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.7190|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.7479|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Could not locate Order Edit Form Window.
+2019-12-16 04:28:21.7479|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Admin requesting Order Update from WPF form. Payment ID: 1
+2019-12-16 04:28:21.7479|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting update for record with ID:	1 from Repo.
+2019-12-16 04:28:21.7479|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-12-16 04:28:21.7479|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.7479|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-12-16 04:28:21.7479|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Order Data Service
+2019-12-16 04:28:21.7479|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.7479|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.7869|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.7869|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.7869|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Could not locate Order Edit Form Window.
+2019-12-16 04:28:21.8279|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.8279|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.8279|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Could not locate Order Edit Form Window.
+2019-12-16 04:28:21.8279|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.8279|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.8279|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Could not locate Order Edit Form Window.
+2019-12-16 04:28:21.8279|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Admin requesting Order Update from WPF form. Payment ID: 1
+2019-12-16 04:28:21.8279|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting update for record with ID:	1 from Repo.
+2019-12-16 04:28:21.8279|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-12-16 04:28:21.8279|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.8279|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-12-16 04:28:21.8279|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Order Data Service
+2019-12-16 04:28:21.8279|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.8279|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.8279|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:28:21.8279|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 04:28:21.8279|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Could not locate Order Edit Form Window.
+2019-12-16 04:35:30.5621|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 04:35:30.5821|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 05:45:32.1856|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 05:45:32.1986|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 05:45:32.3336|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Could not locate Order Edit Form Window.
+2019-12-16 05:46:25.4013|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 05:46:25.4013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 05:46:25.4633|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Could not locate Order Edit Form Window.
+2019-12-16 05:46:25.4673|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 05:46:25.4673|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 05:46:25.6393|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 05:46:25.6393|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 05:46:25.6393|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Could not locate Order Edit Form Window.
+2019-12-16 05:46:25.6393|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 05:46:25.6393|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 05:46:25.6393|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 05:46:25.6393|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 05:46:25.6393|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Could not locate Order Edit Form Window.
+2019-12-16 05:46:25.6393|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Admin requesting Order Update from WPF form. Payment ID: 1
+2019-12-16 05:46:25.6393|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting update for record with ID:	1 from Repo.
+2019-12-16 05:46:25.6393|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-12-16 05:46:25.6393|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 05:46:25.6393|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-12-16 05:46:25.6393|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Order Data Service
+2019-12-16 05:46:25.6393|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 05:46:25.6393|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 05:46:25.6393|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 05:46:25.6393|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 05:46:25.6393|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.OrderEditViewModel|Could not locate Order Edit Form Window.
+2019-12-16 05:46:25.6393|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-16 05:46:25.6393|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-16 12:28:35.8498|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:35.8688|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:35.8688|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.3088|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.3088|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.3088|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.3088|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.3088|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.3088|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.3088|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.3088|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.3088|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.3088|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.3088|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.3088|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.3088|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.3088|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.3088|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9628|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9628|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9628|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9648|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9648|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9808|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9808|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9808|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9808|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9808|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9808|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:36.9808|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:36.9808|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:36.9808|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.0148|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.0148|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.0148|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.0148|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.0148|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.0148|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.0328|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.0328|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.0328|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.0328|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.0328|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.0328|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.0588|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.0588|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.0588|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.0738|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.0738|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.0738|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.0738|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.0738|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.0738|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.0738|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.0738|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.0738|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.0738|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.0738|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.0738|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.0738|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.0738|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.0738|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.1308|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.1308|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.1308|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.1668|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.1668|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Admin requesting Product Update from WPF form.
+2019-12-16 12:28:37.1668|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting update for record with ID:	1 from Repo.
+2019-12-16 12:28:37.1668|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo updating record for Product with ID:	1
+2019-12-16 12:28:37.1668|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.1668|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo succesfully updated Product with ID:	1
+2019-12-16 12:28:37.1668|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.1668|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.1668|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.1668|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.2958|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.2958|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.2958|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.2958|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.2958|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.2958|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.2958|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3158|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3158|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3158|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3158|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3238|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3238|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3238|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3238|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3238|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3238|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3388|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3388|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3388|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3388|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3388|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3558|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3558|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3558|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:28:37.3558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:28:37.3558|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:28:37.3558|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:28:37.3558|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.1601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.1761|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.1761|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4491|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4731|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4731|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4731|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4731|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4731|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4731|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4731|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4731|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4731|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4731|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4731|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4731|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4731|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4731|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4731|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4801|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4801|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4801|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4801|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4801|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4801|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4801|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4801|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4801|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4801|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4801|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4801|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4801|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4801|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4801|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4951|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4951|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4951|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4951|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4951|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4951|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4951|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4951|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4951|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.4951|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.4951|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.4951|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.8751|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.8751|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.8751|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.8751|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.8751|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.8751|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.8751|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.8751|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.8751|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.8871|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.8871|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.8871|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.8871|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.8871|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.8871|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.8871|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.8871|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.8871|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.9191|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:36.9191|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Admin requesting Product Update from WPF form.
+2019-12-16 12:33:36.9191|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting update for record with ID:	1 from Repo.
+2019-12-16 12:33:36.9191|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo updating record for Product with ID:	1
+2019-12-16 12:33:36.9191|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.9191|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo succesfully updated Product with ID:	1
+2019-12-16 12:33:36.9191|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:36.9191|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:36.9191|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:36.9191|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0111|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0111|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0111|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0111|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0261|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0261|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0261|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0261|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0261|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0261|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0261|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0261|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0261|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0481|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0481|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0481|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0481|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0481|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0481|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0601|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0601|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0601|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0601|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:33:37.0601|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:33:37.0601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:33:37.0601|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:33:37.0601|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:29.9639|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:29.9639|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:29.9639|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:42.7747|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:42.7947|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:42.7947|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.0158|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.0158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.0158|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.0158|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.1770|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.1770|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.1770|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.1770|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.1770|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.1770|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.1770|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.3800|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.3800|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.3800|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.3800|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.3800|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:44:43.3800|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:44:43.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:44:43.3800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:45:18.8909|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:45:18.9169|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:45:18.9169|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:45:19.2919|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:45:19.2919|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:45:19.2919|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:45:19.2919|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:45:19.6609|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:45:19.6609|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:45:19.6609|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:45:19.6829|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:45:19.6829|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:45:19.6829|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:45:19.6829|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:45:19.6829|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:45:19.6829|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:45:19.6829|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:45:19.7059|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:45:19.7059|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:45:19.7059|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:45:19.7059|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:45:19.7059|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:45:19.7059|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:45:19.7059|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:45:19.7269|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:45:19.7269|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:45:19.7269|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:45:19.7269|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:45:19.7269|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:45:19.7269|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:45:19.7269|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:45:19.7569|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:45:19.7569|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:45:19.7569|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:45:19.7569|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:45:19.7569|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:45:19.7569|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:45:19.7569|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:40.8800|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:40.8980|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:40.8980|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.0650|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.0650|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.0650|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.0650|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 12:46:41.1870|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductEditViewModel|Could not find Product Edit Form Window.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-16 12:46:41.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-16 12:46:41.1870|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 13:53:08.0254|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.0475|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.0475|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.0475|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5265|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5265|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5265|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5265|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5265|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5265|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:53:08.5425|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:53:08.5425|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:25.8646|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:25.8756|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:25.8756|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:25.8756|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:25.8866|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:25.8866|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Admin requesting Product Registration from WPF form.
+2019-12-16 13:59:25.8866|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting record creation for Product named:	Baseball Card Pack - Series:6A9AB
+2019-12-16 13:59:25.8866|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:6A9AB
+2019-12-16 13:59:25.8866|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:6A9AB succesfully registered.
+2019-12-16 13:59:25.8866|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-16 13:59:25.8866|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	465394667732 from Repo.
+2019-12-16 13:59:25.8866|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	465394667732
+2019-12-16 13:59:25.8866|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match: 465394667732
+2019-12-16 13:59:25.9016|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 1 Products from Repo.
+2019-12-16 13:59:25.9016|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:25.9016|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:25.9016|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|4 records found.
+2019-12-16 13:59:25.9016|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 4 records from Repo.
+2019-12-16 13:59:26.0486|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.0486|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.0486|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.0486|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.0486|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.0486|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	7 25272 73070 6 from Repo.
+2019-12-16 13:59:26.0486|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	7 25272 73070 6
+2019-12-16 13:59:26.0486|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 7 25272 73070 6
+2019-12-16 13:59:26.0486|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 13:59:26.2586|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.2586|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.2586|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.2586|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.2586|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.2586|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	7 25272 73070 6 from Repo.
+2019-12-16 13:59:26.2586|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	7 25272 73070 6
+2019-12-16 13:59:26.2586|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 7 25272 73070 6
+2019-12-16 13:59:26.2586|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.2606|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	7 25272 73070 6 from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	7 25272 73070 6
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 7 25272 73070 6
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.2606|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	7 25272 73070 6 from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	7 25272 73070 6
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 7 25272 73070 6
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.2606|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	7 25272 73070 6 from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	7 25272 73070 6
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 7 25272 73070 6
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.2606|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.2606|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	7 25272 73070 6 from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	7 25272 73070 6
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 7 25272 73070 6
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.2606|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	7 25272 73070 0 from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	7 25272 73070 0
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 7 25272 73070 0
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.2606|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	7 25272 73070-6 from Repo.
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	7 25272 73070-6
+2019-12-16 13:59:26.2606|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 7 25272 73070-6
+2019-12-16 13:59:26.2606|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.2766|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	7 25272 73070a6 from Repo.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	7 25272 73070A6
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 7 25272 73070A6
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.2766|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	7 25272 6 from Repo.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	7 25272 6
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 7 25272 6
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 13:59:26.2766|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	7 25272 73070 612345 6 from Repo.
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	7 25272 73070 612345 6
+2019-12-16 13:59:26.2766|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 7 25272 73070 612345 6
+2019-12-16 13:59:26.2766|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 14:00:42.3796|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.3926|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.3926|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.3926|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.4056|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.4056|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	 from Repo.
+2019-12-16 14:00:42.6576|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.6576|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.6576|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.6576|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.6576|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.6576|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	 from Repo.
+2019-12-16 14:00:42.6576|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	
+2019-12-16 14:00:42.6576|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: 
+2019-12-16 14:00:42.6576|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 3 Products from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7046|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	Kendama89012345678911234567892123456789312345678941 from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	KENDAMA89012345678911234567892123456789312345678941
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match: KENDAMA89012345678911234567892123456789312345678941
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 0 Products from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7046|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	Kendama from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	KENDAMA
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match: KENDAMA
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 0 Products from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7046|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	Kendama from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	KENDAMA
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match: KENDAMA
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 0 Products from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7046|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7046|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7046|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7156|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	Kendama from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match: KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 0 Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7156|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	Kendama from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match: KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 0 Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7156|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	Kendama from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match: KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 0 Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7156|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	Kendama from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match: KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 0 Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7156|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	Kendama from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match: KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 0 Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:00:42.7156|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product records by:	Kendama from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match: KENDAMA
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service got 0 Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:00:42.7156|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:00:42.7156|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.0872|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.0982|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.0982|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.0982|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.1112|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.1112|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:28.1112|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.1112|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.1112|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.1112|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.2152|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.2152|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.2152|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.2152|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.2152|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.2152|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.2152|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.2152|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.2152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.2152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.2152|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.4232|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.4232|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.4232|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.4232|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.4232|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.4232|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.4232|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.4232|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.4232|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.4232|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:28.4232|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:28.4232|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:28.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:28.4232|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:46.6115|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:46.6285|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:46.6285|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:46.6285|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:46.7465|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:46.7675|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:46.7675|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:46.7675|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:46.7675|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:46.7675|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:47.0100|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:47.0100|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:47.0100|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:47.0100|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:47.0480|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:47.0480|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:47.0480|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:47.0480|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:47.0480|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:47.0480|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:47.0480|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:47.0480|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:47.0480|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:47.0480|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:47.0700|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:47.0700|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:47.0700|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:47.0700|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:47.0700|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:47.0700|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:47.0700|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:47.0700|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:47.0700|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:47.0700|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:47.1010|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:47.1010|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:47.1010|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:47.1010|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:47.1010|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:47.1010|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:47.1010|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:47.1010|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:47.1010|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:47.1010|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:47.1580|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:02:47.1580|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:02:47.1580|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:47.1580|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:47.1580|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:47.1580|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:47.1580|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:02:47.1580|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:02:47.1580|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:02:47.1580|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:02:47.2000|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.3309|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.3419|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.3419|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.3419|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.3419|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.3589|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.3589|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.3589|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.3589|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.3589|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.4359|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.4359|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.4359|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.4359|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.4359|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.4359|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.4359|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.4359|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.4359|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.4359|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-16 14:03:42.4359|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.ProductAddViewModel|Could not find Product Add Form Window.
+2019-12-16 14:03:42.4359|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-16 14:03:42.4359|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-16 14:03:42.4359|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.

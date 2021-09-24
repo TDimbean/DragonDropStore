@@ -1,0 +1,424 @@
+﻿<UserControl x:Class="DragonDrop.WPF.StoreViews.Tabs.AdminCustomersTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs"
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+             xmlns:beh="clr-namespace:DragonDrop.WPF"
+             xmlns:my="clr-namespace:System;assembly=mscorlib"
+             xmlns:hel="clr-namespace:DragonDrop.WPF.Helpers"
+             mc:Ignorable="d" 
+             d:DesignHeight="750" d:DesignWidth="596" Margin="0" Padding="0">
+    <UserControl.Resources>
+        
+            <Style x:Key="AdrDeetStyle" x:Name="AdrDeetStyle" TargetType="TextBlock">
+                <Setter Property="Visibility" Value="Hidden"/>
+            </Style>
+            <Style x:Key="CityDeetStyle" TargetType="TextBlock">
+                <Setter Property="Visibility" Value="Hidden"/>
+            </Style>
+            <Style x:Key="StateDeetStyle" TargetType="TextBlock">
+                <Setter Property="Visibility" Value="Hidden"/>
+            </Style>
+            <Style x:Key="EmailDeetStyle" TargetType="TextBlock">
+                <Setter Property="Visibility" Value="Hidden"/>
+            </Style>
+            <Style TargetType="StackPanel">
+                <Setter Property="Margin" Value="0"/>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="{x:Null}"/>
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+            </Style>
+            <Style x:Key="SearchTextBoxStyle" TargetType="TextBox">
+                <Setter Property="Width" Value="410"/>
+                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+                <Setter Property="Margin" Value="0"/>
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="FontFamily" Value="{Binding SearchFont}"/>
+                <Setter Property="Background" Value="Gold"/>
+                <Setter Property="FontStyle" Value="{Binding SearchStyle}"/>
+                <Setter Property="Foreground" Value="{Binding SearchColour}"/>
+                <Setter Property="Text" Value="{Binding SearchText}"/>
+            </Style>
+            <Style TargetType="DataGrid">
+                <Setter Property="GridLinesVisibility" Value="Vertical"/>
+                <Setter Property="Height" Value="760"/>
+                <Setter Property="CanUserAddRows" Value="False"/>
+                <Setter Property="CanUserDeleteRows" Value="False"/>
+                <Setter Property="AutoGenerateColumns" Value="False"/>
+                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                <Setter Property="ColumnWidth" Value="*"/>
+                <Setter Property="AlternatingRowBackground" Value="#CCFF33"/>
+                <Setter Property="SelectionMode" Value="Single"/>
+                <Setter Property="CanUserReorderColumns" Value="False"/>
+                <Setter Property="CanUserResizeColumns" Value="False"/>
+                <Setter Property="CanUserResizeRows" Value="False"/>
+                <Setter Property="IsReadOnly" Value="True"/>
+            </Style>
+            <Style TargetType="{x:Type DataGridCell}">
+                <Setter Property="Foreground" Value="Black" />
+                <Style.Triggers>
+                    <Trigger Property="IsSelected" Value="True">
+                        <Setter Property="Background" Value="{x:Null}" />
+                        <Setter Property="BorderBrush" Value="{x:Null}" />
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            <Style  TargetType="{x:Type DataGridRow}">
+                <Setter Property="Foreground" Value="Black" />
+                <Style.Triggers>
+                    <Trigger Property="IsSelected" Value="True">
+                        <Setter Property="Background" Value="Azure" />
+                        <Setter Property="BorderBrush" Value="{x:Null}" />
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            <Style x:Key="ArrowStyle" TargetType="Image">
+                <Setter Property="Source" Value="pack://application:,,,/Art/arrow.png"/>
+                <Setter Property="Height" Value="26"/>
+                <Setter Property="RenderTransformOrigin" Value=".5 .5"/>
+            </Style>
+        
+    </UserControl.Resources>
+    
+    <!--SearchBar-->
+    <StackPanel Orientation="Vertical">
+        <!--First Line-->
+        <StackPanel Orientation="Horizontal">
+            <StackPanel.Resources>
+                
+                    <my:Double x:Key="SearchBtnSize">30</my:Double>
+                    <Style x:Key="SearchLabelStyle" TargetType="Label">
+                        <Setter Property="Content" Value="Search:"/>
+                        <Setter Property="HorizontalAlignment" Value="Center"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="BorderBrush" Value="Transparent"/>
+                        <Setter Property="Margin" Value="0"/>
+                        <Setter Property="Padding" Value="4 0"/>
+                        <Setter Property="FontSize" Value="18"/>
+                    </Style>
+                
+            </StackPanel.Resources>
+            <Button Click="AdvSearchExpanderBtn_Click" ToolTip="Advanced Search">
+                <Image x:Name="AdvSearchArrow" Style="{StaticResource ArrowStyle}"/>
+                <!--Notify VM of Toggling-->
+                <i:Interaction.Behaviors>
+                    <beh:EventToCommandBehavior Command="{Binding AdvVisChangedCommand}" Event="Click" PassArguments="False"/>
+                </i:Interaction.Behaviors>
+            </Button>
+            
+            <!--Figure out reflection to generalize Add Edit Forms ~~-->
+            
+            <Label Style="{StaticResource SearchLabelStyle}"/>
+            <TextBox Style="{StaticResource SearchTextBoxStyle}" Tag="LosslessTxtBox" KeyUp="FilterBox_KeyUp"
+                         Text="{Binding SearchText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+                <i:Interaction.Behaviors>
+                    <beh:EventToCommandBehavior Command="{Binding SearchGotFocusCommand}" Event="GotFocus" PassArguments="False"/>
+                    <beh:EventToCommandBehavior Command="{Binding SearchLostFocusCommand}" Event="LostFocus" PassArguments="False"/>
+                    <beh:EventToCommandBehavior Command="{Binding SearchTextChangedCommand}" Event="TextChanged" PassArguments="False"/>
+                </i:Interaction.Behaviors>
+            </TextBox>
+            <Button>
+                <Image Source="pack://application:,,,/Art/search.png" Height="{StaticResource SearchBtnSize}"/>
+                <i:Interaction.Behaviors>
+                    <beh:EventToCommandBehavior Command="{Binding SearchCommand}" Event="Click" PassArguments="False"/>
+                </i:Interaction.Behaviors>
+            </Button>
+            <Button x:Name="ResetBtn" Click="ResetBtn_Click">
+                <Image Source="pack://application:,,,/Art/reset.png" Height="{StaticResource SearchBtnSize}"/>
+                <i:Interaction.Behaviors>
+                    <beh:EventToCommandBehavior Command="{Binding ResetCommand}" Event="Click" PassArguments="False"/>
+                </i:Interaction.Behaviors>
+            </Button>
+
+        </StackPanel>
+        <!--AdvancedSearch Expander-->
+        <StackPanel Orientation="Vertical" Name="AdvSearch" Visibility="Collapsed">
+            <StackPanel.Resources>
+                
+                    <Style TargetType="Label">
+                        <Setter Property="HorizontalAlignment" Value="Center"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="BorderBrush" Value="Transparent"/>
+                        <Setter Property="Margin" Value="0"/>
+                        <Setter Property="Padding" Value="0"/>
+                        <Setter Property="FontSize" Value="18"/>
+                    </Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="HorizontalAlignment" Value="Center"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="Margin" Value="0"/>
+                        <Setter Property="Padding" Value="0"/>
+                        <Setter Property="FontSize" Value="18"/>
+                    </Style>
+                    <Style TargetType="TextBox">
+                        <Setter Property="HorizontalAlignment" Value="Center"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="BorderBrush" Value="{x:Null}"/>
+                        <Setter Property="Background" Value="{x:Null}"/>
+                        <Setter Property="Margin" Value="0"/>
+                        <Setter Property="Padding" Value="0"/>
+                        <Setter Property="FontSize" Value="22"/>
+                        <Setter Property="FontFamily" Value="Consolas"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="Tag" Value="LosslessTxtBox"/>
+
+                    </Style>
+                    <Style TargetType="ComboBox">
+                        <Setter Property="FontSize" Value="16"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="Margin" Value="0"/>
+                        <Setter Property="Padding" Value="0 4"/>
+                    </Style>
+                
+
+            </StackPanel.Resources>
+
+            <!--Line The Second-->
+            <DockPanel Background="Gold" Height="30">
+                <DockPanel.Resources>
+                    
+                        <Style TargetType="StackPanel">
+                            <Setter Property="Orientation" Value="Horizontal"/>
+                            <Setter Property="DockPanel.Dock" Value="Right"/>
+                        </Style>
+                    
+                </DockPanel.Resources>
+                <Button Click="ResetCont_Click">
+                    <Image Source="pack://application:,,,/Art/close.png" Height="20"/>
+                </Button>
+                <Label Content="Continuous Search:"/>
+                <Button x:Name="ContSearchToggle" Margin="0" Padding="0" FontSize="20" VerticalContentAlignment="Center" 
+                        VerticalAlignment="Center" Width="50" Click="ContSearchToggle_Click"
+                                    Content="{Binding ContSearchToggleText, Mode=TwoWay, 
+                                UpdateSourceTrigger=PropertyChanged}" ToolTip="WARNING: May drastically impact performance"
+                        HorizontalAlignment="Left">
+                            <i:Interaction.Behaviors>
+                                <beh:EventToCommandBehavior Command="{Binding ToggleContinuousCommand}" 
+                                                                Event="Click" PassArguments="False"/>
+                            </i:Interaction.Behaviors>
+                        </Button>
+            </DockPanel>
+
+            <!--Line The Third-->
+            <StackPanel Orientation="Horizontal" Background="PaleVioletRed" Height="28">
+                <Button Click="ResetAdvSort_Click">
+                    <Image Source="pack://application:,,,/Art/close.png" Height="20"/>
+                </Button>
+                <Label Content="Sort by:" FontSize="18"/>
+                <ComboBox Width="160" Margin="4 0" ItemsSource="{Binding SortOptions}"
+                              SelectedIndex="{Binding SelSortIndex, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                              x:Name="AdvSortCombo"/>
+                <Button x:Name="AdvSortDirToggle" Content="{Binding AdvSortDirToggle, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                            FontSize="18" Click="AdvSortDirToggle_Click"/>
+            </StackPanel>
+
+            <!--Line Fourth-->
+            <DockPanel Background="LightGoldenrodYellow" Height="36">
+                <Button Click="ResetAdvPage_Click">
+                    <Image Source="pack://application:,,,/Art/close.png" Height="20"/>
+                </Button>
+                <!--Left/Right-->
+                <StackPanel DockPanel.Dock="Right" Orientation="Horizontal">
+                    <Button Visibility="{Binding PrevVisibility}">
+                        <Image Style="{StaticResource ArrowStyle}">
+                            <Image.RenderTransform>
+                                <RotateTransform Angle="90"/>
+                            </Image.RenderTransform>
+                        </Image>
+                        <i:Interaction.Behaviors>
+                            <beh:EventToCommandBehavior Command="{Binding PrevCommand}" Event="Click" PassArguments="False"/>
+                        </i:Interaction.Behaviors>
+                    </Button>
+                    <Label Content="{Binding AdvPagingText}"/>
+                    <Button Visibility="{Binding NextVisibility}">
+                        <Image Style="{StaticResource ArrowStyle}">
+                            <Image.RenderTransform>
+                                <RotateTransform Angle="-90"/>
+                            </Image.RenderTransform>
+                        </Image>
+                        <i:Interaction.Behaviors>
+                            <beh:EventToCommandBehavior Command="{Binding NextCommand}" Event="Click" PassArguments="False"/>
+                        </i:Interaction.Behaviors>
+                    </Button>
+                </StackPanel>
+                <!--Page Size-->
+                <StackPanel DockPanel.Dock="Left" Orientation="Horizontal">
+                    <Label Content="Showing: "/>
+                    <TextBox Text="{Binding AdvPageSizeText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                 LostFocus="AdvPgSizeTxt_LostFocus" Tag="SelectableTxtBox"
+                                 x:Name="AdvPageBox" KeyUp="PageSizeBox_KeyUp"/>
+                    <Label Content=" results" x:Name="ResPerPageLbl"/>
+                </StackPanel>
+            </DockPanel>
+
+        </StackPanel>
+
+        <!--Data Grid-->
+        <DataGrid ItemsSource="{Binding CustomerList, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}" Name="custDG"
+                  SelectionChanged="CustDG_SelectionChanged">
+            <DataGrid.Resources>
+                
+                    <my:Double x:Key="HeaderImgSize">30</my:Double>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    </Style>
+                    <Style x:Key="TextCellStyle" TargetType="TextBlock">
+                        <Setter Property="HorizontalAlignment" Value="Center" />
+                        <Setter Property="VerticalAlignment" Value="Center" />
+                        <Setter Property="FontSize" Value="20"/>
+                        <Setter Property="TextAlignment" Value="Center"/>
+                        <Setter Property="TextWrapping" Value="Wrap"/>
+                    </Style>
+                
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding CustomerId}" Width="SizeToCells" MinWidth="50"
+                                    ElementStyle="{StaticResource TextCellStyle}" FontWeight="Bold">
+                    <DataGridTextColumn.Header>
+                        <Image Source="pack://application:,,,/Art/hashtag.png" Height="{StaticResource HeaderImgSize}" ToolTip="ID"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Name}" Width="*"
+                                    ElementStyle="{StaticResource TextCellStyle}" FontSize="22">
+                    <DataGridTextColumn.Header>
+                        <Image Source="pack://application:,,,/Art/parchment.png" Height="{StaticResource HeaderImgSize}" ToolTip="Name"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Phone}" Width="*"
+                                    ElementStyle="{StaticResource TextCellStyle}" FontWeight="Bold">
+                    <DataGridTextColumn.Header>
+                        <Image Source="pack://application:,,,/Art/phoneReceiver.png" 
+                               Height="{StaticResource HeaderImgSize}" ToolTip="Phone"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTemplateColumn  Width="*">
+                    <DataGridTemplateColumn.Header>
+                        <Grid HorizontalAlignment="Stretch">
+                        <Button HorizontalAlignment="Stretch" Click="AdrDeetHeader_Click" Margin="0" Padding="0"
+                                ToolTip="Address Details">
+                            <Image Source="pack://application:,,,/Art/orderItem.png"
+                               Height="{StaticResource HeaderImgSize}" Margin="0"/>
+                        </Button>
+
+                        <Popup x:Name="DetailsPop" IsOpen="False" StaysOpen="False" ToolTip="Sort by Details" >
+                            <StackPanel Orientation="Vertical" Background="LightPink">
+                                <StackPanel.Resources>
+                                    
+                                        <Style TargetType="Button">
+                                            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                                            <Setter Property="Background" Value="{x:Null}"/>
+                                            <Setter Property="BorderBrush" Value="{x:Null}"/>
+                                        </Style>
+                                        <Style x:Key="SortOptionsStyle" TargetType="Label">
+                                            <Setter Property="VerticalAlignment" Value="Center"/>
+                                            <Setter Property="Padding" Value="0"/>
+                                            <Setter Property="Margin" Value="0"/>
+                                            <Setter Property="FontSize" Value="20"/>
+                                            <Setter Property="FontFamily" Value="Georgia"/>
+                                        </Style>
+                                    
+                                </StackPanel.Resources>
+                                <Label Content="Sort by:" HorizontalAlignment="Center" FontSize="24" 
+                                           Margin="0" Padding="0" FontWeight="Bold"/>
+                                <Button Click="SortByAdr_Click">
+                                    <DockPanel Width="132">
+
+                                        <Image Source="pack://application:,,,/Art/mapMarker.png" Height="{StaticResource HeaderImgSize}" HorizontalAlignment="Left"/>
+                                        <Label Content="Address" Style="{StaticResource SortOptionsStyle}" HorizontalAlignment="Center"/>
+                                    </DockPanel>
+                                </Button>
+                                <Button Click="SortByCity_Click">
+                                    <DockPanel Width="132">
+                                        <Image  Source="pack://application:,,,/Art/cityBuildings.png" 
+                                                Height="{StaticResource HeaderImgSize}"/>
+                                        <Label HorizontalAlignment="Center"  Content="City" Style="{StaticResource SortOptionsStyle}"/>
+                                    </DockPanel>
+                                </Button>
+                                <Button Click="SortByState_Click">
+                                    <DockPanel Width="132">
+                                        <Image Source="pack://application:,,,/Art/state.png" Height="{StaticResource HeaderImgSize}"/>
+                                        <Label HorizontalAlignment="Center" Content="State" Style="{StaticResource SortOptionsStyle}"/>
+                                    </DockPanel>
+                                </Button>
+                                    <Button Click="SortByEmail_Click">
+                                        <DockPanel Width="132">
+                                            <Image Source="pack://application:,,,/Art/mail.png" Height="{StaticResource HeaderImgSize}"/>
+                                            <Label HorizontalAlignment="Center" Content="E-mail" Style="{StaticResource SortOptionsStyle}"/>
+                                        </DockPanel>
+                                    </Button>
+                                </StackPanel>
+                        </Popup>
+                        </Grid>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Button Click="Button_Click">
+                                    <Button.Content>
+                                        <Grid>
+                                            <!--Button Stretcher: Assures a Button is Clickable even when it has no content-->
+                                            <hel:ButtonStretcher/>
+                                            <TextBlock
+                                            Text="{Binding City}" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                                   FontSize="18"  TextWrapping="Wrap" TextAlignment="Center" 
+                                                Style="{DynamicResource CityDeetStyle}"/>
+
+                                            <TextBlock
+                                            Text="{Binding Email}" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                                   FontSize="18"  TextWrapping="Wrap" TextAlignment="Center"
+                                                Style="{DynamicResource EmailDeetStyle}"/>
+
+                                            <TextBlock
+                                            Text="{Binding State}" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                                   FontSize="18"  TextWrapping="Wrap" TextAlignment="Center"
+                                                Style="{DynamicResource StateDeetStyle}"/>
+
+                                            <TextBlock
+                                            Text="{Binding Address}" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                                   FontSize="18"  TextWrapping="Wrap" TextAlignment="Center"
+                                                Style="{DynamicResource AdrDeetStyle}"/>
+                                        </Grid>
+                                    </Button.Content>
+                                </Button>
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn x:Name="ButtonsCollumn" Width="SizeToHeader">
+                    <DataGridTemplateColumn.Header>
+                        <Button Background="{x:Null}" Margin="0" Padding="0" Click="NewEntry_Click">
+                            <Image Source="pack://application:,,,/Art/newRecord.png" Height="{StaticResource HeaderImgSize}"/>
+                        </Button>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="EditEntry_Click">
+                                <Image Source="pack://application:,,,/Art/pencil.png" 
+                                       Height="{StaticResource HeaderImgSize}"/>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+    </StackPanel>
+
+</UserControl>

@@ -1,0 +1,178 @@
+2019-10-06 06:20:11.3112|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-10-06 06:20:11.3222|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItems...
+2019-10-06 06:20:19.0964|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|80 records found.
+2019-10-06 06:20:19.0964|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 80 records from Repo.
+2019-10-06 06:20:42.6239|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting all OrderItem with Order ID:	2 from Repo.
+2019-10-06 06:20:42.6239|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Order ID:	2
+2019-10-06 06:20:42.6389|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 8 OrderItems in Order ID:	2
+2019-10-06 06:20:42.6389|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 8 records from Repo.
+2019-10-06 06:20:59.3229|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting all OrderItem for Product with ID:	13 from Repo.
+2019-10-06 06:20:59.3229|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Product ID:	13
+2019-10-06 06:20:59.3369|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 1 OrderItems in Product ID:	13
+2019-10-06 06:20:59.3369|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 1 records from Repo.
+2019-10-06 06:21:02.2836|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting all OrderItem for Product with ID:	17 from Repo.
+2019-10-06 06:21:02.2836|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Product ID:	17
+2019-10-06 06:21:02.2836|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 0 OrderItems in Product ID:	17
+2019-10-06 06:21:02.2836|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 0 records from Repo.
+2019-10-06 06:21:05.3738|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting all OrderItem for Product with ID:	12 from Repo.
+2019-10-06 06:21:05.3738|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Product ID:	12
+2019-10-06 06:21:05.3738|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 3 OrderItems in Product ID:	12
+2019-10-06 06:21:05.3738|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-10-06 06:21:27.9647|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	4 and Product ID:	20 from Repo.
+2019-10-06 06:21:27.9647|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching OrderItem for Order ID:	4 of Product ID:	20
+2019-10-06 06:21:27.9896|WARN|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found no OrderItem with Order/Product IDs:	4/20
+2019-10-06 06:21:27.9896|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	4/20
+2019-10-06 06:21:44.5820|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	20 and Product ID:	4 from Repo.
+2019-10-06 06:21:44.5820|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching OrderItem for Order ID:	20 of Product ID:	4
+2019-10-06 06:21:44.5820|WARN|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found no OrderItem with Order/Product IDs:	20/4
+2019-10-06 06:21:44.5820|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	20/4
+2019-10-06 06:21:53.1904|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	2 and Product ID:	40 from Repo.
+2019-10-06 06:21:53.1904|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching OrderItem for Order ID:	2 of Product ID:	40
+2019-10-06 06:22:36.6961|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItems, according to 
+ ORDER ID: 2
+ Page Index: 1; Page Size: 2 from Repo.
+2019-10-06 06:22:36.6961|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo filtering and paging OrderItems, according to 
+ ORDER ID: 2
+ Page Index: 1; Page Size: 2
+2019-10-06 06:22:36.6961|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Order ID:	2
+2019-10-06 06:22:36.6961|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 8 OrderItems in Order ID:	2
+2019-10-06 06:22:36.6961|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching page 1 of size 2 from filtered OrderItem records.
+2019-10-06 06:22:36.6961|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo retrieved 2 records.
+2019-10-06 06:22:36.6961|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service received 2 records from Repo.
+2019-10-06 06:23:00.0604|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItems, according to 
+ ORDER ID: 2
+ Page Index: 2; Page Size: 2 from Repo.
+2019-10-06 06:23:00.0604|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo filtering and paging OrderItems, according to 
+ ORDER ID: 2
+ Page Index: 2; Page Size: 2
+2019-10-06 06:23:00.0604|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Order ID:	2
+2019-10-06 06:23:00.0604|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 8 OrderItems in Order ID:	2
+2019-10-06 06:23:00.0604|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching page 2 of size 2 from filtered OrderItem records.
+2019-10-06 06:23:00.0604|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo retrieved 2 records.
+2019-10-06 06:23:00.0604|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service received 2 records from Repo.
+2019-10-06 06:23:13.9758|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting all OrderItem for Product with ID:	2 from Repo.
+2019-10-06 06:23:13.9758|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Product ID:	2
+2019-10-06 06:23:13.9758|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 2 OrderItems in Product ID:	2
+2019-10-06 06:23:13.9758|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 2 records from Repo.
+2019-10-06 06:23:18.3726|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting all OrderItem for Product with ID:	3 from Repo.
+2019-10-06 06:23:18.3726|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Product ID:	3
+2019-10-06 06:23:18.3726|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 0 OrderItems in Product ID:	3
+2019-10-06 06:23:18.3726|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 0 records from Repo.
+2019-10-06 06:23:20.3322|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting all OrderItem for Product with ID:	4 from Repo.
+2019-10-06 06:23:20.3322|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Product ID:	4
+2019-10-06 06:23:20.3322|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 1 OrderItems in Product ID:	4
+2019-10-06 06:23:20.3322|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 1 records from Repo.
+2019-10-06 06:23:21.6551|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting all OrderItem for Product with ID:	5 from Repo.
+2019-10-06 06:23:21.6551|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Product ID:	5
+2019-10-06 06:23:21.6551|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 0 OrderItems in Product ID:	5
+2019-10-06 06:23:21.6551|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 0 records from Repo.
+2019-10-06 06:23:23.1800|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting all OrderItem for Product with ID:	6 from Repo.
+2019-10-06 06:23:23.1800|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Product ID:	6
+2019-10-06 06:23:23.1800|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 3 OrderItems in Product ID:	6
+2019-10-06 06:23:23.1800|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-10-06 06:23:38.2061|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItems, according to 
+ PRODUCT ID: 6
+ Page Index: 2; Page Size: 2 from Repo.
+2019-10-06 06:23:38.2061|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo filtering and paging OrderItems, according to 
+ PRODUCT ID: 6
+ Page Index: 2; Page Size: 2
+2019-10-06 06:23:38.2061|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching all OrderItem for Product ID:	6
+2019-10-06 06:23:38.2061|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found 3 OrderItems in Product ID:	6
+2019-10-06 06:23:38.2061|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching page 2 of size 2 from filtered OrderItem records.
+2019-10-06 06:23:38.2061|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo retrieved 1 records.
+2019-10-06 06:23:38.2061|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service received 1 records from Repo.
+2019-10-06 06:23:59.7320|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting page 1 of size 2 from all OrderItem records in Repo.
+2019-10-06 06:23:59.7320|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching page 1 of size 2 from all OrderItem records.
+2019-10-06 06:23:59.7320|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo retrieved 2 records.
+2019-10-06 06:23:59.7320|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 2 records from Repo.
+2019-10-06 06:25:00.7529|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching OrderItem for Order ID:	1 of Product ID:	17
+2019-10-06 06:25:00.7529|WARN|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found no OrderItem with Order/Product IDs:	1/17
+2019-10-06 06:25:00.7569|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting record creation for OrderItem with Order ID:	1 and Product ID:	17
+2019-10-06 06:25:00.7569|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo creating record for OrderItem for Order:	1 for Product:	17
+2019-10-06 06:25:01.0139|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|OrderItem succesfully registered.
+2019-10-06 06:25:01.0139|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Repo returned to Data Service.
+2019-10-06 06:25:07.8375|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching OrderItem for Order ID:	1 of Product ID:	17
+2019-10-06 06:25:07.8375|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem already exists. If you wish to change the Quantity, please use the Update.
+2019-10-06 06:25:33.2016|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching OrderItem for Order ID:	1 of Product ID:	17
+2019-10-06 06:25:33.2016|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting update for record with Order/Product IDs:	1/17 from Repo.
+2019-10-06 06:25:33.2016|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo updating record for OrderItem with Order/Product IDs:	1/17
+2019-10-06 06:25:33.2016|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching OrderItem for Order ID:	1 of Product ID:	17
+2019-10-06 06:25:33.2316|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo succesfully updated OrderItem with Order/Product IDs:	1/17
+2019-10-06 06:25:33.2316|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|Repo finished update and returned to OrderItem Data Service.
+2019-10-06 06:25:41.1425|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching OrderItem for Order ID:	1 of Product ID:	17
+2019-10-06 06:25:41.1425|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem already exists. If you wish to change the Quantity, please use the Update.
+2019-10-06 06:26:22.3060|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching OrderItem for Order ID:	1 of Product ID:	17
+2019-10-06 06:26:22.3060|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem already exists. If you wish to change the Quantity, please use the Update.
+2019-10-06 06:26:43.1083|INFO|DragonDrop.DAL.Implementation.OrderItemRepository|Repo fetching OrderItem for Order ID:	38 of Product ID:	17
+2019-10-06 06:26:43.1083|WARN|DragonDrop.DAL.Implementation.OrderItemRepository|Repo found no OrderItem with Order/Product IDs:	38/17
+2019-10-06 06:26:43.1083|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+Order Item with Order/Product IDs: 38/17 was not found.
+2019-10-06 06:59:28.9529|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+Payments require a valid CustomerId.Payment Method not found; Please submit a valid Payment Method ID.A payment's Date cannot be blank.amount must be greater than 0.
+No Payment with ID: 0 found in Repo.
+
+2019-10-06 06:59:37.2551|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-10-06 06:59:37.3101|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-10-06 07:01:18.7130|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-10-06 07:01:24.7080|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-10-06 07:37:38.3608|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-10-06 07:37:42.3975|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-10-06 08:36:15.2180|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-10-06 08:36:15.2360|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching all Payments...
+2019-10-06 08:36:18.3990|INFO|DragonDrop.DAL.Implementation.PaymentRepository|50 records found.
+2019-10-06 08:36:18.3990|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 50 records from Repo.
+2019-10-06 08:40:30.5293|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting page 5 of size 10 from all Payment records in Repo.
+2019-10-06 08:40:30.5293|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching page 5 of size 10 from all Payment records.
+2019-10-06 08:40:30.5293|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 10 records.
+2019-10-06 08:40:30.5293|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 10 records from Repo.
+2019-10-06 08:40:50.5362|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	ced
+2019-10-06 08:40:50.5362|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CED
+2019-10-06 08:40:51.0382|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 2 Payments that match: CED
+2019-10-06 08:40:51.0382|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 2 records from Repo.
+2019-10-06 08:41:02.5547|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	118.36
+2019-10-06 08:41:02.5547|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	118.36
+2019-10-06 08:41:02.6897|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 0 Payments that match: 118.36
+2019-10-06 08:41:02.6897|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 0 records from Repo.
+2019-10-06 08:41:04.8608|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	1118.36
+2019-10-06 08:41:04.8608|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	1118.36
+2019-10-06 08:41:05.0228|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 0 Payments that match: 1118.36
+2019-10-06 08:41:05.0228|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 0 records from Repo.
+2019-10-06 08:41:08.7541|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	ced
+2019-10-06 08:41:08.7541|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CED
+2019-10-06 08:41:08.9071|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 2 Payments that match: CED
+2019-10-06 08:41:08.9071|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 2 records from Repo.
+2019-10-06 08:41:18.3367|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	1188.36
+2019-10-06 08:41:18.3367|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	1188.36
+2019-10-06 08:41:18.4257|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 1 Payments that match: 1188.36
+2019-10-06 08:41:18.4257|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 1 records from Repo.
+2019-10-06 08:41:32.4569|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	24Feb2017
+2019-10-06 08:41:32.4569|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	24FEB2017
+2019-10-06 08:41:32.5839|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 1 Payments that match: 24FEB2017
+2019-10-06 08:41:32.5839|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 1 records from Repo.
+2019-10-06 08:41:40.5284|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	24tFeb2017
+2019-10-06 08:41:40.5284|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	24TFEB2017
+2019-10-06 08:41:40.6194|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 0 Payments that match: 24TFEB2017
+2019-10-06 08:41:40.6194|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 0 records from Repo.
+2019-10-06 08:41:42.2913|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	24thFeb2017
+2019-10-06 08:41:42.2913|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	24THFEB2017
+2019-10-06 08:41:42.4023|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 0 Payments that match: 24THFEB2017
+2019-10-06 08:41:42.4023|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 0 records from Repo.
+2019-10-06 08:42:12.3514|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payments from Repo, according to 
+ SEARCH: ced
+ Page Index: 2; Page Size: 1
+2019-10-06 08:42:12.3514|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo filtering and paging Payments, according to 
+ SEARCH: ced
+ Page Index: 2; Page Size: 1
+2019-10-06 08:42:12.3514|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CED
+2019-10-06 08:42:12.4434|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 2 Payments that match: CED
+2019-10-06 08:42:12.4434|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo fetching page 2 of size 1 from select Payment records.
+2019-10-06 08:42:12.4434|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 1 records.
+2019-10-06 08:42:12.4434|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo retrieved 1 records.
+2019-10-06 08:42:12.4434|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-10-06 08:42:19.3412|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment records from Repo by Search:	Cash
+2019-10-06 08:42:19.3412|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo searching Payment records by:	CASH
+2019-10-06 08:42:19.4332|INFO|DragonDrop.DAL.Implementation.PaymentRepository|Repo found 8 Payments that match: CASH
+2019-10-06 08:42:19.4332|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got 8 records from Repo.

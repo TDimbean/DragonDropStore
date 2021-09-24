@@ -1,0 +1,68 @@
+2019-09-20 08:23:30.0222|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-09-20 08:23:30.0372|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-09-20 08:23:30.0372|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/13/2019 12:00:00 AM
+2019-09-20 08:23:30.0372|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because the data submitted was incomplete.
+2019-09-20 08:23:30.0372|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/13/2019 12:00:00 AM
+2019-09-20 08:23:30.0372|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because the data submitted was incomplete.
+2019-09-20 08:23:30.0372|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/13/2019 12:00:00 AM
+2019-09-20 08:23:30.0372|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because the data submitted was incomplete.
+2019-09-20 08:23:30.0372|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by Customer:	0	NAME: Will Smith from Page: 1 of Size: 1
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 0 orders placed by Customer with ID: 0
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 0 Orders on requested page.
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by Customer:	0	NAME: Will Smith from Page: 2 of Size: 1
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 0 orders placed by Customer with ID: 0
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 0 Orders on requested page.
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by Customer:	0	NAME: Will Smith from Page: 3 of Size: 1
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 0 orders placed by Customer with ID: 0
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 0 Orders on requested page.
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by Customer:	0	NAME: Will Smith from Page: 1 of Size: 2
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 0 orders placed by Customer with ID: 0
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 0 Orders on requested page.
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by Customer:	0	NAME: Will Smith from Page: 2 of Size: 2
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 0 orders placed by Customer with ID: 0
+2019-09-20 08:23:30.0442|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 0 Orders on requested page.
+2019-09-20 08:23:30.5761|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Customer with ID:	939662607 and hence no orders by said Customer.
+ Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.GetAllByCustomerIdAndPaged(Int32 custId, Int32 pgSize, Int32 pgIndex) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 153
+2019-09-20 08:24:03.2614|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Customer with ID:	1060059743 and hence no orders by said Customer.
+ Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.GetAllByCustomerIdAndPaged(Int32 custId, Int32 pgSize, Int32 pgIndex) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 153
+2019-09-20 08:25:00.4449|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Customer with ID:	92349983 and hence no orders by said Customer.
+ Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.GetAllByCustomerIdAndPaged(Int32 custId, Int32 pgSize, Int32 pgIndex) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 153
+2019-09-20 08:25:38.4182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-09-20 08:25:44.9797|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-09-20 08:27:47.2965|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/19/2019 12:00:00 AM
+2019-09-20 08:29:47.0265|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-09-20 08:29:47.0555|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-09-20 08:29:47.0665|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/17/2019 12:00:00 AM
+2019-09-20 08:29:47.0665|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/17/2019 12:00:00 AM.
+2019-09-20 08:29:47.0665|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/17/2019 12:00:00 AM
+2019-09-20 08:29:47.0665|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/17/2019 12:00:00 AM.
+2019-09-20 08:29:47.0665|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/17/2019 12:00:00 AM
+2019-09-20 08:29:47.0665|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/17/2019 12:00:00 AM.
+2019-09-20 08:29:47.0665|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by Customer:	0	NAME: Will Smith from Page: 1 of Size: 1
+2019-09-20 08:29:47.0665|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-20 08:29:47.0665|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by Customer:	0	NAME: Will Smith from Page: 2 of Size: 1
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by Customer:	0	NAME: Will Smith from Page: 3 of Size: 1
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by Customer:	0	NAME: Will Smith from Page: 1 of Size: 2
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders on requested page.
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by Customer:	0	NAME: Will Smith from Page: 2 of Size: 2
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-20 08:29:47.0875|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.

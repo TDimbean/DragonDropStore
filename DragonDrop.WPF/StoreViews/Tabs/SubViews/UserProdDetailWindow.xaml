@@ -1,0 +1,92 @@
+﻿<Window x:Class="DragonDrop.WPF.StoreViews.Tabs.SubViews.UserProdDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.SubViews"
+        xmlns:conv="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.Converters"
+        mc:Ignorable="d"
+        Title="Product Details"  WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" ResizeMode="NoResize" SizeToContent="WidthAndHeight" Background="#FFBB00">
+
+    <Window.Resources>
+        
+            <Style TargetType="TextBlock">
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="HorizontalAlignment" Value="Left"/>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="{x:Null}"/>
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+            </Style>
+            <SolidColorBrush x:Key="AlternateRowBg" Color="#f5972e"/>
+            <SolidColorBrush x:Key="MainColour" Color="#F9BB77"/>
+            <conv:IdToCategoryConverter x:Key="IdToCatConv"/>
+            <conv:RawCodeToUpcConverter x:Key="RawCodeToUpcConv"/>
+        
+    </Window.Resources>
+
+    <StackPanel>
+        <DockPanel Margin="4">
+            <Image Source="pack://application:,,,/Art/products.png" Height="60" DockPanel.Dock="Left" Margin="0"/>
+            <TextBlock HorizontalAlignment="Center" Text="{Binding Name}" TextWrapping="Wrap" Width="260"
+                       Margin="0" Padding="0" FontSize="24"/>
+        </DockPanel>
+        <StackPanel Orientation="Horizontal" Background="{StaticResource AlternateRowBg}" ToolTip="Category">
+            <Image Source="pack://application:,,,/Art/pawn.png" Height="30" Margin="4"/>
+            <TextBlock Text="{Binding CategoryId, Converter={StaticResource IdToCatConv}}"
+                       Background="{x:Null}" VerticalAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Orientation="Horizontal" Width="160" ToolTip="Price">
+                <Image Source="pack://application:,,,/Art/money.png" Margin="4" Height="30"/>
+                <TextBlock Text="{Binding UnitPrice, StringFormat=c}" VerticalAlignment="Center" Background="{x:Null}"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal"  ToolTip="Stock">
+                <Image Source="pack://application:,,,/Art/store.png" Height="30" Margin="4"/>
+                <TextBlock Text="{Binding Stock}" Background="{x:Null}" VerticalAlignment="Center"/>
+            </StackPanel>
+
+        </StackPanel>
+        <StackPanel x:Name="DetailsStack" Orientation="Vertical" Visibility="Collapsed">
+            <StackPanel.Resources>
+                
+                    <Style TargetType="Image">
+                        <Setter Property="Height" Value="24"/>
+                        <Setter Property="Margin" Value="4"/>
+                    </Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="18"/>
+                    </Style>
+                    <Style TargetType="StackPanel">
+                        <Setter Property="Orientation" Value="Horizontal"/>
+                    </Style>
+                
+            </StackPanel.Resources>
+            <StackPanel Background="{StaticResource AlternateRowBg}" ToolTip="Description">
+                <Image Source="pack://application:,,,/Art/info.png" VerticalAlignment="Top"/>
+                <TextBlock Text="{Binding Description}" TextWrapping="Wrap" MaxWidth="300"/>
+            </StackPanel>
+            <StackPanel ToolTip="Barcode">
+                <Image Source="pack://application:,,,/Art/barcode.png"/>
+                <TextBlock Text="{Binding BarCode, Converter={StaticResource RawCodeToUpcConv}}"/>
+            </StackPanel>
+            <StackPanel Background="{StaticResource AlternateRowBg}" ToolTip="Manufacturer">
+                <Image  Source="pack://application:,,,/Art/manufacturer.png"/>
+                <TextBlock Text="{Binding Manufacturer}"/>
+            </StackPanel>
+        </StackPanel>
+        <Button Click="Button_Click" Background="LightSalmon">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="pack://application:,,,/Art/infoFull.png" Height="36" Margin="4"/>
+                <Label Name="AdrBtnLabel" Content="Details" Foreground="LightSlateGray" VerticalContentAlignment="Center" FontSize="16"/>
+            </StackPanel>
+        </Button>
+            <Button Click="Close_Click" Background="LemonChiffon"
+                    ToolTip="Close Window">
+                <Image Source="pack://application:,,,/Art/close.png" Height="30"/>
+            </Button>
+    </StackPanel>
+
+</Window>

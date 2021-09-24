@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="DragonDrop.WPF.StoreViews.Tabs.AdminMenuTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs"
+             mc:Ignorable="d" 
+             d:DesignHeight="750" d:DesignWidth="596" Margin="0" Padding="0">
+    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Background="LightYellow">
+        <StackPanel.Resources>
+            <Style TargetType="Label">
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                </Style>
+            <Style TargetType="Button">
+                <Setter Property="Width" Value="300"/>
+                <Setter Property="Height" Value="80"/>
+                <Setter Property="Margin" Value="0 6"/>
+                <Setter Property="FontSize" Value="24"/>
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+                <Setter Property="Foreground" Value="DarkSlateGray"/>
+                <Setter Property="Background">
+                    <Setter.Value>
+                        <LinearGradientBrush>
+                            <GradientStop Color="Goldenrod" Offset=".1"/>
+                            <GradientStop Color="Azure" Offset=".5"/>
+                        </LinearGradientBrush>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        </StackPanel.Resources>
+        <Button Content="Sign Out" Click="SignOut_Click"/>
+        <Button Content="Quit to Desktop" Click="Quit_Click"/>
+        <Button Content="Take Inventory" Click="TakeInv_Click"/>
+        <Button Content="Process Orders" Click="ProcOrders_Click"/>
+        <Button Content="Ship Orders" Click="ShipOrders_Click"/>
+        <Button Content="Modify Default Values" Click="ModValues_Click"/>
+        <Button Content="Configure Scanner" Click="ScanConfig_Click"/>
+    </StackPanel>
+
+</UserControl>

@@ -1,0 +1,419 @@
+﻿<Window x:Class="DragonDrop.WPF.StoreViews.Tabs.SubViews.ProductEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.SubViews"
+        xmlns:conv="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.Converters"
+        xmlns:beh="clr-namespace:DragonDrop.WPF"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:my="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="Edit a Product" WindowStartupLocation="CenterScreen" SizeToContent="WidthAndHeight">
+    <Window.Resources>
+        
+            <Style TargetType="StackPanel">
+                <Setter Property="Margin" Value="0"/>
+            </Style>
+            <Style TargetType="Label">
+                <Setter Property="Margin" Value="0"/>
+                <Setter Property="Padding" Value="0"/>
+            </Style>
+            <Style TargetType="Image">
+                <Setter Property="Margin" Value="0"/>
+            </Style>
+            <Style x:Key="Header" TargetType="Label">
+                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="FontFamily" Value="Consolas"/>
+                <Setter Property="FontSize" Value="40"/>
+                <Setter Property="Padding" Value="6 0"/>
+            </Style>
+            <Style x:Key="SubmitBtnStyle" TargetType="Button">
+                <Setter Property="Padding" Value="20"/>
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+                <Setter Property="Background" Value="{x:Null}"/>
+                <Setter Property="FontSize" Value="32"/>
+                <Setter Property="FontFamily" Value="Adobe Heiti Std R"/>
+            </Style>
+            <Style x:Key="ErrorStyle" TargetType="TextBlock">
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="Foreground" Value="Crimson"/>
+                <Setter Property="Margin" Value="4"/>
+                <Setter Property="TextWrapping" Value="Wrap"/>
+            </Style>
+            <Style x:Key="ErrorBorderBrush" TargetType="Border">
+                <Setter Property="BorderThickness" Value="2"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="CornerRadius" Value="12"/>
+            </Style>
+            <conv:IdToCategoryConverter x:Key="IdToCatConv"/>
+            <SolidColorBrush x:Key="AccentColour">#D2B234</SolidColorBrush>
+        
+    </Window.Resources>
+
+    <StackPanel Orientation="Vertical">
+        <!--Header-->
+        <Grid>
+            <Grid.Resources>
+                
+                    <Style x:Key="DividsStyle" TargetType="Rectangle">
+                        <Setter Property="Stroke" Value="Black"/>
+                        <Setter Property="Height" Value="2"/>
+                        <Setter Property="Width" Value="80"/>
+                        <Setter Property="StrokeThickness" Value="2"/>
+                        <Setter Property="StrokeDashArray" Value="2"/>
+                    </Style>
+                
+            </Grid.Resources>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Rectangle Grid.Column="0" Style="{StaticResource DividsStyle}"/>
+            <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Image Source="pack://application:,,,/Art/products.png" Height="60"/>
+                <Label Content="Edit Product" Style="{StaticResource Header}"/>
+            </StackPanel>
+            <Rectangle Grid.Column="2" Style="{StaticResource DividsStyle}"/>
+        </Grid>
+        <!--Body-->
+        <StackPanel>
+            <StackPanel.Resources>
+                
+                    <my:Double x:Key="HalfBoxWidth">180</my:Double>
+                    <Style TargetType="Label">
+                        <Setter Property="FontSize" Value="24"/>
+                        <Setter Property="Margin" Value="0"/>
+                        <Setter Property="Padding" Value="0"/>
+                    </Style>
+                    <Style TargetType="Image">
+                        <Setter Property="Height" Value="30"/>
+                        <Setter Property="Margin" Value="0 0 8 0"/>
+                    </Style>
+                    <Style TargetType="TextBox">
+                        <Setter Property="Background" Value="{x:Null}"/>
+                        <Setter Property="BorderBrush" Value="{x:Null}"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="22"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <EventSetter Event="KeyUp" Handler="TextBox_KeyUp"/>
+                        <Setter Property="Foreground" Value="DarkGray"/>
+                        <Setter Property="FontStyle" Value="Italic"/>
+                    </Style>
+                    <my:Double x:Key="HalfEntryWidth">230</my:Double>
+                    <Style x:Key="EntryPanel" TargetType="StackPanel">
+                        <Setter Property="Orientation" Value="Vertical"/>
+                        <Setter Property="Margin" Value="0 0 0 6"/>
+                    </Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="{x:Null}"/>
+                        <Setter Property="BorderBrush" Value="{x:Null}"/>
+                        <Setter Property="Margin" Value="0"/>
+                        <Setter Property="Padding" Value="0"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    </Style>
+                
+            </StackPanel.Resources>
+
+            <!--Name-->
+            <StackPanel Style="{StaticResource EntryPanel}"
+                        ToolTip="Required Field. Up to 50 characters." Background="{StaticResource AccentColour}">
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="pack://application:,,,/Art/infoFull.png" ToolTip="Name"/>
+                    <TextBox Text="{Binding NameEntryText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Name="NameBox"
+                             Width="400" MaxLength="50">
+                        <i:Interaction.Behaviors>
+                            <beh:EventToCommandBehavior Command="{Binding NameBoxGotFocusCommand}" Event="GotFocus" PassArguments="False"/>
+                            <beh:EventToCommandBehavior Command="{Binding NameBoxLostFocusCommand}" Event="LostFocus" PassArguments="False"/>
+                            <beh:EventToCommandBehavior Command="{Binding NameBoxTextChangedCommand}" Event="TextChanged" PassArguments="False"/>
+                        </i:Interaction.Behaviors>
+                    </TextBox>
+                </StackPanel>
+                    <Button ToolTip="Reset Value" HorizontalAlignment="Right">
+                        <Image Source="pack://application:,,,/Art/reset.png" Margin="0"/>
+                        <i:Interaction.Behaviors>
+                            <beh:EventToCommandBehavior Command="{Binding NameResetCommand}" Event="Click" PassArguments="False"/>
+                        </i:Interaction.Behaviors>
+                    </Button>
+                </DockPanel>
+                <Grid HorizontalAlignment="Center" Margin="0 6" Visibility="{Binding NameErrorVisibility}">
+                    <Border Style="{StaticResource ErrorBorderBrush}">
+                        <Border.BorderBrush>
+                            <DrawingBrush Viewport="0,0,8,8" ViewportUnits="Absolute" TileMode="Tile">
+                                <DrawingBrush.Drawing>
+                                    <DrawingGroup>
+                                        <GeometryDrawing Brush="Crimson">
+                                            <GeometryDrawing.Geometry>
+                                                <GeometryGroup>
+                                                    <RectangleGeometry Rect="0,0,50,50" />
+                                                    <RectangleGeometry Rect="50,50,50,50" />
+                                                </GeometryGroup>
+                                            </GeometryDrawing.Geometry>
+                                        </GeometryDrawing>
+                                    </DrawingGroup>
+                                </DrawingBrush.Drawing>
+                            </DrawingBrush>
+                        </Border.BorderBrush>
+
+                        <TextBlock Text="{Binding NameErrorText}" Style="{StaticResource ErrorStyle}"/>
+                    </Border>
+                </Grid>
+            </StackPanel>
+            <!--Category-->
+            <StackPanel Style="{StaticResource EntryPanel}" Orientation="Horizontal">
+                <Image Source="pack://application:,,,/Art/pawn.png" ToolTip="Category"/>
+                <ComboBox ItemsSource="{Binding Categories}" 
+                              DisplayMemberPath="Name" IsReadOnly="True" 
+                              FontSize="18"  Width="192"
+                              HorizontalAlignment="Center" VerticalAlignment="Center"
+                              HorizontalContentAlignment="Center"
+                          SelectedIndex="{Binding SelIndex, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                              SelectedItem="{Binding SelectedCategory, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"
+                              KeyUp="Combo_KeyUp">
+                </ComboBox>
+                <Button ToolTip="Reset Value">
+                    <Image Source="pack://application:,,,/Art/reset.png" Margin="0"/>
+                    <i:Interaction.Behaviors>
+                        <beh:EventToCommandBehavior Command="{Binding CatResetCommand}" Event="Click" PassArguments="False"/>
+                    </i:Interaction.Behaviors>
+                </Button>
+            </StackPanel>
+            <!--Price & Stock-->
+            <StackPanel Orientation="Vertical"  Background="{StaticResource AccentColour}">
+                
+            <StackPanel Orientation="Horizontal">
+                
+            <StackPanel Style="{StaticResource EntryPanel}">
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal" Width="{StaticResource HalfEntryWidth}" HorizontalAlignment="Left" 
+                        ToolTip="Must be a valid decimal ammount(can be set later)">
+                        <Image Source="pack://application:,,,/Art/money.png" ToolTip="Price"/>
+                        <TextBox Text="{Binding PriceEntryText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                                 PreviewTextInput="PriceBox_PreviewTextInput" Width="{StaticResource HalfBoxWidth}">
+                            <i:Interaction.Behaviors>
+                                <beh:EventToCommandBehavior Command="{Binding PriceBoxLostFocusCommand}" Event="LostFocus" PassArguments="False"/>
+                                <beh:EventToCommandBehavior Command="{Binding PriceBoxTextChangedCommand}" Event="TextChanged" PassArguments="False"/>
+                            </i:Interaction.Behaviors>
+                        </TextBox>
+                    </StackPanel>
+                    <Button ToolTip="Reset Value" HorizontalAlignment="Right">
+                        <Image Source="pack://application:,,,/Art/reset.png" Margin="0"/>
+                            <i:Interaction.Behaviors>
+                                <beh:EventToCommandBehavior Command="{Binding PriceResetCommand}" Event="Click" PassArguments="False"/>
+                            </i:Interaction.Behaviors>
+                        </Button>
+                </DockPanel>
+            </StackPanel>
+            <StackPanel Style="{StaticResource EntryPanel}">
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal" ToolTip="Must be a whole number">
+                        <Image Source="pack://application:,,,/Art/store.png" ToolTip="Stock"/>
+                        <TextBox Text="{Binding StockEntryText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" PreviewTextInput="StockBox_PreviewTextInput" Width="{StaticResource HalfBoxWidth}">
+                            <i:Interaction.Behaviors>
+                                <beh:EventToCommandBehavior Command="{Binding StockBoxGotFocusCommand}" Event="GotFocus" PassArguments="False"/>
+                                <beh:EventToCommandBehavior Command="{Binding StockBoxLostFocusCommand}" Event="LostFocus" PassArguments="False"/>
+                                <beh:EventToCommandBehavior Command="{Binding StockBoxTextChangedCommand}" Event="TextChanged" PassArguments="False"/>
+                            </i:Interaction.Behaviors>
+                        </TextBox>
+                    </StackPanel>
+                    <Button ToolTip="Reset Value" HorizontalAlignment="Right">
+                        <Image Source="pack://application:,,,/Art/reset.png" Margin="0"/>
+                        <i:Interaction.Behaviors>
+                            <beh:EventToCommandBehavior Command="{Binding StockResetCommand}" Event="Click" PassArguments="False"/>
+                        </i:Interaction.Behaviors>
+                    </Button>
+                </DockPanel>
+            </StackPanel>
+            </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    
+                <Grid HorizontalAlignment="Center" Margin="0 6" Visibility="{Binding PriceErrorVisibility}">
+                    <Border Style="{StaticResource ErrorBorderBrush}">
+                        <Border.BorderBrush>
+                            <DrawingBrush Viewport="0,0,8,8" ViewportUnits="Absolute" TileMode="Tile">
+                                <DrawingBrush.Drawing>
+                                    <DrawingGroup>
+                                        <GeometryDrawing Brush="Crimson">
+                                            <GeometryDrawing.Geometry>
+                                                <GeometryGroup>
+                                                    <RectangleGeometry Rect="0,0,50,50" />
+                                                    <RectangleGeometry Rect="50,50,50,50" />
+                                                </GeometryGroup>
+                                            </GeometryDrawing.Geometry>
+                                        </GeometryDrawing>
+                                    </DrawingGroup>
+                                </DrawingBrush.Drawing>
+                            </DrawingBrush>
+                        </Border.BorderBrush>
+
+                        <TextBlock Text="{Binding PriceErrorText}" Style="{StaticResource ErrorStyle}"/>
+                    </Border>
+                </Grid>
+                <Grid HorizontalAlignment="Center" Margin="0 6" Visibility="{Binding StockErrorVisibility}">
+                    <Border Style="{StaticResource ErrorBorderBrush}">
+                        <Border.BorderBrush>
+                            <DrawingBrush Viewport="0,0,8,8" ViewportUnits="Absolute" TileMode="Tile">
+                                <DrawingBrush.Drawing>
+                                    <DrawingGroup>
+                                        <GeometryDrawing Brush="Crimson">
+                                            <GeometryDrawing.Geometry>
+                                                <GeometryGroup>
+                                                    <RectangleGeometry Rect="0,0,50,50" />
+                                                    <RectangleGeometry Rect="50,50,50,50" />
+                                                </GeometryGroup>
+                                            </GeometryDrawing.Geometry>
+                                        </GeometryDrawing>
+                                    </DrawingGroup>
+                                </DrawingBrush.Drawing>
+                            </DrawingBrush>
+                        </Border.BorderBrush>
+
+                        <TextBlock Text="{Binding StockErrorText}" Style="{StaticResource ErrorStyle}"/>
+                    </Border>
+                </Grid>
+                </StackPanel>
+            </StackPanel>
+            <!--Barcode and Manufacturer-->
+            <StackPanel Style="{StaticResource EntryPanel}">
+                <DockPanel>
+                    <Button ToolTip="Reset Value" HorizontalAlignment="Right" DockPanel.Dock="Right"> 
+                        <Image Source="pack://application:,,,/Art/reset.png" Margin="0"/>
+                        <i:Interaction.Behaviors>
+                            <beh:EventToCommandBehavior Command="{Binding CodeResetCommand}" Event="Click" PassArguments="False"/>
+                        </i:Interaction.Behaviors>
+                    </Button>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left"
+                        ToolTip="Valid UPC code Required.">
+                        <Image Source="pack://application:,,,/Art/barcode.png" ToolTip="Barcode"/>
+                        <!--TODO Make the Code appear in proper format and input spaces k thx-->
+                        <TextBox Text="{Binding CodeEntryText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                                 PreviewTextInput="CodeBox_PreviewTextInput" Width="{StaticResource HalfBoxWidth}">
+                            <i:Interaction.Behaviors>
+                                <beh:EventToCommandBehavior Command="{Binding CodeBoxGotFocusCommand}" Event="GotFocus" 
+                                                            PassArguments="False"/>
+                                <beh:EventToCommandBehavior Command="{Binding CodeBoxLostFocusCommand}" Event="LostFocus" 
+                                                            PassArguments="False"/>
+                                <beh:EventToCommandBehavior Command="{Binding CodeBoxTextChangedCommand}" Event="TextChanged"
+                                                            PassArguments="True"/>
+                            </i:Interaction.Behaviors>
+                        </TextBox>
+                        <Button Click="ScannerBtn_Click" ToolTip="Use Scanner" Margin="10 0" Padding="10 2" Background="{x:Null}">
+                            <StackPanel Orientation="Horizontal">
+
+                                <Image Source="pack://application:,,,/Art/codeScanner.png" ToolTip="Barcode"/>
+                                <Label Content="Use Scanner"/>
+                            </StackPanel>
+
+                        </Button>
+
+                    </StackPanel>
+                </DockPanel>
+                <Grid HorizontalAlignment="Center" Margin="0 6" Visibility="{Binding CodeErrorVisibility}">
+                    <Border Style="{StaticResource ErrorBorderBrush}">
+                        <Border.BorderBrush>
+                            <DrawingBrush Viewport="0,0,8,8" ViewportUnits="Absolute" TileMode="Tile">
+                                <DrawingBrush.Drawing>
+                                    <DrawingGroup>
+                                        <GeometryDrawing Brush="Crimson">
+                                            <GeometryDrawing.Geometry>
+                                                <GeometryGroup>
+                                                    <RectangleGeometry Rect="0,0,50,50" />
+                                                    <RectangleGeometry Rect="50,50,50,50" />
+                                                </GeometryGroup>
+                                            </GeometryDrawing.Geometry>
+                                        </GeometryDrawing>
+                                    </DrawingGroup>
+                                </DrawingBrush.Drawing>
+                            </DrawingBrush>
+                        </Border.BorderBrush>
+
+                        <TextBlock Text="{Binding CodeErrorText}" Style="{StaticResource ErrorStyle}"/>
+                    </Border>
+                </Grid>
+                    <StackPanel Orientation="Horizontal" ToolTip="The first 6 characters of the UPC code(Automatically Assigned)"
+                                Background="{StaticResource AccentColour}">
+                        <Image Source="pack://application:,,,/Art/manufacturer.png" ToolTip="Manufacturer"/>
+                        <Label Content="{Binding ManufacturerText}" Foreground="DarkGray"/>
+                    </StackPanel>
+            </StackPanel>
+            <!--Description-->
+            <StackPanel Style="{StaticResource EntryPanel}"  
+                        ToolTip="Up to 360 characters of description text(Can be added later)">
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal">
+                    <Image Source="pack://application:,,,/Art/parchment.png" VerticalAlignment="Top" ToolTip="Description"/>
+                    <TextBox Text="{Binding DescEntryText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                             Width="400" TextWrapping="Wrap" FontSize="18" FontFamily="Consolas">
+                        <i:Interaction.Behaviors>
+                            <beh:EventToCommandBehavior Command="{Binding DescBoxGotFocusCommand}" Event="GotFocus" PassArguments="False"/>
+                            <beh:EventToCommandBehavior Command="{Binding DescBoxLostFocusCommand}" Event="LostFocus" PassArguments="False"/>
+                            <beh:EventToCommandBehavior Command="{Binding DescBoxTextChangedCommand}" Event="TextChanged" PassArguments="False"/>
+                        </i:Interaction.Behaviors>
+                    </TextBox>
+                </StackPanel>
+                    <Button ToolTip="Reset Value" HorizontalAlignment="Right">
+                        <Image Source="pack://application:,,,/Art/reset.png" Margin="0"/>
+                        <i:Interaction.Behaviors>
+                            <beh:EventToCommandBehavior Command="{Binding DescResetCommand}" Event="Click" PassArguments="False"/>
+                        </i:Interaction.Behaviors>
+                    </Button>
+                    </DockPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0 0 4 0">
+                    <StackPanel.Resources>
+                        
+                            <Style TargetType="Label">
+                                <Setter Property="FontSize" Value="14"/>
+                                <Setter Property="Foreground" Value="{Binding DescCounterFg}"/>
+                                <Setter Property="FontStyle" Value="Italic"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                                <Setter Property="Margin" Value="0 4"/>
+                                <Setter Property="Padding" Value="0"/>
+                            </Style>
+                        
+                    </StackPanel.Resources>
+                    <Label Content="{Binding RemainingDesc}"/>
+                    <Label Content="/360"/>
+                </StackPanel>
+                <Grid HorizontalAlignment="Center" Margin="0 6" Visibility="{Binding DescErrorVisibility}">
+                    <Border Style="{StaticResource ErrorBorderBrush}">
+                        <Border.BorderBrush>
+                            <DrawingBrush Viewport="0,0,8,8" ViewportUnits="Absolute" TileMode="Tile">
+                                <DrawingBrush.Drawing>
+                                    <DrawingGroup>
+                                        <GeometryDrawing Brush="Crimson">
+                                            <GeometryDrawing.Geometry>
+                                                <GeometryGroup>
+                                                    <RectangleGeometry Rect="0,0,50,50" />
+                                                    <RectangleGeometry Rect="50,50,50,50" />
+                                                </GeometryGroup>
+                                            </GeometryDrawing.Geometry>
+                                        </GeometryDrawing>
+                                    </DrawingGroup>
+                                </DrawingBrush.Drawing>
+                            </DrawingBrush>
+                        </Border.BorderBrush>
+
+                        <TextBlock Text="{Binding DescErrorText}" Style="{StaticResource ErrorStyle}"/>
+                    </Border>
+                </Grid>
+            </StackPanel>
+
+            <!--Submit Button-->
+            <Grid>
+                <Rectangle StrokeDashArray="3" Stroke="Black" StrokeThickness="3" Fill="{x:Null}" StrokeDashCap="Triangle"/>
+                <Button Content="Submit" Style="{StaticResource SubmitBtnStyle}">
+                    <i:Interaction.Behaviors>
+                        <beh:EventToCommandBehavior Command="{Binding SubmitCommand}" Event="Click" PassArguments="False"/>
+                    </i:Interaction.Behaviors>
+                </Button>
+            </Grid>
+        </StackPanel>
+
+    </StackPanel>
+
+</Window>

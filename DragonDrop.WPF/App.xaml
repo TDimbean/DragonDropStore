@@ -1,0 +1,28 @@
+﻿<Application x:Class="DragonDrop.WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DragonDrop.WPF"
+             >
+    <Application.Resources>
+        
+            
+        <ControlTemplate x:Key="MainSubWindowsTemplate" TargetType="{x:Type Window}">
+            <Grid KeyUp="Grid_KeyUp">
+                
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="8">
+                <Image Source="Art/dragon.png" Width="64" />
+                <TextBlock Text="{DynamicResource Title}" VerticalAlignment="Center" FontSize="36" Margin="10" FontFamily="Yu Gothic Ui Semibold"/>
+            </StackPanel>
+
+            <Button Click="Close_Click" KeyUp="Close_KeyUp" Background="Transparent" Width="64" Height="64" HorizontalAlignment="Right" VerticalAlignment="Top" ToolTip="Return(Esc)">
+                <Image Source="Art/close.png"/>
+            </Button>
+
+                <ContentPresenter Margin="0 96 0 0"/>
+
+            </Grid>
+        </ControlTemplate>
+        
+        
+    </Application.Resources>
+</Application>

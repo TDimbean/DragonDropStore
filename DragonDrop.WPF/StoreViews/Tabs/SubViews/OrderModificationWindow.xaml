@@ -1,0 +1,120 @@
+﻿<Window x:Class="DragonDrop.WPF.StoreViews.Tabs.SubViews.OrderModificationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.SubViews"
+        xmlns:conv="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.Converters"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:beh="clr-namespace:DragonDrop.WPF"
+        mc:Ignorable="d"
+        Title="Change your Order" SizeToContent="Height" Width="480" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style x:Key="WarnBorderBrush" TargetType="Border">
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="CornerRadius" Value="12"/>
+        </Style>
+        <Style x:Key="WarnStyle" TargetType="TextBlock">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Global Serif"/>
+            <Setter Property="TextAlignment" Value="Justify"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Foreground" Value="CadetBlue"/>
+            <Setter Property="Margin" Value="4"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+        </Style>
+        <Style x:Key="WarnInfoStyle" TargetType="Image">
+            <Setter Property="Margin" Value="4"/>
+            <Setter Property="Height" Value="24"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+        </Style>
+        <Style x:Key="ComboStyle" TargetType="ComboBox">
+            <Setter Property="DisplayMemberPath" Value="Name"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Width" Value="200"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="WarnGridStyle" TargetType="Grid">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="6"/>
+        </Style>
+        <conv:InverseBooleanConverter x:Key="InvBoolConv"/>
+    </Window.Resources>
+    <StackPanel Orientation="Vertical">
+        <!--PAYMENT-->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Image Source="pack://application:,,,/Art/payMethod.png" Height="30" Margin="4"/>
+            <ComboBox ItemsSource="{Binding PayMethods}" 
+                              SelectedItem="{Binding SelPayMethod, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"
+                              SelectedIndex="{Binding SelPayIndex}" Style="{StaticResource ComboStyle}"
+                                IsEnabled="{Binding ElementName=payWarn, Path=IsVisible, Converter={StaticResource InvBoolConv}}"/>
+        </StackPanel>
+            <Grid x:Name="payWarn" Style="{StaticResource WarnGridStyle}" Visibility="{Binding PayMethWarnVisibility}">
+                <Border Style="{StaticResource WarnBorderBrush}">
+                    <Border.BorderBrush>
+                        <DrawingBrush Viewport="0,0,8,8" ViewportUnits="Absolute" TileMode="Tile">
+                            <DrawingBrush.Drawing>
+                                <DrawingGroup>
+                                    <GeometryDrawing Brush="CadetBlue">
+                                        <GeometryDrawing.Geometry>
+                                            <GeometryGroup>
+                                                <RectangleGeometry Rect="0,0,50,50" />
+                                                <RectangleGeometry Rect="50,50,50,50" />
+                                            </GeometryGroup>
+                                        </GeometryDrawing.Geometry>
+                                    </GeometryDrawing>
+                                </DrawingGroup>
+                            </DrawingBrush.Drawing>
+                        </DrawingBrush>
+                    </Border.BorderBrush>
+                    <DockPanel>
+                        <Image Source="pack://application:,,,/Art/info.png" Style="{StaticResource WarnInfoStyle}"/>
+                        <TextBlock Text="The payment method cannot be changed as the Order was already delivered. If you find any issues on your receipt, pleases report it from the Order Details window, and we will contact you to solve it." Style="{StaticResource WarnStyle}"/>
+                    </DockPanel>
+                </Border>
+            </Grid>
+        <!--SHIPPING-->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Image Source="pack://application:,,,/Art/deliveryTruck.png" Height="30" Margin="4"/>
+            <ComboBox ItemsSource="{Binding ShipMethods}" 
+                              SelectedItem="{Binding SelShipMethod, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"
+                              SelectedIndex="{Binding SelShipIndex}" Style="{StaticResource ComboStyle}"
+                              IsEnabled="{Binding ElementName=shipWarn, Path=IsVisible, Converter={StaticResource InvBoolConv}}"/>
+        </StackPanel>
+        <Grid x:Name="shipWarn" Style="{StaticResource WarnGridStyle}" Visibility="{Binding ShipMethWarnVisibility}">
+            <Border Style="{StaticResource WarnBorderBrush}">
+                <Border.BorderBrush>
+                    <DrawingBrush Viewport="0,0,8,8" ViewportUnits="Absolute" TileMode="Tile">
+                        <DrawingBrush.Drawing>
+                            <DrawingGroup>
+                                <GeometryDrawing Brush="CadetBlue">
+                                    <GeometryDrawing.Geometry>
+                                        <GeometryGroup>
+                                            <RectangleGeometry Rect="0,0,50,50" />
+                                            <RectangleGeometry Rect="50,50,50,50" />
+                                        </GeometryGroup>
+                                    </GeometryDrawing.Geometry>
+                                </GeometryDrawing>
+                            </DrawingGroup>
+                        </DrawingBrush.Drawing>
+                    </DrawingBrush>
+                </Border.BorderBrush>
+                <DockPanel>
+                    <Image Source="pack://application:,,,/Art/info.png" Style="{StaticResource WarnInfoStyle}"/>
+                    <TextBlock Text="The delivery method cannot be changed as the Order has already been handed over to the courier. If your appointed courier has not provided you with contact information, you may request it from us through the Report An Issue button on the Order Details Window." Style="{StaticResource WarnStyle}"/>
+                </DockPanel>
+            </Border>
+        </Grid>
+        <!--Address-->
+        <Button Content="Update Delivery Address" Click="UpdAdr_Click"/>
+        <Button Content="Change Quantities/Products" Click="ChangeQty_Click"/>
+        <Button Content="Done">
+            <i:Interaction.Behaviors>
+                <beh:EventToCommandBehavior Command="{Binding SubmitCommand}" Event="Click" PassArguments="True"/>
+            </i:Interaction.Behaviors>
+        </Button>
+    </StackPanel>
+</Window>

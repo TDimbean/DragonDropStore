@@ -1,0 +1,56 @@
+2020-01-10 08:50:13.4822|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo adding
+2020-01-10 08:50:13.4822|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 08:50:13.5352|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo subtracting 3 Stock for Product with ID: 1
+2020-01-10 08:50:13.5352|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 08:50:13.5502|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 08:50:13.5502|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo subtracting 17 Stock for Product with ID: 1
+2020-01-10 08:50:13.5502|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not reduce the Stock for Product with ID: 1becuse it is insufficient.
+2020-01-10 08:50:13.5502|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 08:50:13.5502|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo adding
+2020-01-10 08:50:13.5502|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found no Product with ID: 6
+2020-01-10 08:50:13.5502|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2020-01-10 08:50:13.5502|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2020-01-10 11:04:55.1243|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2020-01-10 11:04:55.1243|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 11:04:55.1243|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2020-01-10 11:04:55.1493|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo subtracting 17 Stock for Product with ID: 1
+2020-01-10 11:04:55.1493|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not reduce the Stock for Product with ID: 1becuse it is insufficient.
+2020-01-10 11:04:55.1493|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2020-01-10 11:04:55.1493|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 11:04:55.1493|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2020-01-10 11:04:55.1533|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo adding
+2020-01-10 11:04:55.1533|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found no Product with ID: 6
+2020-01-10 11:04:55.1533|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2020-01-10 11:04:55.1533|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2020-01-10 11:04:55.1533|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2020-01-10 11:04:55.1533|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2020-01-10 11:04:55.2303|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo adding
+2020-01-10 11:04:55.2303|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2020-01-10 11:04:55.2303|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 11:04:55.2303|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo subtracting 3 Stock for Product with ID: 1
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo adding
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo subtracting 3 Stock for Product with ID: 1
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo subtracting 17 Stock for Product with ID: 1
+2020-01-10 11:04:55.2623|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not reduce the Stock for Product with ID: 1becuse it is insufficient.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo adding
+2020-01-10 11:04:55.2623|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found no Product with ID: 6
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2020-01-10 11:04:55.2623|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2020-01-10 11:04:55.2623|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.

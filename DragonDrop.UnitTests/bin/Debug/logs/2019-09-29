@@ -1,0 +1,1631 @@
+2019-09-29 13:21:20.4586|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 13:21:20.5736|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1526315771
+2019-09-29 13:21:20.5736|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	1526315771
+2019-09-29 13:21:20.5736|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:20.5736|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:20.5856|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t9/24/2019 12:00:00 AM
+2019-09-29 13:21:20.5856|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/24/2019 12:00:00 AM.
+2019-09-29 13:21:20.5856|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:20.5856|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 13:21:20.8846|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:20.8846|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:20.9006|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because Customer was null. Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.Create(Order ord) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 29
+2019-09-29 13:21:20.9006|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because the data submitted was incomplete.
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1357398953
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1357398953
+2019-09-29 13:21:20.9006|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	1357398953
+2019-09-29 13:21:20.9006|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo failed to update record. No Order with ID:	1357398953 was found.
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:20.9006|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:20.9696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from all Order records.
+2019-09-29 13:21:20.9696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:21:20.9696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from all Order records.
+2019-09-29 13:21:20.9696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:21:20.9696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from all Order records.
+2019-09-29 13:21:20.9696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:21:20.9696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:20.9696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:20.9696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 13 from all Order records.
+2019-09-29 13:21:20.9696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 3 records.
+2019-09-29 13:21:20.9776|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:20.9776|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:20.9776|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 13 of size 1 from all Order records.
+2019-09-29 13:21:20.9776|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 0 records.
+2019-09-29 13:21:20.9956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	SHAYNA CHAMAN
+2019-09-29 13:21:20.9956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: SHAYNA CHAMAN
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	FEDEX
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: FEDEX
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CREDIT CARD
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: CREDIT CARD
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	RECEIVED
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: RECEIVED
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t4/6/2019 12:00:00 AM
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 4/6/2019 12:00:00 AM.
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	4/6/2019
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: 4/6/2019
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t2/12/2019 12:00:00 AM
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 2/12/2019 12:00:00 AM.
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	2/14/2019
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: 2/14/2019
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	1DF79A8F-FA9B-438B-B890-3917C0A704FF
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 0 Orders that match: 1DF79A8F-FA9B-438B-B890-3917C0A704FF
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Ced Brasher at:/t8/26/2019 12:00:00 AM
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 8/26/2019 12:00:00 AM.
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t4/1/2019 12:00:00 AM
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 4/1/2019 12:00:00 AM.
+2019-09-29 13:21:21.0096|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	8/26/2019 4/1/2019
+2019-09-29 13:21:21.0226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: 8/26/2019 4/1/2019
+2019-09-29 13:21:21.0226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	2
+2019-09-29 13:21:21.0226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering and paging Orders, according to 
+ SEARCH: 9/12/2019
+ Page Index: 2; Page Size: 1
+2019-09-29 13:21:21.0226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	9/12/2019
+2019-09-29 13:21:21.0226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: 9/12/2019
+2019-09-29 13:21:21.0226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 1 from filtered Order records.
+2019-09-29 13:21:21.0226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:21:21.0226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t9/17/2019 12:00:00 AM
+2019-09-29 13:21:21.0226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/17/2019 12:00:00 AM.
+2019-09-29 13:21:21.0226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-09-29 13:21:21.0226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 orders placed by Customer with ID: 1
+2019-09-29 13:21:21.0226|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Customer with ID:	714899828 and hence no orders by said Customer.
+ Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.GetAllByCustomerId(Int32 id) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 247
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/25/2019 12:00:00 AM
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/25/2019 12:00:00 AM.
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/5/2019 12:00:00 AM
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/5/2019 12:00:00 AM.
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/7/2019 12:00:00 AM
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/7/2019 12:00:00 AM.
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 1 of Size: 1
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 2 of Size: 1
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 3 of Size: 1
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 1 of Size: 2
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders on requested page.
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 2 of Size: 2
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 13:21:21.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 13:21:21.0386|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Customer with ID:	1369907074 and hence no orders by said Customer.
+ Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.GetAllByCustomerIdAndPaged(Int32 custId, Int32 pgSize, Int32 pgIndex) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 267
+2019-09-29 13:21:21.0726|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:21:21.0726|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:21:21.1766|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1926|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:21:21.1926|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1926|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:21:21.1926|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1926|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:21:21.1926|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1926|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:21:21.1926|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.1946|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:21:21.2116|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:21:21.2446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:21:21.2596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.2736|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:21.2736|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo Sorting Orders by orderdate ascending, then retrieving page 3 of size 1.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from filtered Order records.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo got 1 results.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo Sorting Orders by shippingMethod descending, then retrieving page 3 of size 1.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from filtered Order records.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo got 1 results.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 13:21:21.3196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 Orders that match: CASH
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 results.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	REGINE
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: REGINE
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: Regine, then sorting the result by: shippingMethod.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	REGINE
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: REGINE
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shippingMethod descending.Shipping Method
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 results.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order records filtered by: cash, sorted by: ordDate in ascending order. Page: 2 of size: 2.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 Orders that match: CASH
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 results.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 2 records.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order records filtered by: cash, sorted by: ordDate in descending order. Page: 2 of size: 2.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: CASH
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|1 records found.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 results.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 0 records.
+2019-09-29 13:21:21.3356|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 0 records.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: shipMethod in ascending order.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipMethod ascending.Shipping Method
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: shipMethod in descending order.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipMethod descending.Shipping Method
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders by: Regine Reimers to sort by: ordDate in ascending order. Looking at Page: 2 of Size: 2.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: ordDate in ascending order.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 1 records.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders by: Regine Reimers to sort by: ordDate in descending order. Looking at Page: 2 of Size: 2.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: ordDate in descending order.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 1 records.
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: UPS
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	UPS
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: UPS
+2019-09-29 13:21:21.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders that match criteria.
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL then displaying Page: 2 of Size: 2
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: DHL
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DHL
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: DHL
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders that match criteria.
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 0 records.
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 0 records matching critera.
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL then sorting them by: pay ascending.
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: DHL
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DHL
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: DHL
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders that match criteria.
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: pay ascending.Payment Method
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|2 records found.
+2019-09-29 13:21:21.5556|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:21:21.5956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL then sorting them by: pay descending.
+2019-09-29 13:21:21.5956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: DHL
+2019-09-29 13:21:21.5956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:21:21.5956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:21:21.5956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DHL
+2019-09-29 13:21:21.5956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: DHL
+2019-09-29 13:21:21.5956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders that match criteria.
+2019-09-29 13:21:21.5956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: pay descending.Payment Method
+2019-09-29 13:21:21.5956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|2 records found.
+2019-09-29 13:21:21.5956|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL, sorting by: ordDate ascending then displaying Page: 1 of Size: 2
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL then sorting them by: ordDate ascending.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: DHL
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DHL
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: DHL
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders that match criteria.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|2 records found.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL, sorting by: ordDate descending then displaying Page: 1 of Size: 2
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL then sorting them by: ordDate descending.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: DHL
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DHL
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: DHL
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders that match criteria.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|2 records found.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:21:21.6046|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:25:55.1196|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: DHL
+2019-09-29 13:25:55.1426|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:25:55.1426|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:25:55.1426|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DHL
+2019-09-29 13:25:55.1606|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: DHL
+2019-09-29 13:25:55.1606|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders that match criteria.
+2019-09-29 13:26:17.7719|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: UPS
+2019-09-29 13:26:17.7859|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:26:17.7859|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:26:17.7859|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	UPS
+2019-09-29 13:26:17.8019|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: UPS
+2019-09-29 13:26:17.8019|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders that match criteria.
+2019-09-29 13:26:51.4216|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: UPS
+2019-09-29 13:26:51.4436|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:26:51.4446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:26:51.4446|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	UPS
+2019-09-29 13:26:51.4626|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: UPS
+2019-09-29 13:26:51.4626|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders that match criteria.
+2019-09-29 13:29:12.4852|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL then displaying Page: 2 of Size: 2
+2019-09-29 13:29:27.1989|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: DHL
+2019-09-29 13:29:40.8300|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:32:43.0557|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Credit Card then displaying Page: 2 of Size: 2
+2019-09-29 13:32:43.0747|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Credit Card
+2019-09-29 13:32:43.0747|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:32:43.0747|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:32:43.0747|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CREDIT CARD
+2019-09-29 13:32:43.0937|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: CREDIT CARD
+2019-09-29 13:32:43.0937|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 13:32:43.0937|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:32:43.1047|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:32:43.1047|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 1 records matching critera.
+2019-09-29 13:39:30.6708|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL then sorting them by: pay descending.
+2019-09-29 13:39:30.6838|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: DHL
+2019-09-29 13:39:30.6838|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:39:30.6838|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:39:30.6838|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DHL
+2019-09-29 13:39:30.6838|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: DHL
+2019-09-29 13:39:30.6838|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders that match criteria.
+2019-09-29 13:39:30.7098|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: pay descending.Payment Method
+2019-09-29 13:39:30.7098|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|2 records found.
+2019-09-29 13:39:30.7098|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:40:40.4256|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Credit Card then sorting them by: stat descending.
+2019-09-29 13:40:40.4506|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Credit Card
+2019-09-29 13:40:40.4506|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:40:40.4506|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:40:40.4506|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CREDIT CARD
+2019-09-29 13:40:40.4826|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: CREDIT CARD
+2019-09-29 13:40:40.4826|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 13:40:40.5176|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: stat descending.Status
+2019-09-29 13:40:40.5176|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:40:40.5176|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 13:41:02.4286|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL then sorting them by: pay ascending.
+2019-09-29 13:41:02.4466|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: DHL
+2019-09-29 13:41:02.4466|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:41:02.4466|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:41:02.4466|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DHL
+2019-09-29 13:41:02.4616|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: DHL
+2019-09-29 13:41:02.4616|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders that match criteria.
+2019-09-29 13:41:02.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: pay ascending.Payment Method
+2019-09-29 13:41:02.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|2 records found.
+2019-09-29 13:41:02.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:41:15.5077|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL then sorting them by: pay ascending.
+2019-09-29 13:41:15.5236|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: DHL
+2019-09-29 13:41:15.5236|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:41:15.5236|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:41:15.5236|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DHL
+2019-09-29 13:41:15.5236|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: DHL
+2019-09-29 13:41:15.5236|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders that match criteria.
+2019-09-29 13:41:15.5516|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: pay ascending.Payment Method
+2019-09-29 13:41:15.5516|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|2 records found.
+2019-09-29 13:41:15.5516|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:44:29.4937|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Delivered then sorting them by: ordDate ascending.
+2019-09-29 13:44:29.5187|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Delivered
+2019-09-29 13:44:29.5187|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:44:29.5187|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:44:29.5237|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 13:44:29.5487|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 13:44:29.5487|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 13:44:29.5717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 13:44:29.5717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:44:29.5717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 13:46:39.7472|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:46:39.7752|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:46:40.3462|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:46:40.3512|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:46:40.3512|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:46:40.3512|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:46:40.3512|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:46:40.8012|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:46:40.8012|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:48:48.7794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:48:48.8074|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:48:48.8074|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:48:48.8074|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:48:48.8074|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:48:48.8074|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:48:49.0717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:48:49.0717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:48:49.0717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:48:49.0717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:48:49.0717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:48:49.0717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:49:02.0768|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL, sorting by: ordDate descending then displaying Page: 1 of Size: 2
+2019-09-29 13:49:02.1108|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: DHL then sorting them by: ordDate descending.
+2019-09-29 13:49:02.1108|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: DHL
+2019-09-29 13:49:02.1108|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:49:02.1168|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:49:02.1168|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DHL
+2019-09-29 13:49:02.1518|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: DHL
+2019-09-29 13:49:02.1518|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders that match criteria.
+2019-09-29 13:49:02.1768|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 13:49:02.1768|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|2 records found.
+2019-09-29 13:49:02.1768|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:49:02.1768|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 13:49:02.1878|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:49:02.1878|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:51:40.9360|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Delivered, sorting by: shipped descending then displaying Page: 1 of Size: 2
+2019-09-29 13:51:40.9530|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Delivered then sorting them by: shipped descending.
+2019-09-29 13:51:40.9530|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Delivered
+2019-09-29 13:51:40.9530|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:51:40.9530|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:51:40.9530|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 13:51:40.9690|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 13:51:40.9690|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 13:51:40.9920|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipped descending.Shipping Date
+2019-09-29 13:51:40.9920|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:51:40.9920|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 13:51:40.9920|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 13:51:40.9920|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:51:40.9920|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:51:41.6890|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order records filtered by: cash, sorted by: ordDate in descending order. Page: 2 of size: 2.
+2019-09-29 13:51:41.6890|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 13:51:41.6890|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 13:51:41.6890|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: CASH
+2019-09-29 13:51:41.6890|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 13:51:41.6890|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|1 records found.
+2019-09-29 13:51:41.6890|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 results.
+2019-09-29 13:51:41.6890|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:51:41.6890|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 0 records.
+2019-09-29 13:51:41.6890|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 0 records.
+2019-09-29 13:54:11.6799|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order records filtered by: cash, sorted by: ordDate in descending order. Page: 2 of size: 2.
+2019-09-29 13:54:11.7149|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 13:54:11.7149|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 13:54:11.7399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: CASH
+2019-09-29 13:54:11.7669|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 13:54:11.7669|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|1 records found.
+2019-09-29 13:54:11.7669|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 results.
+2019-09-29 13:54:11.7669|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:54:11.7769|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 0 records.
+2019-09-29 13:54:11.7769|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 0 records.
+2019-09-29 13:54:44.3653|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order records filtered by: cash, sorted by: ordDate in descending order. Page: 2 of size: 2.
+2019-09-29 13:54:44.3863|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 13:54:44.3863|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 13:54:44.4083|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: CASH
+2019-09-29 13:54:44.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 13:54:44.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|1 records found.
+2019-09-29 13:54:44.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 results.
+2019-09-29 13:54:44.4232|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:54:44.4342|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 0 records.
+2019-09-29 13:54:44.4342|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 0 records.
+2019-09-29 13:54:57.0119|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order records filtered by: cash, sorted by: ordDate in descending order. Page: 2 of size: 2.
+2019-09-29 13:54:57.0319|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 13:54:57.0319|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 13:54:57.0499|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: CASH
+2019-09-29 13:54:57.0709|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 13:54:57.0709|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|1 records found.
+2019-09-29 13:54:57.0709|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 results.
+2019-09-29 13:54:57.0709|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:54:57.0709|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 0 records.
+2019-09-29 13:54:57.0709|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 0 records.
+2019-09-29 13:57:24.7577|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order records filtered by: cash, sorted by: ordDate in descending order. Page: 2 of size: 2.
+2019-09-29 13:57:24.7827|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 13:57:24.7827|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 13:57:24.8007|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 Orders that match: CASH
+2019-09-29 13:57:24.8217|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 13:57:24.8217|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 13:57:24.8217|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 results.
+2019-09-29 13:57:24.8217|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:57:24.8217|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:57:24.8217|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 2 records.
+2019-09-29 13:58:43.6598|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Delivered, sorting by: shipped descending then displaying Page: 1 of Size: 2
+2019-09-29 13:58:43.6827|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Delivered then sorting them by: shipped descending.
+2019-09-29 13:58:43.6827|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Delivered
+2019-09-29 13:58:43.6827|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:58:43.6827|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:58:43.6827|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 13:58:43.7038|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 13:58:43.7038|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 13:58:43.7288|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipped descending.Shipping Date
+2019-09-29 13:58:43.7288|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:43.7288|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 13:58:43.7288|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 13:58:43.7288|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:58:43.7288|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:58:58.4999|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from all Order records.
+2019-09-29 13:58:58.5199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:58:58.5749|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Delivered, sorting by: shipped descending then displaying Page: 1 of Size: 2
+2019-09-29 13:58:58.5749|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Delivered then sorting them by: shipped descending.
+2019-09-29 13:58:58.5749|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Delivered
+2019-09-29 13:58:58.5859|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:58:58.5859|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:58:58.5859|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 13:58:58.6169|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 13:58:58.6169|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 13:58:58.6399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipped descending.Shipping Date
+2019-09-29 13:58:58.6399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.6399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 13:58:58.6399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 13:58:58.6399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:58:58.6399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:58:58.8089|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:58.8089|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8089|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:58.8089|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8089|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: shipMethod in descending order.
+2019-09-29 13:58:58.8089|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:58:58.8089|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:58:58.8089|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipMethod descending.Shipping Method
+2019-09-29 13:58:58.8089|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8089|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 13:58:58.8199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	2
+2019-09-29 13:58:58.8199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering and paging Orders, according to 
+ SEARCH: 9/12/2019
+ Page Index: 2; Page Size: 1
+2019-09-29 13:58:58.8199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	9/12/2019
+2019-09-29 13:58:58.8199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: 9/12/2019
+2019-09-29 13:58:58.8199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 1 from filtered Order records.
+2019-09-29 13:58:58.8199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:58:58.8199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:58:58.8199|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8969|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:58:58.8969|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8969|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:58:58.8969|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8969|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:58:58.8969|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: delivered, sorting by: shipped ascending then displaying Page: 1 of Size: 2
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: delivered then sorting them by: shipped ascending.
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: delivered
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipped ascending.Shipping Date
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:58:58.8979|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	REGINE
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: REGINE
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: Regine, then sorting the result by: shippingMethod.
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	REGINE
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: REGINE
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shippingMethod descending.Shipping Method
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 results.
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:58:59.4804|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.4914|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:58:59.4914|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.4914|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 13:58:59.4914|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.4914|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	7012664
+2019-09-29 13:58:59.4914|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	7012664
+2019-09-29 13:58:59.5124|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t6/12/2019 12:00:00 AM
+2019-09-29 13:58:59.5124|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 6/12/2019 12:00:00 AM.
+2019-09-29 13:58:59.5124|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	6/12/2019
+2019-09-29 13:58:59.5124|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: 6/12/2019
+2019-09-29 13:58:59.5124|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: shipMethod in ascending order.
+2019-09-29 13:58:59.5124|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:58:59.5124|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:58:59.5124|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipMethod ascending.Shipping Method
+2019-09-29 13:58:59.5124|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5124|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/14/2019 12:00:00 AM
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/14/2019 12:00:00 AM.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/18/2019 12:00:00 AM
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/18/2019 12:00:00 AM.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/16/2019 12:00:00 AM
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/16/2019 12:00:00 AM.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 1 of Size: 1
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 2 of Size: 1
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 3 of Size: 1
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 1 of Size: 2
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders on requested page.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 2 of Size: 2
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from all Order records.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	FEDEX
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: FEDEX
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: UPS
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	UPS
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: UPS
+2019-09-29 13:58:59.5254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders that match criteria.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t3/4/2019 12:00:00 AM
+2019-09-29 13:58:59.5584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 3/4/2019 12:00:00 AM.
+2019-09-29 13:58:59.5584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Ced Brasher at:/t2/1/2019 12:00:00 AM
+2019-09-29 13:58:59.5584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 2/1/2019 12:00:00 AM.
+2019-09-29 13:58:59.5584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	3/4/2019 2/1/2019
+2019-09-29 13:58:59.5584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: 3/4/2019 2/1/2019
+2019-09-29 13:58:59.5584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order records filtered by: cash, sorted by: ordDate in descending order. Page: 2 of size: 2.
+2019-09-29 13:58:59.5584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 13:58:59.5584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 13:58:59.5584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 Orders that match: CASH
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 results.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 2 records.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Delivered then sorting them by: ordDate ascending.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Delivered
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:58:59.5704|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.5924|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Customer with ID:	905231320 and hence no orders by said Customer.
+ Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.GetAllByCustomerId(Int32 id) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 249
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 Orders that match: CASH
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 results.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order records filtered by: cash, sorted by: ordDate in ascending order. Page: 2 of size: 2.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 Orders that match: CASH
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 results.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 2 records.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Credit Card then sorting them by: stat descending.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Credit Card
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CREDIT CARD
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: CREDIT CARD
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: stat descending.Status
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6064|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 13:58:59.6174|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Customer with ID:	1058736406 and hence no orders by said Customer.
+ Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.GetAllByCustomerIdAndPaged(Int32 custId, Int32 pgSize, Int32 pgIndex) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 269
+2019-09-29 13:58:59.6174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t9/28/2019 12:00:00 AM
+2019-09-29 13:58:59.6174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/28/2019 12:00:00 AM.
+2019-09-29 13:58:59.6174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-09-29 13:58:59.6174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 orders placed by Customer with ID: 1
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders by: Regine Reimers to sort by: ordDate in ascending order. Looking at Page: 2 of Size: 2.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: ordDate in ascending order.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 1 records.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 13:58:59.6354|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from all Order records.
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	SHAYNA CHAMAN
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: SHAYNA CHAMAN
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo Sorting Orders by orderdate ascending, then retrieving page 3 of size 1.
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from filtered Order records.
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo got 1 results.
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 13 of size 1 from all Order records.
+2019-09-29 13:58:59.6484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 0 records.
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	RECEIVED
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: RECEIVED
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.6794|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders by: Regine Reimers to sort by: ordDate in descending order. Looking at Page: 2 of Size: 2.
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: ordDate in descending order.
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 1 records.
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:58:59.7174|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t1/13/2019 12:00:00 AM
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 1/13/2019 12:00:00 AM.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	1/15/2019
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: 1/15/2019
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7264|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7454|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:58:59.7454|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7454|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:58:59.7454|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo Sorting Orders by shippingMethod descending, then retrieving page 3 of size 1.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from filtered Order records.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo got 1 results.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	2071393334
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	2071393334
+2019-09-29 13:58:59.7584|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	2071393334
+2019-09-29 13:58:59.7584|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo failed to update record. No Order with ID:	2071393334 was found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 13 from all Order records.
+2019-09-29 13:58:59.7584|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 3 records.
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CREDIT CARD
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: CREDIT CARD
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	209748DC-93C0-4BFE-AA3F-250C3ED0681C
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 0 Orders that match: 209748DC-93C0-4BFE-AA3F-250C3ED0681C
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t9/13/2019 12:00:00 AM
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/13/2019 12:00:00 AM.
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Credit Card then displaying Page: 2 of Size: 2
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Credit Card
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CREDIT CARD
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: CREDIT CARD
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 13:58:59.7744|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 1 records matching critera.
+2019-09-29 13:58:59.7894|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7894|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:58:59.7894|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because Customer was null. Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.Create(Order ord) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 29
+2019-09-29 13:58:59.7894|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because the data submitted was incomplete.
+2019-09-29 13:58:59.7894|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 13:58:59.7894|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:59:51.7959|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: delivered, sorting by: shipped ascending then displaying Page: 1 of Size: 2
+2019-09-29 13:59:51.8159|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: delivered then sorting them by: shipped ascending.
+2019-09-29 13:59:51.8159|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: delivered
+2019-09-29 13:59:51.8159|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 13:59:51.8209|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 13:59:51.8209|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 13:59:51.8399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 13:59:51.8399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 13:59:51.8619|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipped ascending.Shipping Date
+2019-09-29 13:59:51.8619|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 13:59:51.8619|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 13:59:51.8619|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 13:59:51.8779|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 13:59:51.8779|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 14:00:31.6448|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: delivered, sorting by: shipped ascending then displaying Page: 1 of Size: 2
+2019-09-29 14:00:31.6648|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: delivered then sorting them by: shipped ascending.
+2019-09-29 14:00:31.6648|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: delivered
+2019-09-29 14:00:31.6648|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:00:31.6648|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 14:00:31.6648|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 14:00:31.6848|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 14:00:31.6848|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 14:00:31.7118|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipped ascending.Shipping Date
+2019-09-29 14:00:31.7118|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:00:31.7118|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 14:00:31.7118|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 14:00:31.7118|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 14:00:31.7118|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 14:00:56.4974|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: delivered, sorting by: shipped ascending then displaying Page: 1 of Size: 2
+2019-09-29 14:00:56.5304|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: delivered then sorting them by: shipped ascending.
+2019-09-29 14:00:56.5304|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: delivered
+2019-09-29 14:00:56.5304|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:00:56.5304|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 14:00:56.5394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 14:00:56.5624|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 14:00:56.5624|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 14:00:56.6058|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipped ascending.Shipping Date
+2019-09-29 14:00:56.6058|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:00:56.6058|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 14:00:56.6058|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 14:00:56.6194|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 14:00:56.6194|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 14:01:10.2103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from all Order records.
+2019-09-29 14:01:10.2533|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 14:01:10.3053|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Delivered, sorting by: shipped descending then displaying Page: 1 of Size: 2
+2019-09-29 14:01:10.3053|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Delivered then sorting them by: shipped descending.
+2019-09-29 14:01:10.3053|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Delivered
+2019-09-29 14:01:10.3053|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:01:10.3053|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 14:01:10.3053|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 14:01:10.3323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 14:01:10.3323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 14:01:10.3513|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipped descending.Shipping Date
+2019-09-29 14:01:10.3513|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.3513|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 14:01:10.3513|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 14:01:10.3513|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 14:01:10.3513|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: shipMethod in descending order.
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipMethod descending.Shipping Method
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	2
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering and paging Orders, according to 
+ SEARCH: 9/12/2019
+ Page Index: 2; Page Size: 1
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	9/12/2019
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: 9/12/2019
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 1 from filtered Order records.
+2019-09-29 14:01:10.4923|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 14:01:10.5283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 14:01:10.5283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Customer
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: delivered, sorting by: shipped ascending then displaying Page: 1 of Size: 2
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: delivered then sorting them by: shipped ascending.
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: delivered
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 14:01:10.6233|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipped ascending.Shipping Date
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from filtered Order records.
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 2 records matching critera.
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	REGINE
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: REGINE
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: Regine, then sorting the result by: shippingMethod.
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	REGINE
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: REGINE
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shippingMethod descending.Shipping Method
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.6323|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 results.
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Payment Method
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.8873|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	903575453
+2019-09-29 14:01:10.8873|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	903575453
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t5/5/2019 12:00:00 AM
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 5/5/2019 12:00:00 AM.
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	5/5/2019
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: 5/5/2019
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: shipMethod in ascending order.
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: shipMethod ascending.Shipping Method
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/4/2019 12:00:00 AM
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/4/2019 12:00:00 AM.
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/26/2019 12:00:00 AM
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/26/2019 12:00:00 AM.
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Will Smith at:/t9/1/2019 12:00:00 AM
+2019-09-29 14:01:10.9013|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/1/2019 12:00:00 AM.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 1 of Size: 1
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 2 of Size: 1
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 3 of Size: 1
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 1 of Size: 2
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 Orders on requested page.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	0	NAME: Will Smith from Page: 2 of Size: 2
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	0	NAME: Will Smith
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 0
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders on requested page.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from all Order records.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	FEDEX
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: FEDEX
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: UPS
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	UPS
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: UPS
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 Orders that match criteria.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9153|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t6/15/2019 12:00:00 AM
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 6/15/2019 12:00:00 AM.
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Ced Brasher at:/t6/6/2019 12:00:00 AM
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 6/6/2019 12:00:00 AM.
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	6/15/2019 6/6/2019
+2019-09-29 14:01:10.9293|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: 6/15/2019 6/6/2019
+2019-09-29 14:01:10.9523|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order records filtered by: cash, sorted by: ordDate in descending order. Page: 2 of size: 2.
+2019-09-29 14:01:10.9523|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 14:01:10.9523|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 14:01:10.9523|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 Orders that match: CASH
+2019-09-29 14:01:10.9523|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 14:01:10.9523|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 14:01:10.9523|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 results.
+2019-09-29 14:01:10.9523|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 14:01:10.9523|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 14:01:10.9523|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 2 records.
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Delivered then sorting them by: ordDate ascending.
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Delivered
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	DELIVERED
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: DELIVERED
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 14:01:10.9603|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0013|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Customer with ID:	139944073 and hence no orders by said Customer.
+ Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.GetAllByCustomerId(Int32 id) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 249
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 Orders that match: CASH
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 results.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order records filtered by: cash, sorted by: ordDate in ascending order. Page: 2 of size: 2.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering results by: cash, then sorting the result by: ordDate.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CASH
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 Orders that match: CASH
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 4 results.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 2 records.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Credit Card then sorting them by: stat descending.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Credit Card
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CREDIT CARD
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: CREDIT CARD
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: stat descending.Status
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0103|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 3 records matching critera.
+2019-09-29 14:01:11.0103|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Customer with ID:	317201427 and hence no orders by said Customer.
+ Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.GetAllByCustomerIdAndPaged(Int32 custId, Int32 pgSize, Int32 pgIndex) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 269
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t9/17/2019 12:00:00 AM
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/17/2019 12:00:00 AM.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 orders placed by Customer with ID: 1
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders by: Regine Reimers to sort by: ordDate in ascending order. Looking at Page: 2 of Size: 2.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: ordDate in ascending order.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate ascending.Order Date
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 1 records.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.ID
+2019-09-29 14:01:11.0283|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0413|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from all Order records.
+2019-09-29 14:01:11.0413|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-29 14:01:11.0413|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	SHAYNA CHAMAN
+2019-09-29 14:01:11.0413|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: SHAYNA CHAMAN
+2019-09-29 14:01:11.0413|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo Sorting Orders by orderdate ascending, then retrieving page 3 of size 1.
+2019-09-29 14:01:11.0413|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-09-29 14:01:11.0413|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0413|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from filtered Order records.
+2019-09-29 14:01:11.0413|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 14:01:11.0413|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo got 1 results.
+2019-09-29 14:01:11.0543|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.0543|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0543|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 13 of size 1 from all Order records.
+2019-09-29 14:01:11.0543|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 0 records.
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	RECEIVED
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: RECEIVED
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.0703|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders by: Regine Reimers to sort by: ordDate in descending order. Looking at Page: 2 of Size: 2.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving Orders placed by: Regine Reimers then sorting them by: ordDate in descending order.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 orders placed by Customer with ID: 2
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching  Orders, sorted by: ordDate descending.Order Date
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 records and sorted them.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved and sorted 1 records.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 14:01:11.1073|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Status
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t6/23/2019 12:00:00 AM
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 6/23/2019 12:00:00 AM.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	6/25/2019
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: 6/25/2019
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1163|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 14:01:11.1363|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1483|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Date
+2019-09-29 14:01:11.1483|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1483|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo Sorting Orders by shippingMethod descending, then retrieving page 3 of size 1.
+2019-09-29 14:01:11.1483|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Shipping Method
+2019-09-29 14:01:11.1483|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1483|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from filtered Order records.
+2019-09-29 14:01:11.1483|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 14:01:11.1483|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo got 1 results.
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1368815414
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1368815414
+2019-09-29 14:01:11.1643|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	1368815414
+2019-09-29 14:01:11.1643|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo failed to update record. No Order with ID:	1368815414 was found.
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 13 from all Order records.
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 3 records.
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CREDIT CARD
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: CREDIT CARD
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CE8F6046-B024-4AFF-BE12-58648982ED9F
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 0 Orders that match: CE8F6046-B024-4AFF-BE12-58648982ED9F
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Ced Brasher at:/t9/27/2019 12:00:00 AM
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/27/2019 12:00:00 AM.
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers, filtering them by: Credit Card then displaying Page: 2 of Size: 2
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retreiving Orders placed by Customer:	2	NAME: Regine Reimers and filtering them by: Credit Card
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	2	NAME: Regine Reimers
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 6 orders placed by Customer with ID: 2
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CREDIT CARD
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 3 Orders that match: CREDIT CARD
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 3 Orders that match criteria.
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from filtered Order records.
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved: 1 records matching critera.
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 14:01:11.1813|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because Customer was null. Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.Create(Order ord) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 29
+2019-09-29 14:01:11.1813|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because the data submitted was incomplete.
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-29 14:01:11.1813|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-29 15:30:03.0706|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-29 15:30:03.1756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1686045172 of Product ID:	1
+2019-09-29 15:30:03.1756|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1686045172/1
+2019-09-29 15:30:03.1806|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1432503294
+2019-09-29 15:30:03.1806|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1432503294
+2019-09-29 15:30:03.1806|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	2 for Product:	1
+2019-09-29 15:30:03.1806|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-29 15:30:03.1806|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	2 of Product ID:	1
+2019-09-29 15:30:03.1806|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.1806|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|4 records found.
+2019-09-29 15:30:03.3596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.3596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.3596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	3
+2019-09-29 15:30:03.3596|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo failed to add item as Orderd ID:1 already contains an entry for Product ID:	3
+ If you wish to edit the quantity, please Update the OrderItem rather than re-adding it.
+2019-09-29 15:30:03.3596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-29 15:30:03.3596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.3596|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4016|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4016|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4016|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	0 for Product:	1
+2019-09-29 15:30:03.4016|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo could not register OrderItem because either the Order or Product ID was non-existent or the requested quantity was 0.
+Order ID:	0 Product ID:	1
+2019-09-29 15:30:03.4016|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4016|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4536|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4536|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4536|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	0
+2019-09-29 15:30:03.4536|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo could not register OrderItem because either the Order or Product ID was non-existent or the requested quantity was 0.
+Order ID:	1 Product ID:	0
+2019-09-29 15:30:03.4536|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4536|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4536|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4536|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4536|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	1
+2019-09-29 15:30:03.4536|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo could not register OrderItem because either the Order or Product ID was non-existent or the requested quantity was 0.
+Order ID:	1 Product ID:	1
+2019-09-29 15:30:03.4536|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4536|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/3
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo succesfully updated OrderItem with Order/Product IDs:	1/3
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/3
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-29 15:30:03.4696|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo failed to update OrderItem because requested quantity was 0.
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	326959259/1
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	326959259 of Product ID:	1
+2019-09-29 15:30:03.4696|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	326959259/1
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	326959259 of Product ID:	1
+2019-09-29 15:30:03.4696|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	326959259/1
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/1726547490
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1726547490
+2019-09-29 15:30:03.4696|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1726547490
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1726547490
+2019-09-29 15:30:03.4696|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1726547490
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4696|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 3 of size 1 from all OrderItem records.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 1 records.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 1 of size 2 from all OrderItem records.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 2 records.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 2 of size 2 from all OrderItem records.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 1 records.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 1 of size 13 from all OrderItem records.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 3 records.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 13 of size 1 from all OrderItem records.
+2019-09-29 15:30:03.4756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 0 records.
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	2
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Order ID:	1
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 2 OrderItems in Order ID:	1
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Order ID:	1293446344
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 0 OrderItems in Order ID:	1293446344
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	1
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Product ID:	1
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 2 OrderItems in Product ID:	1
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Product ID:	1918718310
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 0 OrderItems in Product ID:	1918718310
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	2 for Product:	3
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo filtering and paging OrderItems, according to 
+ ORDER ID: 2
+ Page Index: 2; Page Size: 1
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Order ID:	2
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 2 OrderItems in Order ID:	2
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 2 of size 1 from filtered OrderItem records.
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 1 records.
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	1
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo filtering and paging OrderItems, according to 
+ PRODUCT ID: 1
+ Page Index: 2; Page Size: 1
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Product ID:	1
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 2 OrderItems in Product ID:	1
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 2 of size 1 from filtered OrderItem records.
+2019-09-29 15:30:03.4967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 1 records.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Order ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5137|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Product ID
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Name
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Name
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Name
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Name
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-29 15:30:03.5226|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.

@@ -1,0 +1,284 @@
+2019-12-18 04:37:46.4932|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.UserAccountTabViewModel|Customer with ID: 1 hs requested an update to their account from the WPF appication.
+2019-12-18 04:37:46.4932|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1 to Repo.
+2019-12-18 04:37:46.4932|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-12-18 04:37:46.4932|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:46.4932|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-12-18 04:37:46.4932|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-12-18 04:37:46.4932|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:46.4932|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:48.1654|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:48.1654|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:48.9095|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:48.9095|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:49.4782|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:49.4782|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:50.0160|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:50.0160|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:50.4491|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:50.4491|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:50.8161|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:50.8161|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:51.3190|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:51.3190|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:51.7529|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:51.7529|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:52.0975|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:52.0975|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:52.6508|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:52.6508|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:53.0846|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:53.0846|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:53.4110|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:53.4110|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:53.9414|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:53.9414|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:54.3640|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 04:37:54.3640|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 04:37:54.3810|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-12-18 04:37:54.3830|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-12-18 04:37:54.3830|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 orders placed by Customer with ID: 1
+2019-12-18 04:37:54.3830|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 1 records from Repo.
+2019-12-18 04:37:54.3830|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-12-18 04:37:54.3830|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-12-18 04:37:54.3830|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 orders placed by Customer with ID: 1
+2019-12-18 04:37:54.3830|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 1 records from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 orders placed by Customer with ID: 1
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 1 records from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 orders placed by Customer with ID: 1
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 1 records from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 orders placed by Customer with ID: 1
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 1 records from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 orders placed by Customer with ID: 1
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 1 records from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 orders placed by Customer with ID: 1
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 1 records from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting all Orders placed by Customer with ID: 1 from Repo.
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-12-18 04:37:54.3980|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 1 orders placed by Customer with ID: 1
+2019-12-18 04:37:54.3980|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service got: 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4140|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4140|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments made by Customer with ID:	1 from Repo.
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments made by Customer:	Shayna Chaman
+2019-12-18 04:37:54.4290|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records of payments by Customer ID: 1
+2019-12-18 04:37:54.4290|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-18 04:37:54.4470|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-18 04:37:54.4470|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-18 05:39:03.8148|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.UserAccountTabViewModel|Customer with ID: 1 hs requested an update to their account from the WPF appication.
+2019-12-18 05:39:03.8228|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1 to Repo.
+2019-12-18 05:39:03.8228|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-12-18 05:39:03.8228|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:39:03.8228|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-12-18 05:39:03.8228|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-12-18 05:39:12.6888|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:39:12.6888|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:40:30.2737|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.UserAccountTabViewModel|Customer with ID: 1 hs requested an update to their account from the WPF appication.
+2019-12-18 05:40:30.2917|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1 to Repo.
+2019-12-18 05:40:30.2917|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-12-18 05:40:30.2917|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:40:30.2917|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-12-18 05:40:30.2917|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-12-18 05:40:30.2917|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:40:30.2917|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:34.5786|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:34.5986|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:35.7888|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:35.7888|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:36.5186|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:36.5186|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:37.0760|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:37.0760|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:37.7015|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:37.7015|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:38.3507|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:38.3507|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:38.9917|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:38.9917|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:39.9674|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:39.9674|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:40.6159|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:40.6159|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:41.2135|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:41.2135|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:41.9132|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:41.9132|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:42.5624|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:42.5624|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:43.1710|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:43.1710|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 05:51:43.8141|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 05:51:43.8141|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:01:55.9416|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:01:55.9939|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:01:57.2092|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:01:57.2092|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:01:58.1938|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:01:58.1938|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:01:58.8090|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:01:58.8090|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:01:59.6735|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:01:59.6735|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:02:00.4379|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:02:00.4379|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:02:01.2185|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:02:01.2185|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:02:01.9873|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:02:01.9873|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:02:02.6968|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:02:02.6968|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:02:03.5086|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:02:03.5086|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:02:38.0926|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:02:38.0926|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:02:39.3586|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:02:39.3586|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:02:40.1333|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:02:40.1333|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-18 06:02:40.9035|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-18 06:02:40.9035|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1

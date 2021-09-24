@@ -1,0 +1,23 @@
+2019-09-21 13:55:04.6137|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo updating record for Product with ID:	3
+2019-09-21 13:55:04.6388|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not create record because of duplicate Bar Code:	8-76259~~21901-8
+2019-09-21 15:05:35.0049|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:CC1CE
+2019-09-21 15:05:35.0269|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:CC1CE succesfully registered.
+2019-09-21 15:05:35.0269|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:7F774
+2019-09-21 15:05:35.0279|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not create record bracuse of duplicate Bar Code:	0-99659~~33839-8
+2019-09-21 15:05:35.0279|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	740854
+2019-09-21 15:05:35.0438|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match: 740854
+2019-09-21 15:06:04.3289|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:A8AB3
+2019-09-21 15:06:04.3644|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:A8AB3 succesfully registered.
+2019-09-21 15:06:04.3644|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:B66EE
+2019-09-21 15:06:04.3644|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not create record bracuse of duplicate Bar Code:	0-25928~~98873-5
+2019-09-21 15:06:34.6093|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	025929
+2019-09-21 15:10:57.6863|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:26339
+2019-09-21 15:10:57.7163|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:26339 succesfully registered.
+2019-09-21 15:10:57.7163|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	514310826026
+2019-09-21 15:10:57.7343|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match: 514310826026
+2019-09-21 15:11:43.8713|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:96F8C
+2019-09-21 15:11:43.9311|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:96F8C succesfully registered.
+2019-09-21 15:11:43.9311|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:1A5D9
+2019-09-21 15:11:43.9311|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not create record bracuse of duplicate Bar Code:	8-27938~~03216-9
+2019-09-21 15:11:43.9550|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	827938
+2019-09-21 15:14:26.5839|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match: 827938

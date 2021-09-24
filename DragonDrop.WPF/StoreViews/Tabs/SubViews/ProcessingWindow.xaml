@@ -1,0 +1,120 @@
+﻿<Window x:Class="DragonDrop.WPF.StoreViews.Tabs.SubViews.ProcessingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.SubViews"
+        xmlns:conv="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.Converters"
+        xmlns:my="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="ProcessingWindow" Height="450" Width="600" WindowStartupLocation="CenterScreen" Margin="0" Padding="0">
+    <Window.Resources>
+        <conv:IdToShippingMethodConverter x:Key="ShipMethConv"/>
+        <conv:IdToPaymentMethodConverter x:Key="PayMethConv"/>
+    </Window.Resources>
+    <StackPanel>
+        <StackPanel.Resources>
+            <Style TargetType="DataGrid">
+                <Setter Property="GridLinesVisibility" Value="Vertical"/>
+                <Setter Property="MaxHeight" Value="430"/>
+                <Setter Property="CanUserAddRows" Value="False"/>
+                <Setter Property="CanUserDeleteRows" Value="False"/>
+                <Setter Property="AutoGenerateColumns" Value="False"/>
+                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                <Setter Property="AlternatingRowBackground" Value="#FFC0ECEC"/>
+                <Setter Property="SelectionMode" Value="Single"/>
+                <Setter Property="CanUserReorderColumns" Value="False"/>
+                <Setter Property="CanUserResizeColumns" Value="False"/>
+                <Setter Property="CanUserResizeRows" Value="False"/>
+                <Setter Property="IsReadOnly" Value="True"/>
+            </Style>
+        </StackPanel.Resources>
+        <DataGrid ItemsSource="{Binding OrderList}" x:Name="custDG">
+            <DataGrid.Resources>
+                <my:Double x:Key="HeaderImgSize">30</my:Double>
+                <Style x:Key="TextCellStyle" TargetType="TextBlock">
+                    <Setter Property="HorizontalAlignment" Value="Center" />
+                    <Setter Property="VerticalAlignment" Value="Center" />
+                    <Setter Property="FontSize" Value="20"/>
+                </Style>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                </Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="{x:Null}"/>
+                    <Setter Property="BorderBrush" Value="{x:Null}"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding OrderDate, StringFormat=d}" ElementStyle="{StaticResource TextCellStyle}"
+                                   Width="110" >
+                    <DataGridTextColumn.Header>
+                        <Image Source="pack://application:,,,/Art/calendar.png"
+                               Height="{StaticResource HeaderImgSize}" Margin="0"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTextColumn  Binding="{Binding OrderId}" ElementStyle="{StaticResource TextCellStyle}" FontWeight="Bold"
+                                     Width="110">
+                    <DataGridTextColumn.Header>
+                            <Image Source="pack://application:,,,/Art/hashtag.png"
+                               Height="{StaticResource HeaderImgSize}" Margin="0"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding ShippingMethodId, Converter={StaticResource ShipMethConv}}"
+                                      Width="110" ElementStyle="{StaticResource TextCellStyle}">
+                    <DataGridTextColumn.Header>
+                        <Image Source="pack://application:,,,/Art/payMethod.png"
+                               Height="{StaticResource HeaderImgSize}" Margin="0"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTemplateColumn  Width="50" SortMemberPath="{Binding CustomerId}" CanUserSort="True">
+                    <DataGridTemplateColumn.Header>
+                        <Button Click="CustomerIdHeader_Click" Margin="0" Padding="0"  ToolTip="Customer">
+                            <Image Source="pack://application:,,,/Art/person.png"
+                               Height="{StaticResource HeaderImgSize}" Margin="0"/>
+                        </Button>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Button Click="CustomerId_Click">
+                                    <Button.Content>
+                                        <TextBlock Text="{Binding CustomerId}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold"/>
+                                    </Button.Content>
+                                </Button>
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Binding="{Binding PaymentMethodId, Converter={StaticResource PayMethConv}}"
+                                    ElementStyle="{StaticResource TextCellStyle}" Width="130">
+                    <DataGridTextColumn.Header>
+                        <Image Source="pack://application:,,,/Art/deliveryTruck.png"
+                               Height="{StaticResource HeaderImgSize}" Margin="0"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTemplateColumn  Width="50">
+                    <DataGridTemplateColumn.Header>
+                        <Button Click="ProcessHeader_Click" Margin="0" Padding="0"  ToolTip="Process">
+                            <Image Source="pack://application:,,,/Art/cashregister.png"
+                               Height="{StaticResource HeaderImgSize}" Margin="0"/>
+                        </Button>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Button Click="Process_Click">
+                                    <Button.Content>
+                                        <Image Source="pack://application:,,,/Art/codeScanner.png"
+                               Height="{StaticResource HeaderImgSize}" Margin="0"/>
+                                    </Button.Content>
+                                </Button>
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</Window>

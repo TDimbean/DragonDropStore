@@ -1,0 +1,536 @@
+2019-10-03 05:04:18.5072|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo filtering Product records by: 876259 then sorting the results in ascending order by: desc.
+2019-10-03 05:04:24.7675|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	876259
+2019-10-03 05:07:42.3121|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match: 876259
+2019-10-03 05:08:45.6775|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Description.
+2019-10-03 05:08:46.4834|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 05:09:00.8971|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 05:09:39.5151|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo filtering Product records by: 876259 then sorting the results in ascending order by: desc.
+2019-10-03 05:09:39.5421|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	876259
+2019-10-03 05:09:39.5421|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match: 876259
+2019-10-03 05:09:39.5711|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Description.
+2019-10-03 05:09:39.5711|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 05:09:39.5711|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 05:10:19.3434|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo filtering Product records by: 876259 then sorting the results in ascending order by: desc.
+2019-10-03 05:10:19.3654|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	876259
+2019-10-03 05:10:19.3804|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match: 876259
+2019-10-03 05:10:19.4034|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Description.
+2019-10-03 05:10:19.4034|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 05:10:19.4034|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:30:32.1068|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-10-03 06:30:32.3699|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1751422689
+2019-10-03 06:30:32.3699|WARN|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found no Product with ID:	1751422689
+2019-10-03 06:30:32.3699|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.3699|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.3699|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:191DA
+2019-10-03 06:30:32.3699|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:191DA succesfully registered.
+2019-10-03 06:30:32.3699|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.3699|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|4 records found.
+2019-10-03 06:30:32.6755|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6755|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.6755|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:C0383
+2019-10-03 06:30:32.6755|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not create record. The Product data is incomplete.
+2019-10-03 06:30:32.6755|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6755|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.6755|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6755|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.6755|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:6684B
+2019-10-03 06:30:32.6755|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not create record bracuse of duplicate Bar Code:	8-76259~~21901-8
+2019-10-03 06:30:32.6755|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6755|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.6825|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6825|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.6825|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo updating record for Product with ID:	1
+2019-10-03 06:30:32.6825|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-10-03 06:30:32.6825|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo succesfully updated Product with ID:	1
+2019-10-03 06:30:32.6825|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-10-03 06:30:32.6825|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6825|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.6975|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not find any Product with ID:	462570385 to upate.
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo updating record for Product with ID:	1
+2019-10-03 06:30:32.6975|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not create record. The Product data is incomplete.
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo updating record for Product with ID:	1
+2019-10-03 06:30:32.6975|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not create record because of duplicate Bar Code:	8-85628~~57206-7
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.6975|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.7125|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.7125|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.7995|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 3 of size 1 from all Product records.
+2019-10-03 06:30:32.7995|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 1 records.
+2019-10-03 06:30:32.7995|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 1 of size 2 from all Product records.
+2019-10-03 06:30:32.7995|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:30:32.7995|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from all Product records.
+2019-10-03 06:30:32.7995|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 1 records.
+2019-10-03 06:30:32.8055|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.8055|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.8055|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 1 of size 13 from all Product records.
+2019-10-03 06:30:32.8055|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 3 records.
+2019-10-03 06:30:32.8055|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.8055|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.8055|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 13 of size 1 from all Product records.
+2019-10-03 06:30:32.8055|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 0 records.
+2019-10-03 06:30:32.8215|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	350853ec-cb22-47aa-acf9-9ac8bfb3c185
+2019-10-03 06:30:32.8215|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/t350853ec-cb22-47aa-acf9-9ac8bfb3c185 succesfully registered.
+2019-10-03 06:30:32.8215|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	350853EC-CB22-47AA-ACF9-9AC8BFB3C185
+2019-10-03 06:30:32.8371|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match: 350853EC-CB22-47AA-ACF9-9AC8BFB3C185
+2019-10-03 06:30:32.8371|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:FD897
+2019-10-03 06:30:32.8371|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:FD897 succesfully registered.
+2019-10-03 06:30:32.8371|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	71F8151F-30BD-43C7-B103-B603CE9E9EFA
+2019-10-03 06:30:32.8371|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match: 71F8151F-30BD-43C7-B103-B603CE9E9EFA
+2019-10-03 06:30:32.8371|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:39F15
+2019-10-03 06:30:32.8371|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:39F15 succesfully registered.
+2019-10-03 06:30:32.8371|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	789433791500
+2019-10-03 06:30:32.8371|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match: 789433791500
+2019-10-03 06:30:32.8541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:EC6BB
+2019-10-03 06:30:32.8541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:EC6BB succesfully registered.
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:D8EE7
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:D8EE7 succesfully registered.
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	310617
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match: 310617
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	876259219018
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match: 876259219018
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	60.00
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match: 60.00
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:C72DD
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:C72DD succesfully registered.
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	MISCELANEOUS
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match: MISCELANEOUS
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	B506B63B-1469-4352-9216-E384AAA97753
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match: B506B63B-1469-4352-9216-E384AAA97753
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	16 143
+2019-10-03 06:30:32.8681|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match: 16 143
+2019-10-03 06:30:32.8851|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:32.8851|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:32.8851|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with more than: 16 items in stock.
+2019-10-03 06:30:32.8851|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:32.8851|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with less than: 143 items in stock.
+2019-10-03 06:30:32.8851|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:32.8851|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products over : 25.59$.
+2019-10-03 06:30:32.8851|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match criteria.
+2019-10-03 06:30:32.8851|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products under : 60.00$.
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with less than: 16 items in stock.
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match criteria.
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with more than: 143 items in stock.
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match criteria.
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products under : 25.59$.
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match criteria.
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products over : 60.00$.
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 Products that match criteria.
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	2
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo filtering and paging Products, according to 
+ SEARCH: 25.59
+ Page Index: 2; Page Size: 1
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	25.59
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match: 25.59
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 1 from filtered Product records.
+2019-10-03 06:30:32.8991|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 1 records.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	3
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with more than: 16 items in stock.
+ Page Index: 2; Page Size: 1
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with more than: 16 items in stock.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 1 from filtered Product records.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 1 records.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	2
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with less than: 143 items in stock.
+ Page Index: 2; Page Size: 1
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with less than: 143 items in stock.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 1 from filtered Product records.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 1 records.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:E2342
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:E2342 succesfully registered.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products over : 25.59$.
+ Page Index: 2; Page Size: 1
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products over : 25.59$.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 1 from filtered Product records.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 1 records.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	2
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products under : 60.00$.
+ Page Index: 2; Page Size: 1
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products under : 60.00$.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 1 from filtered Product records.
+2019-10-03 06:30:32.9161|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 1 records.
+2019-10-03 06:30:32.9674|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:32.9674|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: ID.
+2019-10-03 06:30:33.1131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Name.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Name.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Name.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Name.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Name.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Name.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Name.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Name.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Name.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Name.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Manufacturer.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Manufacturer.
+2019-10-03 06:30:33.1341|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Manufacturer.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Manufacturer.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Manufacturer.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Manufacturer.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Manufacturer.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Manufacturer.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1491|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1691|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1691|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1691|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1691|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1691|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1691|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1691|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Barcode.
+2019-10-03 06:30:33.1691|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1691|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Stock.
+2019-10-03 06:30:33.1691|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1801|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Stock.
+2019-10-03 06:30:33.1801|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1801|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Stock.
+2019-10-03 06:30:33.1801|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.1801|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Stock.
+2019-10-03 06:30:33.1801|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Price.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Price.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Price.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Price.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Price.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Price.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Price.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Price.
+2019-10-03 06:30:33.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Category.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Category.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Category.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Category.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Description.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: No Filter.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Description.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Description.
+2019-10-03 06:30:33.2431|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2711|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: No Filter.
+2019-10-03 06:30:33.2711|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2711|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-10-03 06:30:33.2711|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-10-03 06:30:33.2791|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in descending order by: ID.
+2019-10-03 06:30:33.2791|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in ascending order by: price and displaying Page: 3 of Size: 2.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Price.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 6 records.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 3 of size 2 from select Product records.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved: 2 records.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in descending order by: manufacturer and displaying Page: 3 of Size: 2.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in descending order by: Manufacturer.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 6 records.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 3 of size 2 from select Product records.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved: 2 records.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo filtering Product records by: 876259 then sorting the results in ascending order by: desc.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	876259
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match: 876259
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Description.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 06:30:33.2941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo filtering Product records by: rpg then sorting the results in descending order by: stock.
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	RPG
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: RPG
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Stock.
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 3 records.
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 25 pieces available and Sorting them in ascending order by cat.
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with more than: 25 items in stock.
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Category.
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 06:30:33.3131|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.3321|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 25 pieces available and Sorting them in descending order by cat.
+2019-10-03 06:30:33.3321|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with more than: 25 items in stock.
+2019-10-03 06:30:33.3321|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:33.3321|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Category.
+2019-10-03 06:30:33.3321|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 06:30:33.3321|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with under 23 pieces available and Sorting them in ascending order by name.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with less than: 23 items in stock.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Name.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with under 23 pieces available and Sorting them in descending order by cat.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with less than: 23 items in stock.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Category.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 2:5.59$ in value and Sorting them in ascending order by: id.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products over : 25.59$.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: ID.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 2:5.59$ in value and Sorting them in descending order by: desc.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products over : 25.59$.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Description.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products under 2:5.59$ in value and Sorting them in ascending order by: name.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products under : 25.59$.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Name.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 06:30:33.3361|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products under 2:5.59$ in value and Sorting them in descending order by: STOCK.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products under : 25.59$.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 Products that match criteria.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Stock.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 2 records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo filtering Product records by: rpg, sorting the results in ascending order by: description and showing Page: 2 of Size: 2.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo filtering Product records by: rpg then sorting the results in ascending order by: description.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	RPG
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: RPG
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Description.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 3 records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 1 records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 1 records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo filtering Product records by: rpg, sorting the results in descending order by: price and showing Page: 2 of Size: 2.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo filtering Product records by: rpg then sorting the results in descending order by: price.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Product records by:	RPG
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 3 Products that match: RPG
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Price.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 3 records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 3 records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 1 records.
+2019-10-03 06:30:33.3541|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 1 records.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 16 pieces available and Sorting them in ascending order by stock and showing Page: 2 of Size: 2.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 16 pieces available and Sorting them in ascending order by stock.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with more than: 16 items in stock.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 Products that match criteria.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Stock.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 4 records.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 records.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 16 pieces available and Sorting them in descending order by price and showing Page: 2 of Size: 2.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 16 pieces available and Sorting them in descending order by price.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with more than: 16 items in stock.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 Products that match criteria.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Price.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 4 records.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 records.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:30:33.3741|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with under 53 pieces available and Sorting them in ascending order by cat and showing Page: 2 of Size: 2.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with under 53 pieces available and Sorting them in ascending order by cat.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with less than: 53 items in stock.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 Products that match criteria.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Category.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 4 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with under 53 pieces available and Sorting them in descending order by description and showing Page: 2 of Size: 2.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with under 53 pieces available and Sorting them in descending order by description.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with less than: 53 items in stock.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 Products that match criteria.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Description.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 4 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 1:2.35$ in value and Sorting them in ascending order by: name and showing Page: 2 of Size: 2.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 1:2.35$ in value and Sorting them in ascending order by: name.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products over : 12.35$.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 Products that match criteria.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Name.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 4 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 1:2.35$ in value and Sorting them in descending order by: description and showing Page: 2 of Size: 2.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 1:2.35$ in value and Sorting them in descending order by: description.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products over : 12.35$.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 Products that match criteria.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Description.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 4 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:30:33.5941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:30:33.6021|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 4:9.95$ in value and Sorting them in ascending order by: name and showing Page: 2 of Size: 2.
+2019-10-03 06:30:33.6021|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 4:9.95$ in value and Sorting them in ascending order by: name.
+2019-10-03 06:30:33.6021|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products over : 49.95$.
+2019-10-03 06:30:33.6021|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match criteria.
+2019-10-03 06:30:33.6021|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Name.
+2019-10-03 06:30:33.6021|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 1 records.
+2019-10-03 06:30:33.6021|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 records.
+2019-10-03 06:30:33.6021|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:30:33.6021|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 0 records.
+2019-10-03 06:30:33.6021|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 records.
+2019-10-03 06:30:33.7121|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 4:9.95$ in value and Sorting them in descending order by: cost and showing Page: 2 of Size: 2.
+2019-10-03 06:30:33.7121|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 4:9.95$ in value and Sorting them in descending order by: cost.
+2019-10-03 06:30:33.7121|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products over : 49.95$.
+2019-10-03 06:30:33.7121|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match criteria.
+2019-10-03 06:30:33.7121|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Price.
+2019-10-03 06:30:33.7121|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 1 records.
+2019-10-03 06:30:33.7121|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 records.
+2019-10-03 06:30:33.7121|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:30:33.7121|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 0 records.
+2019-10-03 06:30:33.7121|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 records.
+2019-10-03 06:30:33.7371|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo updating record for Product with ID:	3
+2019-10-03 06:30:33.7371|ERROR|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo could not create record because of duplicate Bar Code:	8-76259~~21901-8
+2019-10-03 06:43:29.4941|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 16 pieces available and Sorting them in descending order by price and showing Page: 2 of Size: 2.
+2019-10-03 06:43:29.5271|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 16 pieces available and Sorting them in descending order by price.
+2019-10-03 06:43:29.5271|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with more than: 16 items in stock.
+2019-10-03 06:43:29.5271|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 Products that match criteria.
+2019-10-03 06:43:29.5771|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Price.
+2019-10-03 06:43:29.5771|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 4 records.
+2019-10-03 06:43:29.5771|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 records.
+2019-10-03 06:43:29.5771|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:43:29.5771|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:43:29.5771|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:45:00.3587|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 16 pieces available and Sorting them in descending order by price and showing Page: 2 of Size: 2.
+2019-10-03 06:45:00.3847|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 16 pieces available and Sorting them in descending order by price.
+2019-10-03 06:45:00.3847|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with more than: 16 items in stock.
+2019-10-03 06:45:00.3847|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 Products that match criteria.
+2019-10-03 06:45:00.4157|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Price.
+2019-10-03 06:45:00.4157|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 4 records.
+2019-10-03 06:45:00.4157|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 records.
+2019-10-03 06:45:00.4157|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:45:00.4157|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:45:00.4157|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:46:14.3460|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 16 pieces available and Sorting them in descending order by price and showing Page: 2 of Size: 2.
+2019-10-03 06:46:14.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching records for Products with over 16 pieces available and Sorting them in descending order by price.
+2019-10-03 06:46:14.3800|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products with more than: 16 items in stock.
+2019-10-03 06:46:14.3840|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 Products that match criteria.
+2019-10-03 06:46:14.4190|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Price.
+2019-10-03 06:46:14.4190|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 4 records.
+2019-10-03 06:46:14.4190|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 records.
+2019-10-03 06:46:14.4190|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:46:14.4310|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:46:14.4310|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:47:54.3644|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 4:9.95$ in value and Sorting them in ascending order by: name and showing Page: 2 of Size: 2.
+2019-10-03 06:47:54.4044|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products over 4:9.95$ in value and Sorting them in ascending order by: name.
+2019-10-03 06:47:54.4044|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products over : 49.95$.
+2019-10-03 06:47:54.4044|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 Products that match criteria.
+2019-10-03 06:47:54.4786|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Name.
+2019-10-03 06:47:54.4786|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 1 records.
+2019-10-03 06:47:54.4786|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 1 records.
+2019-10-03 06:47:54.4996|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:47:54.5192|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 0 records.
+2019-10-03 06:47:54.5192|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 0 records.
+2019-10-03 06:50:40.0755|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products under 4:9.95$ in value and Sorting them in descending order by: cost and showing Page: 2 of Size: 2.
+2019-10-03 06:50:40.1230|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products under 4:9.95$ in value and Sorting them in descending order by: cost.
+2019-10-03 06:50:40.1230|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products under : 49.95$.
+2019-10-03 06:50:40.1230|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 Products that match criteria.
+2019-10-03 06:50:40.1836|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in descending order by: Price.
+2019-10-03 06:50:40.1836|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 4 records.
+2019-10-03 06:50:40.1836|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 records.
+2019-10-03 06:50:40.1836|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:50:40.1836|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:50:40.1836|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.
+2019-10-03 06:50:40.7625|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products under 4:9.95$ in value and Sorting them in ascending order by: name and showing Page: 2 of Size: 2.
+2019-10-03 06:50:40.7625|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Products under 4:9.95$ in value and Sorting them in ascending order by: name.
+2019-10-03 06:50:40.7625|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo searching Products under : 49.95$.
+2019-10-03 06:50:40.7625|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 Products that match criteria.
+2019-10-03 06:50:40.7737|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting select Product records in asccending order by: Name.
+2019-10-03 06:50:40.7737|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 4 records.
+2019-10-03 06:50:40.7737|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 4 records.
+2019-10-03 06:50:40.7737|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 2 of size 2 from select Product records.
+2019-10-03 06:50:40.7737|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-03 06:50:40.7737|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo found 2 records.

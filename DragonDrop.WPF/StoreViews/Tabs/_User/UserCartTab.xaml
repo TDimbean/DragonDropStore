@@ -1,0 +1,248 @@
+﻿<UserControl x:Class="DragonDrop.WPF.StoreViews.Tabs.UserCartTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs"
+             xmlns:par="clr-namespace:DragonDrop.WPF.StoreViews"
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+             xmlns:my="clr-namespace:System;assembly=mscorlib"
+             xmlns:beh="clr-namespace:DragonDrop.WPF"
+             xmlns:hel="clr-namespace:DragonDrop.WPF.Helpers"
+             xmlns:conv="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.Converters"
+             mc:Ignorable="d" 
+             d:DesignHeight="750" d:DesignWidth="596" Margin="0" Padding="0" Loaded="UserControl_Loaded">
+    <UserControl.Resources>
+        <Style TargetType="StackPanel">
+            <Setter Property="Margin" Value="0"/>
+        </Style>
+        <Style TargetType="TextBox" x:Key="QtyStyle">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Consolas"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Padding" Value="2"/>
+            <Setter Property="Width" Value="50"/>
+            <Setter Property="MaxLength" Value="3"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="{x:Null}"/>
+            <Setter Property="BorderBrush" Value="{x:Null}"/>
+        </Style>
+        <Style x:Key="HoverlessBtnStyle" TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" 
+                            BorderThickness="1"
+                            Padding="4,2" 
+                            BorderBrush="{x:Null}" 
+                            CornerRadius="3" 
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="BorderBrush" Value="LightGray" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="DataGrid">
+            <Setter Property="GridLinesVisibility" Value="Vertical"/>
+            <Setter Property="CanUserAddRows" Value="False"/>
+            <Setter Property="CanUserDeleteRows" Value="False"/>
+            <Setter Property="AutoGenerateColumns" Value="False"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="ColumnWidth" Value="*"/>
+            <Setter Property="AlternatingRowBackground" Value="#FFC0ECEC"/>
+            <Setter Property="SelectionMode" Value="Single"/>
+            <Setter Property="CanUserReorderColumns" Value="False"/>
+            <Setter Property="CanUserResizeColumns" Value="False"/>
+            <Setter Property="CanUserResizeRows" Value="False"/>
+            <Setter Property="IsReadOnly" Value="True"/>
+            <Setter Property="VerticalAlignment" Value="Stretch"/>
+            <Setter Property="MaxHeight" Value="650"/>
+        </Style>
+        <Style TargetType="{x:Type DataGridCell}">
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="BorderBrush" Value="{x:Null}"/>
+            <Style.Triggers>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="{x:Null}" />
+                    <Setter Property="BorderBrush" Value="{x:Null}" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="{x:Type DataGridRow}">
+            <Setter Property="Foreground" Value="Black" />
+            <Style.Triggers>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="Goldenrod" />
+                    <Setter Property="BorderBrush" Value="{x:Null}" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Line">
+            <Setter Property="StrokeDashArray" Value="4"/>
+            <Setter Property="StrokeThickness" Value="3"/>
+            <Setter Property="Stroke" Value="Black"/>
+            <Setter Property="Fill" Value="Black"/>
+            <Setter Property="X1" Value="0"/>
+            <Setter Property="Y1" Value="0"/>
+            <Setter Property="Y2" Value="0"/>
+            <Setter Property="X2" Value="596"/>
+        </Style>
+        <conv:OverZeroBooleanConverter x:Key="OverZeroBoolConv"/>
+        <conv:CurrencyFormatConverter x:Key="CurConv"/>
+    </UserControl.Resources>
+    <StackPanel Orientation="Vertical">
+        <DataGrid x:Name="custDG"
+        ItemsSource="{Binding DataContext.Cart, 
+        RelativeSource={RelativeSource FindAncestor, 
+        AncestorType={x:Type par:StoreView}}}"
+                  LayoutUpdated="CustDG_LayoutUpdated">
+            <DataGrid.Resources>
+                <my:Double x:Key="HeaderImgSize">30</my:Double>
+                <Style x:Key="TextCellStyle" TargetType="TextBlock">
+                    <Setter Property="HorizontalAlignment" Value="Center" />
+                    <Setter Property="VerticalAlignment" Value="Center" />
+                    <Setter Property="FontSize" Value="20"/>
+                    <Setter Property="Padding" Value="2"/>
+                    <Setter Property="TextWrapping" Value="Wrap"/>
+                    <Setter Property="TextAlignment" Value="Center"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Name}" ElementStyle="{StaticResource TextCellStyle}" 
+                                    Width="*" FontWeight="Bold"/>
+                <DataGridTextColumn  Width="100" Binding="{Binding Price, StringFormat=c}" ElementStyle="{StaticResource TextCellStyle}"/>
+                <DataGridTemplateColumn Width="50">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="Details_Click">
+                                <Image Source="pack://application:,,,/Art/infoFull.png" Height="{StaticResource HeaderImgSize}"/>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="130">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Click="Decrease_Click" Style="{StaticResource HoverlessBtnStyle}">
+                                    <Image Source="pack://application:,,,/Art/minusHolo.png" Height="{StaticResource HeaderImgSize}"/>
+                                </Button>
+                                <TextBox Text="{Binding Quantity, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                         PreviewTextInput="QtyBox_PreviewTextInput"
+                                         LostFocus="QtyBox_LostFocus"
+                                         KeyUp="QtyBox_KeyUp"
+                                         Style="{StaticResource QtyStyle}"
+                                         x:Name="qtyBox"/>
+                                <Button Click="Bump_Click" Style="{StaticResource HoverlessBtnStyle}">
+                                    <Image Source="pack://application:,,,/Art/plusHolo.png" Height="{StaticResource HeaderImgSize}"/>
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="50">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="Remove_Click">
+                                <Image Source="pack://application:,,,/Art/trashFull.png" Height="{StaticResource HeaderImgSize}"/>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+                <!--COUNT DIVID-->
+        <Line/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Resources>
+                <Style TargetType="Label">
+                    <Setter Property="FontSize" Value="16"/>
+                </Style>
+            </Grid.Resources>
+            <Grid.Background>GoldenRod</Grid.Background>
+            <StackPanel Orientation="Horizontal">
+                
+                <Label Content="Distinct Products:"/>
+                <Label x:Name="totalProductsCountLbl" FontFamily="Consolas"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="1">
+                
+                <Label Content="Individual Items:"/>
+                <Label x:Name="totalItemsCountLbl" FontFamily="Consolas"/>
+            </StackPanel>
+            </Grid>
+        <Line/>
+        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Top" FlowDirection="RightToLeft">
+            <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="230"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.Resources>
+                <Style x:Key="BigLabel" TargetType="Label">
+                    <Setter Property="FontSize" Value="24"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                </Style>
+                <Style TargetType="Label">
+                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                    <Setter Property="FontSize" Value="18"/>
+                </Style>
+                <Style TargetType="Rectangle">
+                    <Setter Property="Fill" Value="PaleGoldenrod"/>
+                    <Setter Property="Stroke" Value="Black"/>
+                    <Setter Property="StrokeDashArray" Value="4"/>
+                    <Setter Property="StrokeThickness" Value="3"/>
+                    <Setter Property="StrokeDashOffset" Value="2.5"/>
+                    <Setter Property="Grid.Column" Value="1"/>
+                    <Setter Property="Grid.ColumnSpan" Value="2"/>
+                    <Setter Property="Grid.RowSpan" Value="3"/>
+                </Style>
+            </Grid.Resources>
+                <!--TOTAL TABLE-->
+            <Rectangle/>
+            <Label x:Name="subtotalValueLbl" Grid.Column="1"/>
+            <Label x:Name="taxValueLbl" Grid.Column="1" Grid.Row="1"/>
+            <Label x:Name="totalValueLbl" Style="{StaticResource BigLabel}" Grid.Column="1" Grid.Row="2"/>
+            <Label Content="Subtotal" Grid.Column="2"/>
+            <Label Content="Tax" Grid.Column="2" Grid.Row="1"/>
+            <Label Content="Total" Style="{StaticResource BigLabel}" Grid.Column="2" Grid.Row="2"/>
+                <!--BUTTONS-->
+            <Button Click="Wipe_Click" Grid.Column="3" Grid.RowSpan="3" IsEnabled="{Binding ElementName=checkoutBtn, Path=IsEnabled}">
+                <StackPanel Orientation="Vertical">
+                    <Label Content="Wipe Cart" FontFamily="Consolas" FontSize="28"/>
+                    <Image Source="/Art/trash.png" Height="50"/>
+                    <hel:ButtonStretcher/>
+                    </StackPanel>
+                </Button>
+            <Button x:Name="checkoutBtn" Click="Checkout_Click" Grid.RowSpan="3" 
+                    IsEnabled="{Binding ElementName=totalItemsCountLbl, Path=Content, Converter={StaticResource OverZeroBoolConv}}">
+                <StackPanel Orientation="Vertical">
+                    <TextBlock Text="Checkout" TextWrapping="Wrap" TextAlignment="Center" FontFamily="Consolas" FontSize="28"/>
+                    <Image Source="/Art/cashRegister.png" Height="50"/>
+                    <hel:ButtonStretcher/>
+                </StackPanel>
+            </Button>
+        </Grid>
+        
+    </StackPanel>
+</UserControl>

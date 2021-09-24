@@ -1,0 +1,1657 @@
+2019-12-14 04:52:43.3405|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 04:52:43.3545|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 04:52:43.3545|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 04:52:43.3545|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 04:52:43.5055|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 04:52:43.5055|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 04:52:43.5055|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 04:52:43.5055|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 04:52:43.6345|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 04:52:43.6345|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-12-14 04:52:43.6465|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-12-14 04:52:43.6465|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-12-14 04:52:43.6595|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-12-14 04:52:43.6595|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	3 from Repo.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	3
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	3 from Repo.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	3
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:52:43.6595|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:52:43.6595|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 04:52:43.8955|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:52:43.8955|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:52:43.8955|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:52:43.8955|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 04:52:43.8955|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:52:43.8955|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:52:43.8955|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:52:43.8955|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 04:52:43.8955|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:52:43.8955|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:52:43.8955|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:52:43.8955|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9275|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9275|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:43.9395|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:43.9395|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1365|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1435|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1435|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1875|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1875|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1875|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 04:52:44.1875|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 04:52:44.1875|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.1895|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.1895|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.2345|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.2345|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.2345|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.2345|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.2345|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.2345|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.2345|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.2345|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.2375|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.2375|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.2375|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.2375|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:52:44.2375|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 04:52:44.2375|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 04:52:44.2375|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 04:52:44.2375|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 04:59:17.6374|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:59:17.6504|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:59:17.6504|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:59:17.6504|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 04:59:17.7784|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:59:17.7784|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:59:17.7784|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:59:17.7784|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-12-14 04:59:17.8104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-12-14 04:59:17.8104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-12-14 05:00:28.6703|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:00:28.6893|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:00:28.6893|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:00:28.6893|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:00:28.8693|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:00:28.8693|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:00:28.8693|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:00:28.8693|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:02:52.9690|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:02:52.9810|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:02:52.9810|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:02:52.9810|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:02:53.1560|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:02:53.1560|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:02:53.1560|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:02:53.1560|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:02:53.5740|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:02:53.5740|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:02:53.5740|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:02:53.5740|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:02:53.5740|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:02:53.5740|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:02:53.5740|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:02:53.5740|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:03:49.9806|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:03:49.9896|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:03:49.9896|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:03:49.9896|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:03:50.1296|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:03:50.1296|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:03:50.1296|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:03:50.1296|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:05:15.0016|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:05:15.0236|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:05:15.0236|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:05:15.0236|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:05:15.1958|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:05:15.1958|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:05:15.1958|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:05:15.1958|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:05:15.2834|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:05:15.2834|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:05:15.2834|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:05:15.2834|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:05:15.2834|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-12-14 05:05:15.2834|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-12-14 05:05:15.2834|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-12-14 05:05:15.2834|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-12-14 05:06:34.4972|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 05:06:34.5152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 05:06:34.5152|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 05:06:34.5152|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 05:06:34.7402|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 05:06:34.7402|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 05:06:34.7402|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 05:06:34.7402|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 05:06:34.8212|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 05:06:34.8212|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 05:06:34.8212|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 05:06:34.8212|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 05:06:34.8212|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2019-12-14 05:06:34.8212|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching all Products...
+2019-12-14 05:06:34.8212|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|3 records found.
+2019-12-14 05:06:34.8212|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 3 records from Repo.
+2019-12-14 11:44:04.4042|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.4222|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	229-814-7252 from Repo.
+2019-12-14 11:44:04.4222|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	229-814-7252
+2019-12-14 11:44:04.4292|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 0 Customers that match: 229-814-7252
+2019-12-14 11:44:04.4292|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 0 from Repo.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:44:04.5432|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:44:04.5432|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:44:04.5432|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:27.9271|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:27.9421|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	896-567-2207 from Repo.
+2019-12-14 11:45:27.9451|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	896-567-2207
+2019-12-14 11:45:27.9451|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 0 Customers that match: 896-567-2207
+2019-12-14 11:45:27.9451|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 0 from Repo.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:45:28.0151|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 11:45:28.0151|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 11:45:28.0151|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 11:50:36.5221|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:55:42.0775|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Customer Add Form tried to locate window for updates, but failed to find it.
+2019-12-14 11:55:42.1035|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerAddViewModel|Admin requesting Customer Registration from WPF form.
+2019-12-14 11:55:42.1035|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer creation request to Repo. Name:	Will Smith
+2019-12-14 11:55:42.1035|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-12-14 11:55:42.1035|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-12-14 11:55:42.1035|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-12-14 11:55:42.1035|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	247-390-8131 from Repo.
+2019-12-14 11:55:42.1035|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	247-390-8131
+2019-12-14 11:55:42.1035|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: 247-390-8131
+2019-12-14 11:55:42.1295|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 1 from Repo.
+2019-12-14 12:31:21.3742|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.4062|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6102|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6102|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6602|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6602|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6602|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6602|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:21.6642|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1423|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1423|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1423|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1423|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1553|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1553|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1553|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1553|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1653|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1653|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1653|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1653|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1893|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1893|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1893|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1893|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1963|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1963|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1963|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1963|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1963|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1963|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.1963|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.1963|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2163|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2163|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2383|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2383|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2383|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2383|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2453|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2453|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2453|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2453|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2453|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2453|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2453|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2453|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2603|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2773|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2773|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2773|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2773|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2773|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2773|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2773|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2773|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.2773|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.2773|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.3533|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.3533|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Admin requesting Customer Update from WPF form.
+2019-12-14 12:31:22.3533|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1 to Repo.
+2019-12-14 12:31:22.3533|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-12-14 12:31:22.3533|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.3533|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-12-14 12:31:22.3533|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-12-14 12:31:22.3533|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	546-414-9712 from Repo.
+2019-12-14 12:31:22.3533|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	546-414-9712
+2019-12-14 12:31:22.3723|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: 546-414-9712
+2019-12-14 12:31:22.3843|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 1 from Repo.
+2019-12-14 12:31:22.4893|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4893|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4893|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4893|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4893|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4893|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4893|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4893|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4893|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4893|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4893|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:31:22.4933|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:31:22.4933|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:31:22.4933|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:49.1268|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.1378|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.1728|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.1728|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.1728|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.1728|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.1728|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.1728|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.2718|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.2718|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.2738|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.2738|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.2738|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.2738|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.2978|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.2978|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.3248|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.3898|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:49.3898|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Admin requesting Customer Update from WPF form.
+2019-12-14 12:34:49.3898|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1 to Repo.
+2019-12-14 12:34:49.3898|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-12-14 12:34:49.3898|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.3898|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-12-14 12:34:49.3898|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-12-14 12:34:49.3898|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Customers with Search:	397-803-0264 from Repo.
+2019-12-14 12:34:49.3998|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	397-803-0264
+2019-12-14 12:34:49.3998|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 1 Customers that match: 397-803-0264
+2019-12-14 12:34:49.4158|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 1 from Repo.
+2019-12-14 12:34:49.9268|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.9268|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.9268|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.9268|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:49.9298|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0458|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0458|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0458|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0458|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0458|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0458|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0458|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0458|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0458|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0458|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0458|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0458|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0458|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0558|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-12-14 12:34:50.0558|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-12-14 12:34:50.0558|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-12-14 12:34:50.0728|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0728|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0728|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0728|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0728|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0728|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0728|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0728|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0728|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0728|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.0728|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.0728|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1108|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1108|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1108|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1108|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1108|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1108|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1108|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1108|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1178|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1178|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1178|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1178|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1178|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1178|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1178|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1178|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1178|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1178|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1338|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1338|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1338|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1338|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1338|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1338|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1338|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1338|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:34:50.1338|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:34:50.1338|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:36:16.8336|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:36:16.8666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:36:53.5882|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:36:53.6072|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:08.3746|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:08.3966|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:08.4716|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:08.4806|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Admin requesting Customer Update from WPF form.
+2019-12-14 12:40:08.4806|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1 to Repo.
+2019-12-14 12:40:08.4806|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-12-14 12:40:08.4806|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:08.4806|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-12-14 12:40:08.4806|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-12-14 12:40:08.4806|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:08.4806|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.2916|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.2916|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.2916|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3126|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3126|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3546|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3546|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3546|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3546|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3546|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3546|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:40:09.3666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:40:09.3666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:42:00.9101|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:42:00.9381|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:42:01.0231|ERROR|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Tried to get the Edit Form WIndow but the RoutedEventArgs were null.
+2019-12-14 12:42:01.0231|INFO|DragonDrop.WPF.StoreViews.Tabs.ViewModels.CustomerEditViewModel|Admin requesting Customer Update from WPF form.
+2019-12-14 12:42:01.0391|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1 to Repo.
+2019-12-14 12:42:01.0391|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-12-14 12:42:01.0391|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 12:42:01.0391|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-12-14 12:42:01.0391|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-12-14 12:42:01.0391|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-12-14 12:42:01.0391|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-12-14 14:01:07.0992|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-14 14:01:07.1272|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-14 14:01:07.1342|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-14 14:01:07.1342|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-14 14:01:07.1342|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1553753434 from Repo.
+2019-12-14 14:01:07.1342|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1553753434
+2019-12-14 14:01:07.1342|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	1553753434
+2019-12-14 14:01:07.1342|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	1553753434 in Repo.
+2019-12-14 14:01:07.1842|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+
+
+
+
+
+An Order's Shipping Date cannot be missing if it has been Shipped or Delivered.
+
+2019-12-14 14:01:07.2382|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting creation of record for Order by Repo.
+2019-12-14 14:01:07.2702|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Ced Brasher at:/t12/6/2019 12:00:00 AM
+2019-12-14 14:01:07.2702|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 12/6/2019 12:00:00 AM.
+2019-12-14 14:01:07.2702|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Data Service.
+2019-12-14 14:55:21.6704|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting creation of record for Order by Repo.
+2019-12-14 14:55:21.6824|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t12/4/2019 2:55:21 PM
+2019-12-14 14:55:21.6824|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 12/4/2019 2:55:21 PM.
+2019-12-14 14:55:21.6824|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Data Service.
+2019-12-14 14:55:21.6824|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	4 from Repo.
+2019-12-14 14:55:21.6824|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	4
+2019-12-14 14:55:21.7344|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting creation of record for Order by Repo.
+2019-12-14 14:55:21.7344|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t12/4/2019 2:55:21 PM
+2019-12-14 14:55:21.7344|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 12/4/2019 2:55:21 PM.
+2019-12-14 14:55:21.7344|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Data Service.
+2019-12-14 14:55:21.7344|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	4 from Repo.
+2019-12-14 14:55:21.7344|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	4
+2019-12-14 15:10:26.0246|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-14 15:10:26.0246|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-14 15:10:26.0386|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-12-14 15:10:26.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-12-14 15:10:26.0386|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1067848902 from Repo.
+2019-12-14 15:10:26.0386|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1067848902
+2019-12-14 15:10:26.0386|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	1067848902
+2019-12-14 15:10:26.0386|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	1067848902 in Repo.
+2019-12-14 15:10:26.0626|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting creation of record for Order by Repo.
+2019-12-14 15:10:26.0626|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t12/4/2019 3:10:26 PM
+2019-12-14 15:10:26.0626|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 12/4/2019 3:10:26 PM.
+2019-12-14 15:10:26.0626|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Data Service.
+2019-12-14 15:10:26.0626|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	4 from Repo.
+2019-12-14 15:10:26.0626|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	4
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting creation of record for Order by Repo.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Ced Brasher at:/t12/4/2019 3:10:26 PM
+2019-12-14 15:10:26.1375|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 12/4/2019 3:10:26 PM.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Data Service.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	4 from Repo.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	4
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting creation of record for Order by Repo.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t12/4/2019 12:00:00 AM
+2019-12-14 15:10:26.1375|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 12/4/2019 12:00:00 AM.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Data Service.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	4 from Repo.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	4
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting creation of record for Order by Repo.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t12/4/2019 12:00:00 AM
+2019-12-14 15:10:26.1375|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 12/4/2019 12:00:00 AM.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Data Service.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	4 from Repo.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	4
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-12-14 15:10:26.1375|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-12-14 15:10:26.1375|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.

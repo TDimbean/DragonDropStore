@@ -1,0 +1,6 @@
+2019-10-04 15:16:57.3439|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-10-04 15:16:57.3569|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-10-04 15:18:13.8303|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-10-04 15:18:13.8553|INFO|DragonDrop.DAL.Implementation.CustomerRepository|Repo fetching all Customers...
+2019-10-04 15:18:35.2699|INFO|DragonDrop.DAL.Implementation.CustomerRepository|35 records found.
+2019-10-04 15:18:35.2699|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 35 records.

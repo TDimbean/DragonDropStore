@@ -1,0 +1,79 @@
+﻿<Window x:Class="DragonDrop.WPF.StoreViews.Tabs.SubViews.OrderPop"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:conv="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.Converters"
+        xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.SubViews"
+        mc:Ignorable="d" Title="Order Details"  WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" ResizeMode="NoResize" SizeToContent="WidthAndHeight" Background="#ECD078">
+
+    <Window.Resources>
+        
+            <Style TargetType="TextBlock">
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="HorizontalAlignment" Value="Left"/>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="{x:Null}"/>
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+            </Style>
+            <SolidColorBrush x:Key="AlternateRowBg" Color="#D95B43"/>
+            <SolidColorBrush x:Key="MainBrush" Color="#ECD078"/>
+            <conv:IdToOrderStatusConverter x:Key="IdToOrdStatConv"/>
+            <conv:IdToShippingMethodConverter x:Key="IdToShipMethConv"/>
+            <conv:IdToPaymentMethodConverter x:Key="IdToPayMethConv"/>
+        
+    </Window.Resources>
+
+    <StackPanel Background="{StaticResource MainBrush}">
+        <DockPanel Margin="4">
+            <Image Source="pack://application:,,,/Art/orders.png" Height="60" DockPanel.Dock="Left" Margin="4"/>
+            <StackPanel Orientation="Vertical" DockPanel.Dock="Left" Margin="0">
+                <StackPanel Orientation="Horizontal" Width="260" Margin="0">
+                    <Label Content="ID: " Margin="0" Padding="0" VerticalContentAlignment="Center" FontSize="24"/>
+                    <TextBlock  Text="{Binding OrderId}" Margin="0" Padding="0" FontSize="22" Width="230"/>
+                </StackPanel>
+                <TextBlock Text="{Binding CustomerInfo}" Width="260" Margin="0" Padding="0" FontSize="18"/>
+            </StackPanel>
+        </DockPanel>
+        <StackPanel Orientation="Horizontal" Background="{StaticResource AlternateRowBg}">
+            <Image Source="pack://application:,,,/Art/calendar.png" Height="30" Margin="4"/>
+            <Label Content="Placed:" VerticalAlignment="Center" FontSize="16" Margin="0" Padding="0"/>
+            <TextBlock Text="{Binding OrderDate, StringFormat=d}" Background="{x:Null}" VerticalAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Image Source="pack://application:,,,/Art/deliveryTime.png" Margin="4" Height="30"/>
+            <Label Content="Delivered:" VerticalAlignment="Center" FontSize="16" Margin="0" Padding="0"/>
+            <TextBlock Text="{Binding ShippingDate, StringFormat=d}" VerticalAlignment="Center" Background="{x:Null}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Background="{StaticResource AlternateRowBg}">
+            <Image Source="pack://application:,,,/Art/orderItem.png" Margin="0" Height="34"/>
+            <Label Content="Status:" VerticalAlignment="Center" FontSize="16" Margin="0" Padding="0"/>
+            <TextBlock Text="{Binding OrderStatusId, Converter={StaticResource IdToOrdStatConv}}" VerticalAlignment="Center" Background="{x:Null}"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            
+        <StackPanel Orientation="Horizontal" Width="160" ToolTip="Shipping Method">
+            <Image Source="pack://application:,,,/Art/deliveryTruck.png" Margin="0" Height="30"/>
+            <TextBlock Text="{Binding ShippingMethodId, Converter={StaticResource IdToShipMethConv}}" VerticalAlignment="Center" Background="{x:Null}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" ToolTip="Payment Method">
+            <Image Source="pack://application:,,,/Art/payMethod.png" Margin="0" Height="30"/>
+            <TextBlock Text="{Binding PaymentMethodId, Converter={StaticResource IdToPayMethConv}}" VerticalAlignment="Center" Background="{x:Null}"/>
+        </StackPanel>
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal" Background="MistyRose">
+            <Button Width="160" Click="Close_Click"
+                    ToolTip="Close Window">
+                <Image Source="pack://application:,,,/Art/close.png" Height="30"/>
+            </Button>
+            <Button Width="160" Click="Edit_Click" 
+                    ToolTip="Edit Customer Details">
+                <Image Source="pack://application:,,,/Art/pencil.png" Height="30"/>
+            </Button>
+        </StackPanel>
+    </StackPanel>
+
+</Window>

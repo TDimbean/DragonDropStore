@@ -1,0 +1,187 @@
+﻿<Window x:Class="DragonDrop.WPF.StoreViews.Tabs.SubViews.EditDefaultsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.SubViews"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:beh="clr-namespace:DragonDrop.WPF"
+        xmlns:my="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="Edit Default Values" SizeToContent="Height" Width="360" MaxWidth="720" Background="DarkGray"
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style TargetType="Image">
+            <Setter Property="RenderTransformOrigin" Value=".5 .5"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="Foreground" Value="Ivory"/>
+            <Setter Property="FontSize" Value="24"/>
+            <Setter Property="FontFamily" Value="Batang"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="{x:Null}"/>
+            <Setter Property="BorderBrush" Value="{x:Null}"/>
+        </Style>
+        <Style x:Key="HoverlessBtnStyle" TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" 
+                            BorderThickness="1"
+                            Padding="4,2" 
+                            BorderBrush="{x:Null}" 
+                            CornerRadius="3" 
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="BorderBrush" Value="LightGray" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="DataGrid">
+            <Setter Property="Background" Value="DarkSlateGray"/>
+            <Setter Property="GridLinesVisibility" Value="Vertical"/>
+            <Setter Property="CanUserAddRows" Value="True"/>
+            <Setter Property="CanUserDeleteRows" Value="False"/>
+            <Setter Property="AutoGenerateColumns" Value="False"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="ColumnWidth" Value="*"/>
+            <Setter Property="AlternatingRowBackground" Value="LightGray"/>
+            <Setter Property="SelectionMode" Value="Single"/>
+            <Setter Property="CanUserReorderColumns" Value="False"/>
+            <Setter Property="CanUserResizeColumns" Value="False"/>
+            <Setter Property="CanUserResizeRows" Value="False"/>
+            <Setter Property="IsReadOnly" Value="True"/>
+        </Style>
+        <Style TargetType="{x:Type DataGridCell}">
+            <Setter Property="Foreground" Value="Black" />
+            <Style.Triggers>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="{x:Null}" />
+                    <Setter Property="BorderBrush" Value="{x:Null}" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="{x:Type DataGridRow}">
+            <Setter Property="Foreground" Value="Black" />
+            <Style.Triggers>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="Goldenrod" />
+                    <Setter Property="BorderBrush" Value="{x:Null}" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <StackPanel Orientation="Vertical">
+    <!--Top Buttons-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Content="{Binding RepoTitle, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}" Grid.Column="1"/>
+            <Button HorizontalContentAlignment="Right">
+                <Image Source="pack://application:,,,/Art/arrow.png" Height="26">
+                    <Image.RenderTransform>
+                        <RotateTransform Angle="90"/>
+                    </Image.RenderTransform>
+                </Image>
+                <i:Interaction.Behaviors>
+                    <beh:EventToCommandBehavior Command="{Binding CycleLeftCommand}" Event="Click" PassArguments="False"/>
+                </i:Interaction.Behaviors>
+            </Button>
+            <Button HorizontalContentAlignment="Left" Grid.Column="2">
+                <Image Source="pack://application:,,,/Art/arrow.png" Height="26">
+                    <Image.RenderTransform>
+                        <RotateTransform Angle="-90"/>
+                    </Image.RenderTransform>
+                </Image>
+                <i:Interaction.Behaviors>
+                    <beh:EventToCommandBehavior Command="{Binding CycleRightCommand}" Event="Click" PassArguments="False"/>
+                </i:Interaction.Behaviors>
+            </Button>
+        </Grid>
+    <!--DataGrid-->
+        <DataGrid ItemsSource="{Binding ValuesList}" x:Name="custDG">
+            <DataGrid.Resources>
+                <my:Double x:Key="HeaderImgSize">30</my:Double>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    <Setter Property="FontSize" Value="20"/>
+                </Style>
+                <Style x:Key="TextCellStyle" TargetType="TextBlock">
+                    <Setter Property="HorizontalAlignment" Value="Center" />
+                    <Setter Property="VerticalAlignment" Value="Center" />
+                    <Setter Property="FontSize" Value="20"/>
+                </Style>
+
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding ID}" 
+                                    MinWidth="30"
+                                    Width="SizeToCells"
+                                    ElementStyle="{StaticResource TextCellStyle}"
+                                    Header="Id"/>
+                <DataGridTextColumn Binding="{Binding Name}"
+                                    ElementStyle="{StaticResource TextCellStyle}"
+                                    Header="Name"/>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>
+                        <Button Click="NewRow_Click">
+                            <Image Source="pack://application:,,,/Art/newRecord.png" Height="{StaticResource HeaderImgSize}"/>
+                        </Button>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="EditCell_Click">
+                                    <Image Source="pack://application:,,,/Art/pencil.png" 
+                                           Height="{StaticResource HeaderImgSize}"/>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>
+                        <Button Click="ResetValues_Click">
+                            <Image Source="pack://application:,,,/Art/reset.png" Height="{StaticResource HeaderImgSize}"/>
+                        </Button>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="SwapCell_Click">
+                                <Image Source="pack://application:,,,/Art/swap.png" 
+                                           Height="{StaticResource HeaderImgSize}"/>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>
+                        <Button Click="Destroy_Click">
+                            <Image Source="pack://application:,,,/Art/destroy.png" Height="{StaticResource HeaderImgSize}"/>
+                        </Button>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="DelCell_Click">
+                                <Image Source="pack://application:,,,/Art/trash.png" 
+                                           Height="{StaticResource HeaderImgSize}"/>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        
+    </StackPanel>
+</Window>

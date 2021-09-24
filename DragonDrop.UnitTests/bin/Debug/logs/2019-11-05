@@ -1,0 +1,2 @@
+2019-11-05 13:54:36.3915|ERROR|DragonDrop.UnitTests.MockRepoes.TestPaymentMethodRepo|Tried to update Payment Method, but found none with ID: 878687019. Details: Object reference not set to an instance of an object.
+ StackTrace:   at DragonDrop.UnitTests.MockRepoes.TestPaymentMethodRepo.Update(PaymentMethod meth) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestPaymentMethodRepo.cs:line 33

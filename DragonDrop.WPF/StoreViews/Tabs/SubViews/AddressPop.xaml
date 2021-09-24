@@ -1,0 +1,61 @@
+﻿<Window x:Class="DragonDrop.WPF.StoreViews.Tabs.SubViews.AddressPop"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.SubViews"
+        mc:Ignorable="d"
+        Title="AddressPop" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" 
+        ResizeMode="NoResize" SizeToContent="WidthAndHeight" Background="#FF9734">
+    <Window.Resources>
+            <Style TargetType="TextBlock">
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="HorizontalAlignment" Value="Left"/>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="{x:Null}"/>
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+            </Style>
+            <SolidColorBrush x:Key="AlternateRowBg" Color="#D13415"/>
+            <SolidColorBrush x:Key="MainColour" Color="#FF9734"/>
+        
+    </Window.Resources>
+
+    <StackPanel Background="{StaticResource MainColour}">
+        <DockPanel Margin="4">
+            <Image Source="pack://application:,,,/Art/orderItem.png" Height="60" DockPanel.Dock="Left" Margin="0"/>
+            <StackPanel Orientation="Vertical" DockPanel.Dock="Left" Margin="0">
+                <TextBlock Text="{Binding Title}" Width="260" Margin="0" Padding="0" FontSize="24"
+                           TextWrapping="Wrap" TextAlignment="Center"/>
+            </StackPanel>
+        </DockPanel>
+        
+        <StackPanel Orientation="Horizontal" Background="{StaticResource AlternateRowBg}">
+            <Image Source="pack://application:,,,/Art/mapMarker.png" Height="30" Margin="4"/>
+            <TextBlock Text="{Binding Address}" Background="{x:Null}" VerticalAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Image Source="pack://application:,,,/Art/cityBuildings.png" Margin="4" Height="30"/>
+            <TextBlock Text="{Binding City}" VerticalAlignment="Center" Background="{x:Null}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Background="{StaticResource AlternateRowBg}">
+            <Image Source="pack://application:,,,/Art/state.png" Margin="4" Height="30"/>
+            <TextBlock Text="{Binding State}" VerticalAlignment="Center" Background="{x:Null}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Image Source="pack://application:,,,/Art/mail.png" Margin="4" Height="30"/>
+            <TextBlock Text="{Binding Email}" VerticalAlignment="Center" Background="{x:Null}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Background="Tan">
+            <Button Width="160" Click="Close_Click"
+                    ToolTip="Close Window">
+                <Image Source="pack://application:,,,/Art/close.png" Height="30"/>
+            </Button>
+            <Button Width="160" Click="Edit_Click" 
+                    ToolTip="Edit Customer Details">
+                <Image Source="pack://application:,,,/Art/pencil.png" Height="30"/>
+            </Button>
+        </StackPanel>
+    </StackPanel>
+
+</Window>

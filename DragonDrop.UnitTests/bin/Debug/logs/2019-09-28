@@ -1,0 +1,106 @@
+2019-09-28 08:14:10.6201|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers.ID
+2019-09-28 08:14:10.6331|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 08:14:10.8071|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers.ID
+2019-09-28 08:14:10.8071|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 08:14:10.8071|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers.ID
+2019-09-28 08:14:10.8071|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 08:14:10.8071|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers.ID
+2019-09-28 08:14:10.8071|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 08:49:36.2631|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers.Name
+2019-09-28 08:49:36.2861|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 08:49:36.2861|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers.Name
+2019-09-28 08:49:36.2861|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 08:49:36.4891|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo Sorting Customers by Name ascending, then retrieving page 3 of size 1.
+2019-09-28 08:49:36.4891|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers.Name
+2019-09-28 08:49:36.4891|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 08:49:36.4891|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 3 of size 1 from filtered Customer records.
+2019-09-28 08:49:36.4891|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-09-28 08:49:36.4891|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo got 1 results.
+2019-09-28 08:49:36.5051|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo Sorting Customers by Name descending, then retrieving page 3 of size 1.
+2019-09-28 08:49:36.5051|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers.Name
+2019-09-28 08:49:36.5051|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 08:49:36.5051|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 3 of size 1 from filtered Customer records.
+2019-09-28 08:49:36.5051|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-09-28 08:49:36.5051|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo got 1 results.
+2019-09-28 10:52:18.1649|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering results by: of, then sorting the result by: email.
+2019-09-28 10:52:18.1839|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	OF
+2019-09-28 10:52:18.5999|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering results by: of, then sorting the result by: email.
+2019-09-28 10:52:18.5999|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	OF
+2019-09-28 10:55:35.4651|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering results by: of, then sorting the result by: email.
+2019-09-28 10:55:35.4931|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	OF
+2019-09-28 10:55:35.5061|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 2 Customers that match: OF
+2019-09-28 10:55:35.5421|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching  Customers, sorted by: email ascending.E-mail
+2019-09-28 10:55:35.5421|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|2 records found.
+2019-09-28 10:55:35.5421|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Reo found 2 results.
+2019-09-28 10:55:35.7261|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering results by: of, then sorting the result by: email.
+2019-09-28 10:55:35.7261|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	OF
+2019-09-28 10:55:35.7261|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 2 Customers that match: OF
+2019-09-28 10:55:35.7261|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching  Customers, sorted by: email descending.E-mail
+2019-09-28 10:55:35.7261|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|2 records found.
+2019-09-28 10:55:35.7261|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Reo found 2 results.
+2019-09-28 11:21:43.3294|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer records filtered by: CA, sorted by: name in ascending order. Page: 2 of size: 2.
+2019-09-28 11:21:43.3504|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering results by: CA, then sorting the result by: name.
+2019-09-28 11:21:43.3504|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	CA
+2019-09-28 11:21:43.3624|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 4 Customers that match: CA
+2019-09-28 11:21:43.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching  Customers, sorted by: name ascending.Name
+2019-09-28 11:21:43.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|4 records found.
+2019-09-28 11:21:43.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Reo found 4 results.
+2019-09-28 11:21:43.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 2 of size 2 from filtered Customer records.
+2019-09-28 11:21:43.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 2 records.
+2019-09-28 11:21:43.3944|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 2 Customer records.
+2019-09-28 11:21:43.6164|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer records filtered by: CA, sorted by: name in descending order. Page: 2 of size: 2.
+2019-09-28 11:21:43.6164|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering results by: CA, then sorting the result by: name.
+2019-09-28 11:21:43.6164|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	CA
+2019-09-28 11:21:43.6164|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 4 Customers that match: CA
+2019-09-28 11:21:43.6164|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching  Customers, sorted by: name descending.Name
+2019-09-28 11:21:43.6164|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|4 records found.
+2019-09-28 11:21:43.6164|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Reo found 4 results.
+2019-09-28 11:21:43.6164|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 2 of size 2 from filtered Customer records.
+2019-09-28 11:21:43.6164|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 2 records.
+2019-09-28 11:21:43.6164|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 2 Customer records.
+2019-09-28 11:22:56.7734|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer records filtered by: CA, sorted by: name in ascending order. Page: 2 of size: 2.
+2019-09-28 11:22:56.7974|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering results by: CA, then sorting the result by: name.
+2019-09-28 11:22:56.7974|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	CA
+2019-09-28 11:22:56.8124|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 4 Customers that match: CA
+2019-09-28 11:22:56.8374|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching  Customers, sorted by: name ascending.Name
+2019-09-28 11:22:56.8374|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|4 records found.
+2019-09-28 11:22:56.8374|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Reo found 4 results.
+2019-09-28 11:22:56.8374|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 2 of size 2 from filtered Customer records.
+2019-09-28 11:22:56.8464|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 2 records.
+2019-09-28 11:22:56.8464|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 2 Customer records.
+2019-09-28 11:22:57.0634|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer records filtered by: CA, sorted by: name in descending order. Page: 2 of size: 2.
+2019-09-28 11:22:57.0634|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo filtering results by: CA, then sorting the result by: name.
+2019-09-28 11:22:57.0634|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo searching Customer records by:	CA
+2019-09-28 11:22:57.0634|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found 4 Customers that match: CA
+2019-09-28 11:22:57.0644|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching  Customers, sorted by: name descending.Name
+2019-09-28 11:22:57.0644|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|4 records found.
+2019-09-28 11:22:57.0644|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Reo found 4 results.
+2019-09-28 11:22:57.0644|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 2 of size 2 from filtered Customer records.
+2019-09-28 11:22:57.0644|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 2 records.
+2019-09-28 11:22:57.0644|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 2 Customer records.
+2019-09-28 11:37:02.9857|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 11:37:03.0107|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 11:37:03.2577|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 11:37:03.2577|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 11:37:03.2577|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 11:37:03.2577|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 12:03:55.3123|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 12:03:55.3263|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 12:03:55.3303|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 12:03:55.3303|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 12:03:55.5153|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 12:03:55.5153|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 12:03:55.5153|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 12:03:55.5153|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 12:04:50.3153|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 12:04:50.3483|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 12:04:50.3673|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 12:04:50.3673|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 12:04:50.3673|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 12:04:50.3673|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 12:04:50.6403|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 12:04:50.6403|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 12:04:50.6403|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 12:04:50.6403|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-28 12:04:50.6403|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-28 12:04:50.6403|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.

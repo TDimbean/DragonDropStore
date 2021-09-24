@@ -1,0 +1,38 @@
+﻿<Window x:Class="DragonDrop.WPF.StoreViews.Tabs.SubViews.ValueCellAddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.SubViews"
+        xmlns:beh="clr-namespace:DragonDrop.WPF"
+        mc:Ignorable="d"
+        Title="New Value" SizeToContent="WidthAndHeight" MaxWidth="720" Background="LightSlateGray"
+        WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="{x:Null}"/>
+            <Setter Property="BorderBrush" Value="{x:Null}"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="18"/>
+        </Style>
+    </Window.Resources>
+    <StackPanel Orientation="Horizontal">
+        <Label Foreground="GhostWhite" Content="Value: "/>
+        <TextBox Background="DarkSlateGray"  Tag="SelectableTxtBox"
+                 x:Name="entryBox" KeyDown="EntryBox_KeyDown"
+                 Text="{Binding ValText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                 Foreground="White" VerticalAlignment="Center" FontSize="20" Padding="4 0"/>
+        <Button x:Name="submitBtn">
+            <Image Source="pack://application:,,,/Art/check.png" Height="28"/>
+            <i:Interaction.Behaviors>
+                <beh:EventToCommandBehavior Command="{Binding SubmitCommand}" Event="Click" PassArguments="False"/>
+            </i:Interaction.Behaviors>
+        </Button>
+        <Button Click="Close_Click">
+            <Image Source="pack://application:,,,/Art/close.png" Height="28"/>
+        </Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,512 @@
+﻿<UserControl x:Class="DragonDrop.WPF.StoreViews.Tabs.AdminOrdersTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DragonDrop.WPF.StoreViews.Tabs"
+             xmlns:conv="clr-namespace:DragonDrop.WPF.StoreViews.Tabs.Converters"
+             xmlns:beh="clr-namespace:DragonDrop.WPF"
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+             xmlns:my="clr-namespace:System;assembly=mscorlib"
+             xmlns:hel="clr-namespace:DragonDrop.WPF.Helpers"
+             mc:Ignorable="d" 
+             d:DesignHeight="750" d:DesignWidth="596" Margin="0" Padding="0">
+    <UserControl.Resources>
+        
+            <Style x:Key="ShipDateDeetStyle" TargetType="TextBlock">
+                <Setter Property="Visibility" Value="Hidden"/>
+            </Style>
+            <Style x:Key="ShipMethDeetStyle" TargetType="TextBlock">
+                <Setter Property="Visibility" Value="Hidden"/>
+            </Style>
+            <Style x:Key="PayMethDeetStyle" TargetType="TextBlock">
+                <Setter Property="Visibility" Value="Hidden"/>
+            </Style>
+            <Style TargetType="StackPanel">
+                <Setter Property="Margin" Value="0"/>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="{x:Null}"/>
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+            </Style>
+            <Style x:Key="SearchTextBoxStyle" TargetType="TextBox">
+                <Setter Property="Width" Value="410"/>
+                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+                <Setter Property="Margin" Value="0"/>
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="FontFamily" Value="{Binding SearchFont}"/>
+                <Setter Property="Background" Value="GreenYellow"/>
+                <Setter Property="FontStyle" Value="{Binding SearchStyle}"/>
+                <Setter Property="Foreground" Value="{Binding SearchColour}"/>
+                <Setter Property="Text" Value="{Binding SearchText}"/>
+            </Style>
+            <conv:IdToPaymentMethodConverter x:Key="IdToPayMethConv"/>
+            <conv:IdToShippingMethodConverter x:Key="IdToShipMethConv"/>
+            <conv:IdToOrderStatusConverter x:Key="IdToStatConv"/>
+            <Style TargetType="DataGrid">
+                <Setter Property="GridLinesVisibility" Value="Vertical"/>
+                <Setter Property="Height" Value="760"/>
+                <Setter Property="CanUserAddRows" Value="False"/>
+                <Setter Property="CanUserDeleteRows" Value="False"/>
+                <Setter Property="AutoGenerateColumns" Value="False"/>
+                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                <Setter Property="ColumnWidth" Value="*"/>
+                <Setter Property="AlternatingRowBackground" Value="#FFC0ECEC"/>
+                <Setter Property="SelectionMode" Value="Single"/>
+                <Setter Property="CanUserReorderColumns" Value="False"/>
+                <Setter Property="CanUserResizeColumns" Value="False"/>
+                <Setter Property="CanUserResizeRows" Value="False"/>
+                <Setter Property="IsReadOnly" Value="True"/>
+            </Style>
+            <Style TargetType="{x:Type DataGridCell}">
+                <Setter Property="Foreground" Value="Black" />
+                <Style.Triggers>
+                    <Trigger Property="IsSelected" Value="True">
+                        <Setter Property="Background" Value="{x:Null}" />
+                        <Setter Property="BorderBrush" Value="{x:Null}" />
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            <Style  TargetType="{x:Type DataGridRow}">
+                <Setter Property="Foreground" Value="Black" />
+                <Style.Triggers>
+                    <Trigger Property="IsSelected" Value="True">
+                        <Setter Property="Background" Value="Goldenrod" />
+                        <Setter Property="BorderBrush" Value="{x:Null}" />
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            <Style x:Key="ArrowStyle" TargetType="Image">
+                <Setter Property="Source" Value="pack://application:,,,/Art/arrow.png"/>
+                <Setter Property="Height" Value="26"/>
+                <Setter Property="RenderTransformOrigin" Value=".5 .5"/>
+            </Style>
+        
+    </UserControl.Resources>
+
+    <StackPanel Orientation="Vertical">
+        <!--Search-->
+        <StackPanel Orientation="Vertical">
+            <!--Search Bar-->
+            <StackPanel Orientation="Horizontal">
+                <StackPanel.Resources>
+                    
+                        <my:Double x:Key="SearchBtnSize">30</my:Double>
+                        <Style x:Key="SearchLabelStyle" TargetType="Label">
+                            <Setter Property="Content" Value="Search:"/>
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                            <Setter Property="VerticalContentAlignment" Value="Center"/>
+                            <Setter Property="BorderBrush" Value="Transparent"/>
+                            <Setter Property="Margin" Value="0"/>
+                            <Setter Property="Padding" Value="4 0"/>
+                            <Setter Property="FontSize" Value="18"/>
+                        </Style>
+                    
+                </StackPanel.Resources>
+                <Button Click="AdvSearchExpanderBtn_Click" ToolTip="Advanced Search">
+                    <Image x:Name="AdvSearchArrow" Style="{StaticResource ArrowStyle}"/>
+                    <!--Notify VM of Toggling-->
+                    <i:Interaction.Behaviors>
+                        <beh:EventToCommandBehavior Command="{Binding AdvVisChangedCommand}" Event="Click" PassArguments="False"/>
+                    </i:Interaction.Behaviors>
+                </Button>
+                <Label Style="{StaticResource SearchLabelStyle}"/>
+                <TextBox Style="{StaticResource SearchTextBoxStyle}" Tag="LosslessTxtBox" KeyUp="FilterBox_KeyUp"
+                         Text="{Binding SearchText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+                    <i:Interaction.Behaviors>
+                        <beh:EventToCommandBehavior Command="{Binding SearchGotFocusCommand}" Event="GotFocus" PassArguments="False"/>
+                        <beh:EventToCommandBehavior Command="{Binding SearchLostFocusCommand}" Event="LostFocus" PassArguments="False"/>
+                        <beh:EventToCommandBehavior Command="{Binding SearchTextChangedCommand}" Event="TextChanged" PassArguments="False"/>
+                    </i:Interaction.Behaviors>
+                </TextBox>
+                <Button>
+                    <Image Source="pack://application:,,,/Art/search.png" Height="{StaticResource SearchBtnSize}"/>
+                    <i:Interaction.Behaviors>
+                        <beh:EventToCommandBehavior Command="{Binding SearchCommand}" Event="Click" PassArguments="False"/>
+                    </i:Interaction.Behaviors>
+                </Button>
+                <Button x:Name="ResetBtn" Click="ResetBtn_Click">
+                    <Image Source="pack://application:,,,/Art/reset.png" Height="{StaticResource SearchBtnSize}"/>
+                    <i:Interaction.Behaviors>
+                        <beh:EventToCommandBehavior Command="{Binding ResetCommand}" Event="Click" PassArguments="False"/>
+                    </i:Interaction.Behaviors>
+                </Button>
+
+            </StackPanel>
+            <!--AdvancedSearch Expander-->
+            <StackPanel Orientation="Vertical" Name="AdvSearch" Visibility="Collapsed">
+                <StackPanel.Resources>
+                    
+                        <Style TargetType="Label">
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                            <Setter Property="VerticalContentAlignment" Value="Center"/>
+                            <Setter Property="BorderBrush" Value="Transparent"/>
+                            <Setter Property="Margin" Value="0"/>
+                            <Setter Property="Padding" Value="0"/>
+                            <Setter Property="FontSize" Value="18"/>
+                        </Style>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                            <Setter Property="Margin" Value="0"/>
+                            <Setter Property="Padding" Value="0"/>
+                            <Setter Property="FontSize" Value="18"/>
+                        </Style>
+                        <Style TargetType="TextBox">
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                            <Setter Property="VerticalContentAlignment" Value="Center"/>
+                            <Setter Property="BorderBrush" Value="{x:Null}"/>
+                            <Setter Property="Background" Value="{x:Null}"/>
+                            <Setter Property="Margin" Value="0"/>
+                            <Setter Property="Padding" Value="0"/>
+                            <Setter Property="FontSize" Value="22"/>
+                            <Setter Property="FontFamily" Value="Consolas"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="Tag" Value="LosslessTxtBox"/>
+
+                        </Style>
+                        <Style TargetType="ComboBox">
+                            <Setter Property="FontSize" Value="16"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            <Setter Property="VerticalContentAlignment" Value="Center"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                            <Setter Property="Margin" Value="0"/>
+                            <Setter Property="Padding" Value="0 4"/>
+                        </Style>
+                    
+
+                </StackPanel.Resources>
+                <!--Line The Second-->
+                <DockPanel  Background="#cc9900">
+                    
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel.Resources>
+                        
+                            <Style TargetType="TextBox">
+                                <Setter Property="Background" Value="Sienna"/>
+                                <Setter Property="Foreground" Value="White"/>
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                <Setter Property="TextAlignment" Value="Center"/>
+                                <Setter Property="FontSize" Value="20"/>
+                                <Setter Property="Tag" Value="SelectableTxtBox"/>
+                                <Setter Property="MinWidth" Value="70"/>
+                            </Style>
+                            <Style TargetType="Label">
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                <Setter Property="FontSize" Value="16"/>
+                                <Setter Property="FontFamily" Value="Consolas"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                            </Style>
+                        
+                    </StackPanel.Resources>
+                    <Button Click="ResetAdvCust_Click">
+                        <Image Source="pack://application:,,,/Art/close.png" Height="20"/>
+                    </Button>
+                    <Label Content="Customer ID: " FontSize="16" FontFamily="Consolas" FontWeight="Bold"/>
+                    <TextBox x:Name="AdvCustBox" Background="WhiteSmoke" Text="{Binding AdvCustText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Foreground="Black"
+                                     PreviewTextInput="AdvCust_PreviewTextInput" Width="120"
+                                 KeyUp="FilterBox_KeyUp">
+                        <i:Interaction.Behaviors>
+                            <beh:EventToCommandBehavior Command="{Binding AdvCustTextChangedCommand}"
+                                                                Event="TextChanged" PassArguments="False"/>
+                        </i:Interaction.Behaviors>
+                    </TextBox>
+                </StackPanel>
+
+                <!--Cont Search-->
+                <StackPanel HorizontalAlignment="Right" Margin="0 0 40 0" Orientation="Horizontal">
+                    <StackPanel.Resources>
+                        
+                            <Style TargetType="Label">
+                                <Setter Property="HorizontalAlignment" Value="Center"/>
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                <Setter Property="BorderBrush" Value="Transparent"/>
+                                <Setter Property="Margin" Value="0"/>
+                                <Setter Property="Padding" Value="0"/>
+                                <Setter Property="FontSize" Value="18"/>
+                            </Style>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Center"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="Margin" Value="0"/>
+                                <Setter Property="Padding" Value="0"/>
+                                <Setter Property="FontSize" Value="18"/>
+                            </Style>
+                            <Style TargetType="TextBox">
+                                <Setter Property="HorizontalAlignment" Value="Center"/>
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                <Setter Property="BorderBrush" Value="{x:Null}"/>
+                                <Setter Property="Background" Value="{x:Null}"/>
+                                <Setter Property="Margin" Value="0"/>
+                                <Setter Property="Padding" Value="0"/>
+                                <Setter Property="FontSize" Value="22"/>
+                                <Setter Property="FontFamily" Value="Consolas"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                                <Setter Property="Tag" Value="LosslessTxtBox"/>
+
+                            </Style>
+                            <Style TargetType="ComboBox">
+                                <Setter Property="FontSize" Value="16"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="Margin" Value="0"/>
+                                <Setter Property="Padding" Value="0 4"/>
+                            </Style>
+                        
+
+                    </StackPanel.Resources>
+                    <Button Click="ResetContSearch_Click">
+                    <Image Source="pack://application:,,,/Art/close.png" Height="20"/>
+                </Button>
+            <Label Content="Continuous Search:"/>
+            <Button x:Name="ContSearchToggle" Width="50" Click="ContSearchToggle_Click"
+                                    Content="{Binding ContSearchToggleText, Mode=TwoWay, 
+                                UpdateSourceTrigger=PropertyChanged}" ToolTip="WARNING: May drastically impact performance"
+                    FontFamily="Consolas" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+                <i:Interaction.Behaviors>
+                    <beh:EventToCommandBehavior Command="{Binding ToggleContinuousCommand}" 
+                                                                Event="Click" PassArguments="False"/>
+                </i:Interaction.Behaviors>
+            </Button>
+                </StackPanel>
+                </DockPanel>
+  
+                <!--Line The Third-->
+                <StackPanel Orientation="Horizontal" Background="#cccc00" Height="28">
+                    <Button Click="ResetAdvSort_Click">
+                        <Image Source="pack://application:,,,/Art/close.png" Height="20"/>
+                    </Button>
+                    <Label Content="Sort by:" FontSize="18"/>
+                    <ComboBox Width="160" Margin="4 0" ItemsSource="{Binding SortOptions}"
+                              SelectedIndex="{Binding SelSortIndex, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                              x:Name="AdvSortCombo"/>
+                    <Button x:Name="AdvSortDirToggle" Content="{Binding AdvSortDirToggle, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                            FontSize="18" Click="AdvSortDirToggle_Click"/>
+                </StackPanel>
+
+                <!--Line Fourth-->
+                <DockPanel Background="#c68C53" Height="36">
+                    <Button Click="ResetAdvPage_Click">
+                        <Image Source="pack://application:,,,/Art/close.png" Height="20"/>
+                    </Button>
+                    <!--Left/Right-->
+                    <StackPanel DockPanel.Dock="Right" Orientation="Horizontal">
+                        <Button Visibility="{Binding PrevVisibility}">
+                            <Image Style="{StaticResource ArrowStyle}">
+                                <Image.RenderTransform>
+                                    <RotateTransform Angle="90"/>
+                                </Image.RenderTransform>
+                            </Image>
+                            <i:Interaction.Behaviors>
+                                <beh:EventToCommandBehavior Command="{Binding PrevCommand}" Event="Click" PassArguments="False"/>
+                            </i:Interaction.Behaviors>
+                        </Button>
+                        <Label Content="{Binding AdvPagingText}"/>
+                        <Button Visibility="{Binding NextVisibility}">
+                            <Image Style="{StaticResource ArrowStyle}">
+                                <Image.RenderTransform>
+                                    <RotateTransform Angle="-90"/>
+                                </Image.RenderTransform>
+                            </Image>
+                            <i:Interaction.Behaviors>
+                                <beh:EventToCommandBehavior Command="{Binding NextCommand}" Event="Click" PassArguments="False"/>
+                            </i:Interaction.Behaviors>
+                        </Button>
+                    </StackPanel>
+                    <!--Page Size-->
+                    <StackPanel DockPanel.Dock="Left" Orientation="Horizontal">
+                        <Label Content="Showing: "/>
+                        <TextBox Text="{Binding AdvPageSizeText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                 LostFocus="AdvPgSizeTxt_LostFocus" Tag="SelectableTxtBox"
+                                 x:Name="AdvPageBox" KeyUp="PageSizeBox_KeyUp"/>
+                        <Label Content=" results" x:Name="ResPerPageLbl"/>
+                    </StackPanel>
+                </DockPanel>
+
+            </StackPanel>
+
+
+        </StackPanel>
+
+        <!--Data Grid-->
+        <DataGrid ItemsSource="{Binding OrderList, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}" Name="custDG">
+            <DataGrid.Resources>
+                    <my:Double x:Key="HeaderImgSize">30</my:Double>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    </Style>
+                    <Style x:Key="TextCellStyle" TargetType="TextBlock">
+                        <Setter Property="HorizontalAlignment" Value="Center" />
+                        <Setter Property="VerticalAlignment" Value="Center" />
+                        <Setter Property="FontSize" Value="20"/>
+                    </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding OrderId}" Width="SizeToCells" MinWidth="50"
+                                    ElementStyle="{StaticResource TextCellStyle}">
+                    <DataGridTextColumn.Header>
+                        <Image Source="pack://application:,,,/Art/hashtag.png" Height="{StaticResource HeaderImgSize}" ToolTip="ID"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding OrderDate, StringFormat=d}" Width="SizeToCells"
+                                    ElementStyle="{StaticResource TextCellStyle}" FontWeight="Bold">
+                    <DataGridTextColumn.Header>
+                        <Image Source="pack://application:,,,/Art/calendar.png" Height="{StaticResource HeaderImgSize}" ToolTip="Placed On"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding OrderStatusId, Converter={StaticResource IdToStatConv}}" 
+                                    Width="*"
+                                    ElementStyle="{StaticResource TextCellStyle}">
+                    <DataGridTextColumn.Header>
+                        <Image Source="pack://application:,,,/Art/status.png" 
+                               Height="{StaticResource HeaderImgSize}" ToolTip="Status"/>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTemplateColumn  Width="50" SortMemberPath="{Binding CustomerId}" CanUserSort="True">
+                    <DataGridTemplateColumn.Header>
+                        <Button Click="CustomerIdHeader_Click" Margin="0" Padding="0"  ToolTip="Customer">
+                            <Image Source="pack://application:,,,/Art/person.png"
+                               Height="{StaticResource HeaderImgSize}" Margin="0"/>
+                        </Button>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Button Click="Button_Click">
+                                    <Button.Content>
+                                        <TextBlock Text="{Binding CustomerId}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold"/>
+                                    </Button.Content>
+                                </Button>
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn  Width="*">
+                    <DataGridTemplateColumn.Header>
+                        <Grid>
+                            <Button Click="DetailsHeader_Click" Margin="0" Padding="0"
+                                    ToolTip="Details">
+                                <Image Source="pack://application:,,,/Art/info.png"
+                               Height="{StaticResource HeaderImgSize}" Margin="0"/>
+                            </Button>
+                        <Popup x:Name="DetailsPop" IsOpen="False" StaysOpen="False" ToolTip="Sort by Details" >
+                            <StackPanel Orientation="Vertical" Background="LightPink">
+                                <StackPanel.Resources>
+                                        <Style TargetType="Button">
+                                            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                                            <Setter Property="Background" Value="{x:Null}"/>
+                                            <Setter Property="BorderBrush" Value="{x:Null}"/>
+                                        </Style>
+                                        <Style x:Key="SortOptionsStyle" TargetType="Label">
+                                            <Setter Property="VerticalAlignment" Value="Center"/>
+                                            <Setter Property="Padding" Value="0"/>
+                                            <Setter Property="Margin" Value="0"/>
+                                            <Setter Property="FontSize" Value="20"/>
+                                            <Setter Property="FontFamily" Value="Georgia"/>
+                                        </Style>
+                                </StackPanel.Resources>
+                                    <Label Content="Sort by:" HorizontalAlignment="Center" FontSize="24" 
+                                           Margin="0" Padding="0" FontWeight="Bold"/>
+                                    <Button Click="SortByShipDate_Click">
+                                        <DockPanel Width="200">
+
+                                            <Image Source="pack://application:,,,/Art/deliveryTime.png"
+                                               Height="{StaticResource HeaderImgSize}"
+                                               HorizontalAlignment="Left"/>
+                                            <Label Content="Shipping Date"
+                                               Style="{StaticResource SortOptionsStyle}" HorizontalAlignment="Center"/>
+                                        </DockPanel>
+                                    </Button>
+                                    <Button Click="SortByPayMeth_Click">
+                                        <DockPanel Width="200">
+
+                                        <Image Source="pack://application:,,,/Art/payMethod.png"
+                                               Height="{StaticResource HeaderImgSize}"
+                                               HorizontalAlignment="Left"/>
+                                        <Label Content="Payment Method"
+                                               Style="{StaticResource SortOptionsStyle}" HorizontalAlignment="Center"/>
+                                    </DockPanel>
+                                </Button>
+                                    <Button Click="SortByShipMeth_Click">
+                                        <DockPanel Width="200">
+                                            <Image  Source="pack://application:,,,/Art/deliveryTruck.png"
+                                                Height="{StaticResource HeaderImgSize}"/>
+                                            <Label HorizontalAlignment="Center"  Content="Delivery Method"
+                                               Style="{StaticResource SortOptionsStyle}"/>
+                                        </DockPanel>
+                                    </Button>
+                                </StackPanel>
+                        </Popup>
+                        </Grid>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                                <Button Click="DetailsItem_Click">
+                                    <Button.Content>
+                                        <Grid>
+                                            <!--Button Stretcher: Assures a Button is Clickable even when it has no content-->
+                                            <hel:ButtonStretcher/>
+                                            <TextBlock
+                                            Text="{Binding ShippingDate, StringFormat=d}" HorizontalAlignment="Center"
+                                                VerticalAlignment="Center" 
+                                                   FontSize="18"  TextWrapping="Wrap" TextAlignment="Center" 
+                                                Style="{DynamicResource ShipDateDeetStyle}"/>
+
+                                            <TextBlock
+                                            Text="{Binding ShippingMethodId, Converter={StaticResource IdToShipMethConv}}"
+                                                HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                                   FontSize="18"  TextWrapping="Wrap" TextAlignment="Center"
+                                                Style="{DynamicResource ShipMethDeetStyle}"/>
+
+                                            <TextBlock
+                                            Text="{Binding PaymentMethodId, Converter={StaticResource IdToPayMethConv}}" 
+                                                HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                                   FontSize="18"  TextWrapping="Wrap" TextAlignment="Center"
+                                                Style="{DynamicResource PayMethDeetStyle}"/>
+
+                                        </Grid>
+                                    </Button.Content>
+                                </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn x:Name="ButtonsCollumn" Width="SizeToHeader">
+                    <DataGridTemplateColumn.Header>
+                        <Button Background="{x:Null}" Margin="0" Padding="0" Click="NewEntry_Click">
+                            <Image Source="pack://application:,,,/Art/newRecord.png" Height="{StaticResource HeaderImgSize}"/>
+                        </Button>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="EditEntry_Click">
+                                <Image Source="pack://application:,,,/Art/pencil.png" 
+                                       Height="{StaticResource HeaderImgSize}"/>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </StackPanel>
+
+</UserControl>

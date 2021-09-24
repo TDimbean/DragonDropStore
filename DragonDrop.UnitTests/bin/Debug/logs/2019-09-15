@@ -1,0 +1,285 @@
+2019-09-15 06:15:31.4574|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1240838911/1
+2019-09-15 06:15:31.4814|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1240838911 of Product ID:	1
+2019-09-15 06:15:31.4834|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1240838911/1
+2019-09-15 06:17:03.9643|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1854851175/1
+2019-09-15 06:17:03.9773|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1854851175 of Product ID:	1
+2019-09-15 06:17:03.9773|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1854851175/1
+2019-09-15 06:17:03.9773|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1854851175 of Product ID:	1
+2019-09-15 06:17:03.9773|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1854851175/1
+2019-09-15 06:17:03.9773|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:17:03.9773|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:19:42.9484|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/211138399
+2019-09-15 06:19:42.9624|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	211138399
+2019-09-15 06:19:42.9624|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/211138399
+2019-09-15 06:19:42.9624|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	211138399
+2019-09-15 06:19:42.9624|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/211138399
+2019-09-15 06:19:42.9624|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:19:42.9624|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:50.8230|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-15 06:34:50.8960|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1252981572 of Product ID:	1
+2019-09-15 06:34:50.8960|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1252981572/1
+2019-09-15 06:34:50.8960|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1252981572
+2019-09-15 06:34:50.8960|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1252981572
+2019-09-15 06:34:50.9050|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	2 for Product:	3
+2019-09-15 06:34:50.9050|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-15 06:34:50.9050|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	2 of Product ID:	3
+2019-09-15 06:34:50.9050|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:50.9050|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|4 records found.
+2019-09-15 06:34:51.0450|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.0450|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.0450|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	1
+2019-09-15 06:34:51.0450|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo failed to add item as Orderd ID:1 already contains an entry for Product ID:	1
+ If you wish to edit the quantity, please Update the OrderItem rather than re-adding it.
+2019-09-15 06:34:51.0450|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-15 06:34:51.0450|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.0450|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.0900|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.0900|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.0900|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	0 for Product:	1
+2019-09-15 06:34:51.0900|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo could not register OrderItem because either the Order or Product ID was non-existent or the requested quantity was 0.
+Order ID:	0 Product ID:	1
+2019-09-15 06:34:51.0900|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.0900|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.1350|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.1350|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.1350|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	0
+2019-09-15 06:34:51.1350|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo could not register OrderItem because either the Order or Product ID was non-existent or the requested quantity was 0.
+Order ID:	1 Product ID:	0
+2019-09-15 06:34:51.1350|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.1350|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.1350|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.1350|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.1350|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	1
+2019-09-15 06:34:51.1350|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo could not register OrderItem because either the Order or Product ID was non-existent or the requested quantity was 0.
+Order ID:	1 Product ID:	1
+2019-09-15 06:34:51.1350|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.1350|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.1840|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/1
+2019-09-15 06:34:51.1840|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-15 06:34:51.1840|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo succesfully updated OrderItem with Order/Product IDs:	1/1
+2019-09-15 06:34:51.1840|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.1840|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.1840|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-15 06:34:51.1840|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/1
+2019-09-15 06:34:51.1840|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-15 06:34:51.1840|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo failed to update OrderItem because requested quantity was 0.
+2019-09-15 06:34:51.1840|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1597262530/1
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1597262530 of Product ID:	1
+2019-09-15 06:34:51.1870|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1597262530/1
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1597262530 of Product ID:	1
+2019-09-15 06:34:51.1870|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1597262530/1
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/1597262530
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1597262530
+2019-09-15 06:34:51.1870|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1597262530
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1597262530
+2019-09-15 06:34:51.1870|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1597262530
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 3 of size 1 from all OrderItem records.
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 1 records.
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 1 of size 2 from all OrderItem records.
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 2 records.
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 2 of size 2 from all OrderItem records.
+2019-09-15 06:34:51.1870|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 1 records.
+2019-09-15 06:34:51.2010|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.2010|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.2010|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 1 of size 13 from all OrderItem records.
+2019-09-15 06:34:51.2010|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 3 records.
+2019-09-15 06:34:51.2010|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-15 06:34:51.2010|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-15 06:34:51.2010|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 13 of size 1 from all OrderItem records.
+2019-09-15 06:34:51.2010|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 0 records.
+2019-09-15 06:38:53.9232|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Order ID:	1
+2019-09-15 06:38:53.9392|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 1 OrderItems in Order ID:	1
+2019-09-15 06:41:28.3466|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	2
+2019-09-15 06:41:28.3606|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-15 06:41:28.3606|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Order ID:	1
+2019-09-15 06:41:28.3606|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 2 OrderItems in Order ID:	1
+2019-09-15 07:01:29.0644|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	3 for Product:	1
+2019-09-15 07:01:29.0644|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-15 07:01:29.0644|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Order ID:	1
+2019-09-15 07:01:29.0764|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 1 OrderItems in Order ID:	1
+2019-09-15 07:02:58.0140|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	2
+2019-09-15 07:02:58.0140|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-15 07:02:58.0140|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Product ID:	2
+2019-09-15 07:02:58.0140|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 1 OrderItems in Product ID:	2
+2019-09-15 07:03:20.4880|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	3
+2019-09-15 07:03:20.4990|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-15 07:03:20.4990|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Product ID:	3
+2019-09-15 07:03:20.4990|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 1 OrderItems in Product ID:	3
+2019-09-15 07:15:29.2574|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Product ID:	1379337503
+2019-09-15 07:15:29.2724|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 0 OrderItems in Product ID:	1379337503
+2019-09-15 07:15:36.2394|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Order ID:	911217387
+2019-09-15 07:15:36.2594|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 0 OrderItems in Order ID:	911217387
+2019-09-15 07:15:36.3204|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	3 for Product:	1
+2019-09-15 07:15:36.3204|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-15 07:15:36.3204|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Product ID:	1
+2019-09-15 07:15:36.3204|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 2 OrderItems in Product ID:	1
+2019-09-15 07:19:01.4907|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	2 for Product:	3
+2019-09-15 07:19:01.5207|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-15 07:19:01.5207|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo filtering and paging OrderItems, according to 
+ ORDER ID: 2
+ Page Index: 2; Page Size: 1
+2019-09-15 07:19:01.5207|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Order ID:	2
+2019-09-15 07:19:01.5207|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 2 OrderItems in Order ID:	2
+2019-09-15 07:19:01.5207|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 2 of size 1 from filtered OrderItem records.
+2019-09-15 07:19:01.5307|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 1 records.
+2019-09-15 07:19:41.1508|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	2
+2019-09-15 07:19:41.1728|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-15 07:19:41.1728|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo filtering and paging OrderItems, according to 
+ PRODUCT ID: 2
+ Page Index: 2; Page Size: 1
+2019-09-15 07:19:41.1728|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Order ID:	2
+2019-09-15 07:19:41.1728|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 1 OrderItems in Order ID:	2
+2019-09-15 07:19:41.1728|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 2 of size 1 from filtered OrderItem records.
+2019-09-15 07:19:41.1728|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 0 records.
+2019-09-15 07:20:34.8205|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	3
+2019-09-15 07:20:34.8495|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-15 07:20:34.8495|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo filtering and paging OrderItems, according to 
+ PRODUCT ID: 3
+ Page Index: 2; Page Size: 1
+2019-09-15 07:20:34.8495|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Order ID:	3
+2019-09-15 07:20:34.8495|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 1 OrderItems in Order ID:	3
+2019-09-15 07:20:34.8495|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 2 of size 1 from filtered OrderItem records.
+2019-09-15 07:20:34.8605|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 0 records.
+2019-09-15 07:21:33.5406|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	2 for Product:	3
+2019-09-15 07:21:33.5576|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-15 07:21:33.5576|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo filtering and paging OrderItems, according to 
+ PRODUCT ID: 3
+ Page Index: 2; Page Size: 1
+2019-09-15 07:21:33.5576|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItem for Product ID:	3
+2019-09-15 07:21:33.5576|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 2 OrderItems in Product ID:	3
+2019-09-15 07:21:33.5576|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 2 of size 1 from filtered OrderItem records.
+2019-09-15 07:21:33.5676|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 1 records.
+2019-09-15 07:25:15.3433|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-15 07:25:15.4284|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	303685937
+2019-09-15 07:25:15.4284|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	303685937
+2019-09-15 08:53:28.9968|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 08:53:29.0048|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 08:53:29.0048|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t9/6/2019 12:00:00 AM
+2019-09-15 08:53:29.0048|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/6/2019 12:00:00 AM.
+2019-09-15 08:53:29.0048|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 08:53:29.0048|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-15 08:53:33.2161|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 08:53:33.2251|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 08:53:33.2341|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because Customer was null. Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.Create(Order ord) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 28
+2019-09-15 08:53:33.2341|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/10/2019 12:00:00 AM.
+2019-09-15 08:53:33.2341|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 08:53:33.2341|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|4 records found.
+2019-09-15 08:57:45.9825|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 08:57:45.9825|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 08:57:46.0015|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because Customer was null. Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.Create(Order ord) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 28
+2019-09-15 08:57:46.0015|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo could not register Order because the data submitted was incomplete.
+2019-09-15 08:57:46.0015|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 08:57:46.0015|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 10:40:02.4399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 10:40:02.4399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 10:40:02.4399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-09-15 10:40:02.4399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-15 10:40:02.4399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-09-15 10:40:02.4509|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-15 10:40:02.4509|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 10:40:02.4509|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 12:04:40.3043|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 12:04:40.3372|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 12:04:40.3372|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1422646016
+2019-09-15 12:04:40.3372|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1422646016
+2019-09-15 12:04:40.3372|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	1422646016
+2019-09-15 12:07:04.0896|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 12:07:04.1176|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 12:07:04.1176|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1836905178
+2019-09-15 12:07:04.1176|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1836905178
+2019-09-15 12:07:04.1176|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	1836905178
+2019-09-15 12:07:04.1176|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo failed to update record. No Order with ID:	1836905178 was found.
+2019-09-15 12:07:04.1176|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-15 12:07:04.1176|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 12:07:04.1176|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 12:08:56.3939|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 12:08:56.4109|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 12:08:56.5579|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from all Order records.
+2019-09-15 12:08:56.5579|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-15 12:08:56.5579|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 2 from all Order records.
+2019-09-15 12:08:56.5579|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 2 records.
+2019-09-15 12:08:56.5629|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 2 from all Order records.
+2019-09-15 12:08:56.5629|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-15 12:08:56.5629|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 12:08:56.5629|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 12:08:56.5629|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 1 of size 13 from all Order records.
+2019-09-15 12:08:56.5629|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 3 records.
+2019-09-15 12:08:56.5629|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-15 12:08:56.5629|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-15 12:08:56.5629|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 13 of size 1 from all Order records.
+2019-09-15 12:08:56.5629|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 0 records.
+2019-09-15 12:11:35.3958|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	Shayna Chaman
+2019-09-15 12:13:03.8347|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	SHAYNA CHAMAN
+2019-09-15 12:15:01.3077|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	SHAYNA CHAMAN
+2019-09-15 12:15:01.3527|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: SHAYNA CHAMAN
+2019-09-15 12:16:30.4539|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	FEDEX
+2019-09-15 12:16:30.5039|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: FEDEX
+2019-09-15 12:18:31.2285|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	RECEIVED
+2019-09-15 12:18:31.2775|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: RECEIVED
+2019-09-15 12:18:40.3554|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	CREDIT CARD
+2019-09-15 12:18:40.3854|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: CREDIT CARD
+2019-09-15 12:50:46.8987|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	9/12/2019
+2019-09-15 12:50:46.9707|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: 9/12/2019
+2019-09-15 13:10:23.1731|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	4/16/2019
+2019-09-15 13:10:23.2131|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 0 Orders that match: 4/16/2019
+2019-09-15 13:11:26.2762|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t5/17/2019 12:00:00 AM
+2019-09-15 13:11:26.2912|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 5/17/2019 12:00:00 AM.
+2019-09-15 13:11:26.2912|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	5/17/2019
+2019-09-15 13:11:26.3022|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: 5/17/2019
+2019-09-15 13:14:09.2008|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t9/22/2019 12:00:00 AM
+2019-09-15 13:14:09.2308|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/22/2019 12:00:00 AM.
+2019-09-15 13:14:09.2328|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	9/24/2019
+2019-09-15 13:14:09.2548|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 1 Orders that match: 9/24/2019
+2019-09-15 13:15:19.8437|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	826FE9E6-E42F-4CE8-806A-1A9DE531DA8B
+2019-09-15 13:15:19.8797|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 0 Orders that match: 826FE9E6-E42F-4CE8-806A-1A9DE531DA8B
+2019-09-15 13:22:30.6533|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	1/6/2019 1/6/2019
+2019-09-15 13:22:30.7003|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 0 Orders that match: 1/6/2019 1/6/2019
+2019-09-15 13:23:09.6548|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Ced Brasher at:/t10/18/2019 12:00:00 AM
+2019-09-15 13:23:09.6738|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 10/18/2019 12:00:00 AM.
+2019-09-15 13:23:09.6738|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t10/18/2019 12:00:00 AM
+2019-09-15 13:23:09.6738|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 10/18/2019 12:00:00 AM.
+2019-09-15 13:23:09.6738|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	10/18/2019 10/18/2019
+2019-09-15 13:23:09.6878|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 0 Orders that match: 10/18/2019 10/18/2019
+2019-09-15 13:25:57.6330|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t4/21/2019 12:00:00 AM
+2019-09-15 13:26:15.7310|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 4/21/2019 12:00:00 AM.
+2019-09-15 13:26:21.6691|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t1/15/2019 12:00:00 AM
+2019-09-15 13:26:26.9081|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 1/15/2019 12:00:00 AM.
+2019-09-15 13:26:43.4587|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	4/21/2019 1/15/2019
+2019-09-15 13:33:49.7829|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t5/23/2019 12:00:00 AM
+2019-09-15 13:33:49.8059|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 5/23/2019 12:00:00 AM.
+2019-09-15 13:33:49.8059|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t5/23/2019 12:00:00 AM
+2019-09-15 13:33:49.8059|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 5/23/2019 12:00:00 AM.
+2019-09-15 13:33:49.8059|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	5/23/2019 5/23/2019
+2019-09-15 13:34:28.1981|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t10/25/2019 12:00:00 AM
+2019-09-15 13:34:28.2201|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 10/25/2019 12:00:00 AM.
+2019-09-15 13:34:28.2201|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t10/25/2019 12:00:00 AM
+2019-09-15 13:34:28.2201|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 10/25/2019 12:00:00 AM.
+2019-09-15 13:34:28.2201|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	10/25/2019 10/25/2019
+2019-09-15 13:34:28.2391|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: 10/25/2019 10/25/2019
+2019-09-15 13:36:50.6078|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	2
+2019-09-15 13:36:50.6488|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo filtering and paging Orders, according to 
+ SEARCH: 9/12/2019
+ Page Index: 2; Page Size: 1
+2019-09-15 13:36:50.6488|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo searching Order records by:	9/12/2019
+2019-09-15 13:36:50.6738|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found 2 Orders that match: 9/12/2019
+2019-09-15 13:36:50.6738|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 2 of size 1 from filtered Order records.
+2019-09-15 13:36:50.6738|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-09-15 14:10:25.7472|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t9/7/2019 12:00:00 AM
+2019-09-15 14:10:25.7782|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/7/2019 12:00:00 AM.
+2019-09-15 14:10:25.7802|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieving all orders placed by Customer:	1	NAME: Shayna Chaman
+2019-09-15 14:10:25.7802|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found: 2 orders placed by Customer with ID: 1
+2019-09-15 14:11:46.3300|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Customer with ID:	232953664 and hence no orders by said Customer.
+ Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.GetAllByCustomerId(Int32 id) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 133
+2019-09-15 14:13:24.9736|ERROR|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Customer with ID:	1725370868 and hence no orders by said Customer.
+ Details: Object reference not set to an instance of an object.
+ Stack Trace:	   at DragonDrop.UnitTests.MockRepoes.TestOrderRepo.GetAllByCustomerId(Int32 id) in C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.UnitTests\MockRepoes\TestOrderRepo.cs:line 133

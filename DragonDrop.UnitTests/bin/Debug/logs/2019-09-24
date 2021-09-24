@@ -1,0 +1,1082 @@
+2019-09-24 08:31:34.1131|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 08:31:34.1301|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 08:31:34.2371|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	2125300223 and Product ID:	24202505 from Repo.
+2019-09-24 08:31:34.2371|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	2125300223 of Product ID:	24202505
+2019-09-24 08:31:34.2371|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	2125300223/24202505
+2019-09-24 08:31:34.2371|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	2125300223/24202505
+2019-09-24 08:31:34.2491|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1
+2019-09-24 08:31:34.2491|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/1
+2019-09-24 08:31:34.2491|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting record creation for OrderItem with Order ID:	3 and Product ID:	1
+2019-09-24 08:31:34.2491|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	3 for Product:	1
+2019-09-24 08:31:34.2491|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-24 08:31:34.2491|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Repo returned to Data Service.
+2019-09-24 08:31:34.2491|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	1 from Repo.
+2019-09-24 08:31:34.2491|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1
+2019-09-24 08:31:34.2491|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1
+2019-09-24 08:31:34.2491|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/1
+2019-09-24 08:31:34.2491|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 08:31:34.2491|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	1 from Repo.
+2019-09-24 08:31:34.2491|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1
+2019-09-24 08:31:34.2491|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/1
+2019-09-24 08:31:34.2491|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	3/1
+2019-09-24 08:31:34.3271|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 08:31:34.3271|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 08:31:34.3271|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 08:31:34.3271|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	2 from Repo.
+2019-09-24 08:31:34.3271|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 08:31:34.3271|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 08:31:34.3271|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 08:51:24.0007|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 08:51:24.0207|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 08:51:24.1477|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	11973451 and Product ID:	1255960723 from Repo.
+2019-09-24 08:51:24.1477|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	11973451 of Product ID:	1255960723
+2019-09-24 08:51:24.1477|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	11973451/1255960723
+2019-09-24 08:51:24.1477|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	11973451/1255960723
+2019-09-24 08:51:24.1717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1
+2019-09-24 08:51:24.1717|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/1
+2019-09-24 08:51:24.1717|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting record creation for OrderItem with Order ID:	3 and Product ID:	1
+2019-09-24 08:51:24.1717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	3 for Product:	1
+2019-09-24 08:51:24.1717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-24 08:51:24.1717|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Repo returned to Data Service.
+2019-09-24 08:51:24.1717|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	1 from Repo.
+2019-09-24 08:51:24.1717|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1
+2019-09-24 08:51:24.1957|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 08:51:24.1957|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 08:51:24.1957|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 08:51:24.1957|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	2 from Repo.
+2019-09-24 08:51:24.1957|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 08:51:24.1957|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 08:51:24.1957|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 08:51:24.3167|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	2
+2019-09-24 08:51:24.3167|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/2
+2019-09-24 08:51:24.3167|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 08:51:24.3167|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	2 from Repo.
+2019-09-24 08:51:24.3167|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	2
+2019-09-24 08:51:24.3167|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/2
+2019-09-24 08:51:24.3167|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1/2
+2019-09-24 08:51:24.3167|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	839599334 of Product ID:	3
+2019-09-24 08:51:24.3167|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	839599334/3
+2019-09-24 08:51:24.3167|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Order Id.
+
+2019-09-24 08:51:24.3167|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	839599334 and Product ID:	3 from Repo.
+2019-09-24 08:51:24.3167|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	839599334 of Product ID:	3
+2019-09-24 08:51:24.3167|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	839599334/3
+2019-09-24 08:51:24.3167|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	839599334/3
+2019-09-24 08:51:24.3167|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1941607700
+2019-09-24 08:51:24.3167|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1941607700
+2019-09-24 08:51:24.3167|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Product Id.
+
+2019-09-24 08:51:24.3167|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1941607700 from Repo.
+2019-09-24 08:51:24.3167|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1941607700
+2019-09-24 08:51:24.3167|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1941607700
+2019-09-24 08:51:24.3167|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1/1941607700
+2019-09-24 08:51:24.3227|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 08:51:24.3227|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem already exists. If you wish to change the Quantity, please use the Update.
+
+2019-09-24 08:51:24.3227|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 08:51:24.3227|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 08:51:24.9087|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1712308085 of Product ID:	1649732438
+2019-09-24 08:51:24.9087|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1712308085/1649732438
+2019-09-24 08:51:24.9087|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Order Id.
+OrderItem needs to target a valid Product Id.
+
+2019-09-24 08:51:24.9087|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1712308085 and Product ID:	1649732438 from Repo.
+2019-09-24 08:51:24.9087|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1712308085 of Product ID:	1649732438
+2019-09-24 08:51:24.9087|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1712308085/1649732438
+2019-09-24 08:51:24.9087|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1712308085/1649732438
+2019-09-24 08:52:09.2666|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 08:52:09.2846|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem already exists. If you wish to change the Quantity, please use the Update.
+
+2019-09-24 08:52:09.2846|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 08:52:09.2846|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 08:55:04.3335|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 08:55:04.3525|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem already exists. If you wish to change the Quantity, please use the Update.
+
+2019-09-24 08:55:04.3535|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 08:55:04.3535|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 08:58:16.2527|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 08:58:16.2737|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 08:58:16.2737|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem already exists. If you wish to change the Quantity, please use the Update.
+
+2019-09-24 08:58:16.2737|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 08:58:16.2737|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:02:09.7404|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:02:09.7624|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting update for record with Order/Product IDs:	1/1 from Repo.
+2019-09-24 09:02:09.7624|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/1
+2019-09-24 09:02:09.7624|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:02:09.7624|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo succesfully updated OrderItem with Order/Product IDs:	1/1
+2019-09-24 09:02:09.7624|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|Repo finished update and returned to OrderItem Data Service.
+2019-09-24 09:02:09.7624|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 09:02:09.7624|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:02:10.1144|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1606898901 of Product ID:	1729810467
+2019-09-24 09:02:10.1144|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1606898901/1729810467
+2019-09-24 09:02:10.1144|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Order Id.
+OrderItem needs to target a valid Product Id.
+
+2019-09-24 09:02:10.1144|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1606898901 and Product ID:	1729810467 from Repo.
+2019-09-24 09:02:10.1144|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1606898901 of Product ID:	1729810467
+2019-09-24 09:02:10.1144|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1606898901/1729810467
+2019-09-24 09:02:10.1144|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1606898901/1729810467
+2019-09-24 09:02:10.1214|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	374052435 of Product ID:	1
+2019-09-24 09:02:10.1214|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	374052435/1
+2019-09-24 09:02:10.1214|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Order Id.
+
+2019-09-24 09:02:10.1214|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	374052435 and Product ID:	1 from Repo.
+2019-09-24 09:02:10.1214|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	374052435 of Product ID:	1
+2019-09-24 09:02:10.1214|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	374052435/1
+2019-09-24 09:02:10.1214|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	374052435/1
+2019-09-24 09:02:10.1214|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:02:10.1214|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem already exists. If you wish to change the Quantity, please use the Update.
+2019-09-24 09:02:10.1214|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 09:02:10.1214|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:02:10.1214|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	2 of Product ID:	3
+2019-09-24 09:02:10.1214|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	2/3
+2019-09-24 09:02:10.1214|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting record creation for OrderItem with Order ID:	2 and Product ID:	3
+2019-09-24 09:02:10.1214|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	2 for Product:	3
+2019-09-24 09:02:10.1214|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-24 09:02:10.1214|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Repo returned to Data Service.
+2019-09-24 09:02:10.1214|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	2 and Product ID:	3 from Repo.
+2019-09-24 09:02:10.1214|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	2 of Product ID:	3
+2019-09-24 09:02:10.1214|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 09:02:10.1214|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 09:02:10.1214|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 09:02:10.1214|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	2 from Repo.
+2019-09-24 09:02:10.1214|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 09:02:10.1214|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 09:02:10.1214|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 09:02:10.2084|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	2 of Product ID:	3
+2019-09-24 09:02:10.2084|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	2/3
+2019-09-24 09:02:10.2084|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 09:02:10.2084|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	2 and Product ID:	3 from Repo.
+2019-09-24 09:02:10.2084|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	2 of Product ID:	3
+2019-09-24 09:02:10.2084|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	2/3
+2019-09-24 09:02:10.2084|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	2/3
+2019-09-24 09:02:10.2084|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	881677938
+2019-09-24 09:02:10.2084|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/881677938
+2019-09-24 09:02:10.2084|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Product Id.
+
+2019-09-24 09:02:10.2084|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	881677938 from Repo.
+2019-09-24 09:02:10.2084|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	881677938
+2019-09-24 09:02:10.2084|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/881677938
+2019-09-24 09:02:10.2084|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1/881677938
+2019-09-24 09:02:10.2254|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 09:02:10.2254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:02:10.2254|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	966546485 and Product ID:	116614912 from Repo.
+2019-09-24 09:02:10.2254|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	966546485 of Product ID:	116614912
+2019-09-24 09:02:10.2254|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	966546485/116614912
+2019-09-24 09:02:10.2254|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	966546485/116614912
+2019-09-24 09:07:41.3671|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:07:41.3841|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:07:41.3841|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:07:41.3841|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:07:41.3861|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1468205123
+2019-09-24 09:07:41.3861|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1468205123
+2019-09-24 09:07:41.3861|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Product Id.
+
+Order Item with Order/Product IDs: 1/1468205123 was not found.
+2019-09-24 09:07:41.3861|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:07:41.3861|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:07:41.3861|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:07:41.3861|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:07:41.8321|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:07:41.8321|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:07:41.8321|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:07:41.8321|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:07:41.8321|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	133848402 of Product ID:	1
+2019-09-24 09:07:41.8321|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	133848402/1
+2019-09-24 09:07:41.8321|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+
+Order Item with Order/Product IDs: 133848402/1 was not found.
+2019-09-24 09:07:41.8321|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:07:41.8321|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:07:41.8321|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:07:41.8321|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:09:37.4011|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:09:37.4301|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:09:37.4301|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:09:37.4301|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:09:37.4351|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1001033311
+2019-09-24 09:09:37.4351|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1001033311
+2019-09-24 09:09:37.4351|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Product Id.
+
+Order Item with Order/Product IDs: 1/1001033311 was not found.
+2019-09-24 09:09:37.4351|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:09:37.4351|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:09:37.4351|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:09:37.4351|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:09:37.9511|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:09:37.9511|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:09:37.9511|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:09:37.9511|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:09:37.9511|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	404394884 of Product ID:	1
+2019-09-24 09:09:37.9511|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	404394884/1
+2019-09-24 09:09:37.9511|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+
+Order Item with Order/Product IDs: 404394884/1 was not found.
+2019-09-24 09:09:37.9511|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:09:37.9511|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:09:37.9511|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:09:37.9511|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:09:57.7921|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:09:57.8111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:09:57.8111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:09:57.8111|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:09:57.8111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1474750731
+2019-09-24 09:09:57.8111|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1474750731
+2019-09-24 09:09:57.8111|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Product Id.
+
+Order Item with Order/Product IDs: 1/1474750731 was not found.
+2019-09-24 09:09:57.8111|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:09:57.8111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:09:57.8111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:09:57.8111|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:09:58.0211|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:09:58.0211|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:09:58.0211|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:09:58.0211|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:09:58.0211|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	459992781 of Product ID:	1
+2019-09-24 09:09:58.0211|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	459992781/1
+2019-09-24 09:09:58.0211|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+
+Order Item with Order/Product IDs: 459992781/1 was not found.
+2019-09-24 09:09:58.0211|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:09:58.0211|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:09:58.0211|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:09:58.0211|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:12:26.3479|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:12:26.3799|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting update for record with Order/Product IDs:	1/1 from Repo.
+2019-09-24 09:12:26.3799|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/1
+2019-09-24 09:12:26.3799|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:12:26.3799|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo succesfully updated OrderItem with Order/Product IDs:	1/1
+2019-09-24 09:12:26.3799|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|Repo finished update and returned to OrderItem Data Service.
+2019-09-24 09:12:26.3799|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 09:12:26.3799|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:12:26.7399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1223752001 of Product ID:	515871169
+2019-09-24 09:12:26.7399|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1223752001/515871169
+2019-09-24 09:12:26.7399|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Order Id.
+OrderItem needs to target a valid Product Id.
+
+2019-09-24 09:12:26.7399|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1223752001 and Product ID:	515871169 from Repo.
+2019-09-24 09:12:26.7399|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1223752001 of Product ID:	515871169
+2019-09-24 09:12:26.7399|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1223752001/515871169
+2019-09-24 09:12:26.7399|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1223752001/515871169
+2019-09-24 09:12:26.7459|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1742708815 of Product ID:	3
+2019-09-24 09:12:26.7459|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1742708815/3
+2019-09-24 09:12:26.7459|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Order Id.
+
+2019-09-24 09:12:26.7459|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1742708815 and Product ID:	3 from Repo.
+2019-09-24 09:12:26.7459|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1742708815 of Product ID:	3
+2019-09-24 09:12:26.7459|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1742708815/3
+2019-09-24 09:12:26.7459|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1742708815/3
+2019-09-24 09:12:26.7459|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:12:26.7459|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:12:26.7459|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:12:26.7459|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:12:26.7459|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	2 of Product ID:	1
+2019-09-24 09:12:26.7459|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	2/1
+2019-09-24 09:12:26.7459|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: 
+Order Item with Order/Product IDs: 2/1 was not found.
+2019-09-24 09:12:26.7459|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 09:12:26.7459|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 09:12:26.7459|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 09:12:26.7459|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 09:12:26.7899|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:12:26.7909|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem already exists. If you wish to change the Quantity, please use the Update.
+2019-09-24 09:12:26.7909|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 09:12:26.7909|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:12:26.7909|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-24 09:12:26.7909|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 09:12:26.7909|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting record creation for OrderItem with Order ID:	1 and Product ID:	3
+2019-09-24 09:12:26.7909|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	1 for Product:	3
+2019-09-24 09:12:26.7909|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-24 09:12:26.7909|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Repo returned to Data Service.
+2019-09-24 09:12:26.7909|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	3 from Repo.
+2019-09-24 09:12:26.7909|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-24 09:12:26.7909|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 09:12:26.7909|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 09:12:26.7909|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 09:12:26.7909|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	2 from Repo.
+2019-09-24 09:12:26.7909|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 09:12:26.7909|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 09:12:26.7909|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 09:12:26.8409|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-24 09:12:26.8409|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 09:12:26.8409|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 09:12:26.8409|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	3 from Repo.
+2019-09-24 09:12:26.8409|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-24 09:12:26.8409|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 09:12:26.8409|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 09:12:26.8409|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	2 of Product ID:	778384221
+2019-09-24 09:12:26.8409|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	2/778384221
+2019-09-24 09:12:26.8409|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Product Id.
+
+2019-09-24 09:12:26.8409|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	2 and Product ID:	778384221 from Repo.
+2019-09-24 09:12:26.8409|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	2 of Product ID:	778384221
+2019-09-24 09:12:26.8409|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	2/778384221
+2019-09-24 09:12:26.8409|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	2/778384221
+2019-09-24 09:12:26.8409|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 09:12:26.8409|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 09:12:26.8409|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	2027163758 and Product ID:	1350118709 from Repo.
+2019-09-24 09:12:26.8409|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	2027163758 of Product ID:	1350118709
+2019-09-24 09:12:26.8409|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	2027163758/1350118709
+2019-09-24 09:12:26.8409|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	2027163758/1350118709
+2019-09-24 11:16:54.2875|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:16:54.3175|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:54.4525|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	460264773 and Product ID:	6652986 from Repo.
+2019-09-24 11:16:54.4525|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	460264773 of Product ID:	6652986
+2019-09-24 11:16:54.4525|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	460264773/6652986
+2019-09-24 11:16:54.4525|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	460264773/6652986
+2019-09-24 11:16:54.4615|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1
+2019-09-24 11:16:54.4615|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/1
+2019-09-24 11:16:54.4615|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting record creation for OrderItem with Order ID:	3 and Product ID:	1
+2019-09-24 11:16:54.4615|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	3 for Product:	1
+2019-09-24 11:16:54.4615|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-24 11:16:54.4615|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Repo returned to Data Service.
+2019-09-24 11:16:54.4615|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	1 from Repo.
+2019-09-24 11:16:54.4615|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1
+2019-09-24 11:16:54.4615|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1
+2019-09-24 11:16:54.4615|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/1
+2019-09-24 11:16:54.4615|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 11:16:54.4615|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	1 from Repo.
+2019-09-24 11:16:54.4615|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1
+2019-09-24 11:16:54.4615|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/1
+2019-09-24 11:16:54.4615|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	3/1
+2019-09-24 11:16:54.5535|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-24 11:16:54.5535|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 11:16:54.5535|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 11:16:54.5535|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	3 from Repo.
+2019-09-24 11:16:54.5535|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-24 11:16:54.5535|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 11:16:54.5535|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 11:16:54.5565|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1875689149 of Product ID:	2
+2019-09-24 11:16:54.5565|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1875689149/2
+2019-09-24 11:16:54.5565|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Order Id.
+
+2019-09-24 11:16:54.5565|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1875689149 and Product ID:	2 from Repo.
+2019-09-24 11:16:54.5565|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1875689149 of Product ID:	2
+2019-09-24 11:16:54.5565|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1875689149/2
+2019-09-24 11:16:54.5565|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1875689149/2
+2019-09-24 11:16:54.5565|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1115233999
+2019-09-24 11:16:54.5565|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1115233999
+2019-09-24 11:16:54.5565|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Product Id.
+
+2019-09-24 11:16:54.5565|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1115233999 from Repo.
+2019-09-24 11:16:54.5565|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1115233999
+2019-09-24 11:16:54.5565|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1115233999
+2019-09-24 11:16:54.5565|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1/1115233999
+2019-09-24 11:16:54.5565|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:54.5565|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem already exists. If you wish to change the Quantity, please use the Update.
+2019-09-24 11:16:54.5565|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:16:54.5565|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:54.8475|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	438410519 of Product ID:	776830395
+2019-09-24 11:16:54.8475|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	438410519/776830395
+2019-09-24 11:16:54.8475|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Order Id.
+OrderItem needs to target a valid Product Id.
+
+2019-09-24 11:16:54.8475|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	438410519 and Product ID:	776830395 from Repo.
+2019-09-24 11:16:54.8475|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	438410519 of Product ID:	776830395
+2019-09-24 11:16:54.8475|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	438410519/776830395
+2019-09-24 11:16:54.8475|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	438410519/776830395
+2019-09-24 11:16:54.8505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:54.8505|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting update for record with Order/Product IDs:	1/1 from Repo.
+2019-09-24 11:16:54.8505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/1
+2019-09-24 11:16:54.8505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:54.8505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo succesfully updated OrderItem with Order/Product IDs:	1/1
+2019-09-24 11:16:54.8505|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|Repo finished update and returned to OrderItem Data Service.
+2019-09-24 11:16:54.8505|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:16:54.8505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:54.8505|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 11:16:54.8505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 11:16:54.8505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 11:16:54.8505|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 11:16:54.8505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-24 11:16:54.8505|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 11:16:54.8505|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: 
+Order Item with Order/Product IDs: 1/3 was not found.
+2019-09-24 11:16:54.8505|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 11:16:54.8505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 11:16:54.8505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 11:16:54.8505|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 11:16:54.9505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:54.9505|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem must have a quantity greater than 0.
+
+2019-09-24 11:16:54.9505|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:16:54.9505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:54.9505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:54.9505|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem must have a quantity greater than 0.
+
+2019-09-24 11:16:54.9505|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:16:54.9505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:54.9505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1250461586 of Product ID:	1
+2019-09-24 11:16:54.9505|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1250461586/1
+2019-09-24 11:16:54.9505|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+
+Order Item with Order/Product IDs: 1250461586/1 was not found.
+2019-09-24 11:16:54.9505|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:16:54.9505|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:55.1735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	141269541
+2019-09-24 11:16:55.1735|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/141269541
+2019-09-24 11:16:55.1735|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Product Id.
+
+Order Item with Order/Product IDs: 1/141269541 was not found.
+2019-09-24 11:16:55.1735|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:16:55.1735|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:16:55.1795|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	606334815 of Product ID:	727018918
+2019-09-24 11:16:55.1795|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	606334815/727018918
+2019-09-24 11:16:55.1795|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+OrderItem needs to target a valid Product Id.
+
+Order Item with Order/Product IDs: 606334815/727018918 was not found.
+2019-09-24 11:20:01.9321|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	843054407 of Product ID:	1
+2019-09-24 11:20:01.9591|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	843054407/1
+2019-09-24 11:20:01.9651|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+
+Order Item with Order/Product IDs: 843054407/1 was not found.
+2019-09-24 11:20:01.9651|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:20:01.9651|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:20:02.5551|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	92944831
+2019-09-24 11:20:02.5551|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/92944831
+2019-09-24 11:20:02.5551|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Product Id.
+
+Order Item with Order/Product IDs: 1/92944831 was not found.
+2019-09-24 11:20:02.5551|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:20:02.5551|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:21:03.7398|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1104953365 of Product ID:	1
+2019-09-24 11:21:03.7658|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1104953365/1
+2019-09-24 11:21:03.7658|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+
+Order Item with Order/Product IDs: 1104953365/1 was not found.
+2019-09-24 11:21:03.7658|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:21:03.7658|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:21:04.2298|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	725022428
+2019-09-24 11:21:04.2298|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/725022428
+2019-09-24 11:21:04.2298|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Product Id.
+
+Order Item with Order/Product IDs: 1/725022428 was not found.
+2019-09-24 11:21:04.2298|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:21:04.2298|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:24:24.9577|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	476459575 of Product ID:	1760563615
+2019-09-24 11:24:24.9817|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	476459575/1760563615
+2019-09-24 11:24:24.9817|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+OrderItem needs to target a valid Product Id.
+
+Order Item with Order/Product IDs: 476459575/1760563615 was not found.
+2019-09-24 11:24:52.4211|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:24:52.4211|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:27.1802|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1675053529 of Product ID:	513950826
+2019-09-24 11:25:27.2032|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1675053529/513950826
+2019-09-24 11:25:27.2032|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+OrderItem needs to target a valid Product Id.
+
+Order Item with Order/Product IDs: 1675053529/513950826 was not found.
+2019-09-24 11:25:27.2032|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:25:27.2032|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:37.4251|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:37.4501|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting update for record with Order/Product IDs:	1/1 from Repo.
+2019-09-24 11:25:37.4501|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo updating record for OrderItem with Order/Product IDs:	1/1
+2019-09-24 11:25:37.4501|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:37.4501|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo succesfully updated OrderItem with Order/Product IDs:	1/1
+2019-09-24 11:25:37.4501|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|Repo finished update and returned to OrderItem Data Service.
+2019-09-24 11:25:37.4501|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:25:37.4501|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:37.8441|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	465790098 of Product ID:	1371245
+2019-09-24 11:25:37.8441|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	465790098/1371245
+2019-09-24 11:25:37.8441|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Order Id.
+OrderItem needs to target a valid Product Id.
+
+2019-09-24 11:25:37.8441|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	465790098 and Product ID:	1371245 from Repo.
+2019-09-24 11:25:37.8441|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	465790098 of Product ID:	1371245
+2019-09-24 11:25:37.8441|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	465790098/1371245
+2019-09-24 11:25:37.8441|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	465790098/1371245
+2019-09-24 11:25:37.8571|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1722696035 of Product ID:	3
+2019-09-24 11:25:37.8571|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1722696035/3
+2019-09-24 11:25:37.8571|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Order Id.
+
+2019-09-24 11:25:37.8571|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1722696035 and Product ID:	3 from Repo.
+2019-09-24 11:25:37.8571|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1722696035 of Product ID:	3
+2019-09-24 11:25:37.8571|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1722696035/3
+2019-09-24 11:25:37.8571|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1722696035/3
+2019-09-24 11:25:37.8571|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:37.8571|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem already exists. If you wish to change the Quantity, please use the Update.
+2019-09-24 11:25:37.8571|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:25:37.8571|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:37.8571|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 11:25:37.8571|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 11:25:37.8571|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting record creation for OrderItem with Order ID:	3 and Product ID:	2
+2019-09-24 11:25:37.8671|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo creating record for OrderItem for Order:	3 for Product:	2
+2019-09-24 11:25:37.8671|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|OrderItem succesfully registered.
+2019-09-24 11:25:37.8671|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Repo returned to Data Service.
+2019-09-24 11:25:37.8671|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	2 from Repo.
+2019-09-24 11:25:37.8671|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 11:25:37.8671|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-24 11:25:37.8671|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 11:25:37.8671|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 11:25:37.8671|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	3 from Repo.
+2019-09-24 11:25:37.8671|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-24 11:25:37.8671|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 11:25:37.8671|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 11:25:37.9911|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 11:25:37.9911|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 11:25:37.9911|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem must have a quantity greater than 0.
+
+2019-09-24 11:25:37.9911|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	2 from Repo.
+2019-09-24 11:25:37.9911|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	2
+2019-09-24 11:25:37.9911|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 11:25:37.9911|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	3/2
+2019-09-24 11:25:37.9911|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	962745248 of Product ID:	1269964987
+2019-09-24 11:25:37.9911|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	962745248/1269964987
+2019-09-24 11:25:37.9911|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+OrderItem needs to target a valid Product Id.
+
+Order Item with Order/Product IDs: 962745248/1269964987 was not found.
+2019-09-24 11:25:37.9911|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:25:37.9911|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:38.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1567354969
+2019-09-24 11:25:38.0111|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/1567354969
+2019-09-24 11:25:38.0111|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be submitted to the Repo. Details:
+OrderItem needs to target a valid Product Id.
+
+2019-09-24 11:25:38.0111|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	3 and Product ID:	1567354969 from Repo.
+2019-09-24 11:25:38.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	3 of Product ID:	1567354969
+2019-09-24 11:25:38.0111|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	3/1567354969
+2019-09-24 11:25:38.0111|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	3/1567354969
+2019-09-24 11:25:38.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	382210044 of Product ID:	1
+2019-09-24 11:25:38.0111|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	382210044/1
+2019-09-24 11:25:38.0111|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Order Id.
+
+Order Item with Order/Product IDs: 382210044/1 was not found.
+2019-09-24 11:25:38.0111|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:25:38.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:38.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:38.0111|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem must have a quantity greater than 0.
+
+2019-09-24 11:25:38.0111|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:25:38.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:38.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:38.0111|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem must have a quantity greater than 0.
+
+2019-09-24 11:25:38.0111|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:25:38.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:38.0111|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:25:38.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 11:25:38.0111|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	689340466 and Product ID:	31681906 from Repo.
+2019-09-24 11:25:38.0111|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	689340466 of Product ID:	31681906
+2019-09-24 11:25:38.0111|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	689340466/31681906
+2019-09-24 11:25:38.0111|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service found no OrderItem with Order/Product IDs:	689340466/31681906
+2019-09-24 11:25:38.0291|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 11:25:38.0291|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 11:25:38.0291|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 11:25:38.0291|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 11:25:38.0291|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	3
+2019-09-24 11:25:38.0291|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/3
+2019-09-24 11:25:38.0291|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: 
+Order Item with Order/Product IDs: 1/3 was not found.
+2019-09-24 11:25:38.0291|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting fetching all from Repo.
+2019-09-24 11:25:38.0291|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems...
+2019-09-24 11:25:38.0291|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-09-24 11:25:38.0291|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service got 3 records from Repo.
+2019-09-24 11:25:38.1051|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1883528648
+2019-09-24 11:25:38.1051|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found no OrderItem with Order/Product IDs:	1/1883528648
+2019-09-24 11:25:38.1051|WARN|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem failed Data Service validation and will not be sent to the Repo. Reason: OrderItem needs to target a valid Product Id.
+
+Order Item with Order/Product IDs: 1/1883528648 was not found.
+2019-09-24 11:25:38.1051|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|OrderItem Data Service requesting OrderItem with Order ID:	1 and Product ID:	1 from Repo.
+2019-09-24 11:25:38.1051|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching OrderItem for Order ID:	1 of Product ID:	1
+2019-09-24 13:11:04.1194|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 1 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:11:05.4544|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	89844781 from Repo.
+2019-09-24 13:11:05.4544|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	89844781
+2019-09-24 13:11:05.4544|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Payment with ID:	89844781
+2019-09-24 13:11:05.4544|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service found no Payment with ID:	89844781
+2019-09-24 13:11:05.4544|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:11:05.4784|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting record creation for Payment:	0
+2019-09-24 13:11:05.4784|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-09-24 13:11:05.4784|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-09-24 13:11:05.4784|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:11:05.4784|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:11:05.5104|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Payments require a valid CustomerId.
+
+2019-09-24 13:11:05.5104|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	0 from Repo.
+2019-09-24 13:11:05.5104|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	0
+2019-09-24 13:11:05.5104|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Payment with ID:	0
+2019-09-24 13:11:05.5104|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service found no Payment with ID:	0
+2019-09-24 13:11:05.5104|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:11:05.5264|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Payment Method not found; Please submit a valid Payment Method ID.
+
+2019-09-24 13:11:05.5264|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	0 from Repo.
+2019-09-24 13:11:05.5264|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	0
+2019-09-24 13:11:05.5264|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Payment with ID:	0
+2019-09-24 13:11:05.5264|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service found no Payment with ID:	0
+2019-09-24 13:11:05.5264|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:11:05.5264|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+A payment's Date cannot be blank.
+
+2019-09-24 13:11:05.5264|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	0 from Repo.
+2019-09-24 13:11:05.5264|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	0
+2019-09-24 13:11:05.5264|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Payment with ID:	0
+2019-09-24 13:11:05.5264|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service found no Payment with ID:	0
+2019-09-24 13:11:05.5264|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:11:05.5264|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+A payment cannot occur at a later date; Please review the submitted Payment Date.
+
+2019-09-24 13:11:05.5264|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	0 from Repo.
+2019-09-24 13:11:05.5264|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	0
+2019-09-24 13:11:05.5264|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Payment with ID:	0
+2019-09-24 13:11:05.5264|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service found no Payment with ID:	0
+2019-09-24 13:11:05.5264|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:11:05.5264|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:11:05.5264|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	0 from Repo.
+2019-09-24 13:11:05.5264|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	0
+2019-09-24 13:11:05.5264|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Payment with ID:	0
+2019-09-24 13:11:05.5264|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service found no Payment with ID:	0
+2019-09-24 13:11:05.5264|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:11:05.5404|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:11:05.5404|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	0 from Repo.
+2019-09-24 13:11:05.5404|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	0
+2019-09-24 13:11:05.5404|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Payment with ID:	0
+2019-09-24 13:11:05.5404|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service found no Payment with ID:	0
+2019-09-24 13:11:05.5404|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:11:05.5404|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:11:05.5404|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	0 from Repo.
+2019-09-24 13:11:05.5404|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	0
+2019-09-24 13:11:05.5404|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Payment with ID:	0
+2019-09-24 13:11:05.5404|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service found no Payment with ID:	0
+2019-09-24 13:11:05.5404|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:11:05.5624|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+A payment cannot occur at a later date; Please review the submitted Payment Date.
+Ammount must be greater than 0.
+
+2019-09-24 13:11:05.5624|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	0 from Repo.
+2019-09-24 13:11:05.5624|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	0
+2019-09-24 13:11:05.5624|WARN|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo found no Payment with ID:	0
+2019-09-24 13:11:05.5624|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service found no Payment with ID:	0
+2019-09-24 13:11:05.5624|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:16:36.7342|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting record creation for Payment:	0
+2019-09-24 13:16:36.7652|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-09-24 13:16:36.7652|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-09-24 13:16:36.7652|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:17:10.5662|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting record creation for Payment:	0
+2019-09-24 13:17:10.6102|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-09-24 13:17:10.6102|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-09-24 13:17:10.6102|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:18:41.3396|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting record creation for Payment:	0
+2019-09-24 13:18:41.3926|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-09-24 13:18:41.3926|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-09-24 13:18:41.3926|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:18:41.3926|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	0 from Repo.
+2019-09-24 13:18:41.3926|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	0
+2019-09-24 13:18:41.4037|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:18:52.6487|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:18:52.7057|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:18:52.7057|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:53:48.8365|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:53:48.8635|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:53:48.8665|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:53:49.0455|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 950778225 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.0595|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting record creation for Payment:	0
+2019-09-24 13:53:49.0595|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-09-24 13:53:49.0595|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-09-24 13:53:49.0595|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:53:49.0595|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	0 from Repo.
+2019-09-24 13:53:49.0595|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	0
+2019-09-24 13:53:49.0595|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:53:49.0595|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Payments require a valid CustomerId.
+
+2019-09-24 13:53:49.0595|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.0825|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Payment Method not found; Please submit a valid Payment Method ID.
+
+2019-09-24 13:53:49.0825|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.0825|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+A payment's Date cannot be blank.
+
+2019-09-24 13:53:49.0825|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.0875|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+A payment cannot occur at a later date; Please review the submitted Payment Date.
+
+2019-09-24 13:53:49.0875|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.0875|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:53:49.0875|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.0875|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:53:49.0875|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.0875|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:53:49.0875|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.1075|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+A payment cannot occur at a later date; Please review the submitted Payment Date.
+Ammount must be greater than 0.
+
+2019-09-24 13:53:49.1075|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.1075|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting update for Payment record with ID:	1
+2019-09-24 13:53:49.1195|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo updating record for Payment with ID:	1
+2019-09-24 13:53:49.1195|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:53:49.1195|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:53:49.1195|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo succesfully updated Payment with ID:	1
+2019-09-24 13:53:49.1195|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:53:49.1195|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:53:49.1195|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:53:49.1195|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:53:49.4795|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-09-24 13:53:49.4795|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-09-24 13:53:49.4795|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-09-24 13:53:49.4795|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-09-24 13:53:49.4795|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+
+No Payment with ID: 1970761237 found in Repo.
+
+2019-09-24 13:53:49.4795|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-09-24 13:53:49.4795|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-09-24 13:53:49.4795|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-09-24 13:53:49.4795|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-09-24 13:53:49.5505|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+Payments require a valid CustomerId.
+
+No Payment with ID: 0 found in Repo.
+
+2019-09-24 13:53:49.5505|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.8795|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+Payment Method not found; Please submit a valid Payment Method ID.
+
+No Payment with ID: 0 found in Repo.
+
+2019-09-24 13:53:49.8795|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.8835|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+A payment's Date cannot be blank.
+
+No Payment with ID: 0 found in Repo.
+
+2019-09-24 13:53:49.8835|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.8835|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+A payment cannot occur at a later date; Please review the submitted Payment Date.
+
+No Payment with ID: 0 found in Repo.
+
+2019-09-24 13:53:49.8835|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.8835|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+Ammount must be greater than 0.
+
+No Payment with ID: 0 found in Repo.
+
+2019-09-24 13:53:49.8835|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.8835|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+Ammount must be greater than 0.
+
+No Payment with ID: 0 found in Repo.
+
+2019-09-24 13:53:49.8835|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.9076|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+Ammount must be greater than 0.
+
+No Payment with ID: 0 found in Repo.
+
+2019-09-24 13:53:49.9076|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:53:49.9146|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+A payment cannot occur at a later date; Please review the submitted Payment Date.
+Ammount must be greater than 0.
+
+No Payment with ID: 0 found in Repo.
+
+2019-09-24 13:53:49.9146|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:56:06.8343|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:56:06.8633|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:56:06.8813|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:06.8823|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.3053|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:56:07.3053|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:56:07.3053|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:07.3053|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.3053|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 44546717 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:56:07.3053|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+A payment cannot occur at a later date; Please review the submitted Payment Date.
+
+2019-09-24 13:56:07.3053|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:56:07.3053|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:07.3053|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.3053|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Payment Method not found; Please submit a valid Payment Method ID.
+
+2019-09-24 13:56:07.3053|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:56:07.3053|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+A payment's Date cannot be blank.
+
+2019-09-24 13:56:07.3053|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:56:07.3193|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+A payment's Date cannot be blank.
+
+2019-09-24 13:56:07.3193|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:56:07.3193|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:07.3193|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.3193|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+A payment cannot occur at a later date; Please review the submitted Payment Date.
+
+2019-09-24 13:56:07.3193|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:56:07.3193|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting record creation for Payment:	0
+2019-09-24 13:56:07.3193|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo creating record for Payment:	0
+2019-09-24 13:56:07.3193|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Payment:/t0 succesfully registered.
+2019-09-24 13:56:07.3193|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.3193|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	0 from Repo.
+2019-09-24 13:56:07.3193|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	0
+2019-09-24 13:56:07.3193|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.3653|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+Payments require a valid CustomerId.
+
+2019-09-24 13:56:07.3653|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:56:07.3653|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:07.3653|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.3743|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:56:07.3743|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:56:07.3743|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+A payment cannot occur at a later date; Please review the submitted Payment Date.
+Ammount must be greater than 0.
+
+2019-09-24 13:56:07.3743|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:56:07.3743|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:07.3743|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.3843|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Payments require a valid CustomerId.
+
+2019-09-24 13:56:07.3843|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:56:07.3843|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+A payment cannot occur at a later date; Please review the submitted Payment Date.
+Ammount must be greater than 0.
+
+2019-09-24 13:56:07.3843|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:56:07.3843|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+Payment Method not found; Please submit a valid Payment Method ID.
+
+2019-09-24 13:56:07.3843|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:56:07.3843|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:07.3843|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.3843|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting update for Payment record with ID:	1
+2019-09-24 13:56:07.4003|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo updating record for Payment with ID:	1
+2019-09-24 13:56:07.4003|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:07.4003|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:07.4003|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo succesfully updated Payment with ID:	1
+2019-09-24 13:56:07.4003|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.4003|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:56:07.4003|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:07.4003|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.4003|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:56:07.4003|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:07.4003|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 13:56:07.4003|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:56:07.4003|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:56:07.4143|WARN|DragonDrop.BLL.DataServices.PaymentDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:56:07.4143|WARN|DragonDrop.BLL.DataServices.PaymentDataService|No Payment with ID: 0 was found in Repo. Payment Data Service cannot process GET request.
+2019-09-24 13:56:07.4143|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-09-24 13:56:07.4143|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-09-24 13:56:07.4143|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-09-24 13:56:07.4143|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-09-24 13:56:07.4143|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+
+No Payment with ID: 1317618626 found in Repo.
+
+2019-09-24 13:56:07.4143|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting all Payments from Repo.
+2019-09-24 13:56:07.4143|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments...
+2019-09-24 13:56:07.4143|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-09-24 13:56:07.4143|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service got back: 3 records from Repo.
+2019-09-24 13:56:07.4963|ERROR|DragonDrop.BLL.DataServices.PaymentDataService|Payment failed Data Service Validation and will not be sent to Repo for Update. Details:
+Ammount must be greater than 0.
+
+2019-09-24 13:56:07.4963|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Payment with ID:	1 from Repo.
+2019-09-24 13:56:07.4963|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment with ID:	1
+2019-09-24 13:56:07.4963|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Repo finished and returned to Payment Data Service.
+2019-09-24 15:23:11.9386|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Products require a name.
+
+2019-09-24 15:23:11.9866|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.1156|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Products require a name.
+
+2019-09-24 15:23:12.1156|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.1546|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Product Description is limited to 300 characters.
+
+2019-09-24 15:23:12.1546|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.6766|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Products require a name.
+Product Description is limited to 300 characters.
+
+2019-09-24 15:23:12.6766|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.7266|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Product Stock may not be negative.
+
+2019-09-24 15:23:12.7266|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.7266|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Products require a valid Category to be placed under
+If unsure of which Category a Product falls under, you may use "Miscellaneous", ID: 0.
+
+2019-09-24 15:23:12.7266|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.7266|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Product Name limited to 50 characters.
+
+2019-09-24 15:23:12.7266|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.7496|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+A Product's Unit Price must be greter than 0$.
+
+2019-09-24 15:23:12.7496|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.7496|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+A Product's Unit Price must be greter than 0$.
+
+2019-09-24 15:23:12.7496|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.7496|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Barcode must be in a valid format
+(X-XXXXX-YYYYY-Z,
+ X=> Manufacturer Code;
+ Y=> Product Code;
+ Z=> Check Digit).
+
+
+2019-09-24 15:23:12.7496|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.7496|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Products require a valid Category to be placed under
+If unsure of which Category a Product falls under, you may use "Miscellaneous", ID: 0.
+
+2019-09-24 15:23:12.7496|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.7626|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Products must have a unique Bar Code.
+
+2019-09-24 15:23:12.7626|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.7626|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting record creation for Product named:	Baseball Card Pack - Series:28870
+2019-09-24 15:23:12.7626|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo creating record for Product named:	Baseball Card Pack - Series:28870
+2019-09-24 15:23:12.7626|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Product:/tBaseball Card Pack - Series:28870 succesfully registered.
+2019-09-24 15:23:12.7626|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-09-24 15:23:12.7626|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	0 from Repo.
+2019-09-24 15:23:12.7626|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	0
+2019-09-24 15:23:12.7626|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-09-24 15:23:12.8396|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Product Barcode must be precisely 12 characters long.
+Barcode must be in a valid format
+(X-XXXXX-YYYYY-Z,
+ X=> Manufacturer Code;
+ Y=> Product Code;
+ Z=> Check Digit).
+
+
+2019-09-24 15:23:12.8396|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:12.8396|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Product with ID:	1 from Repo.
+2019-09-24 15:23:12.8396|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching Product with ID:	1
+2019-09-24 15:23:12.8396|INFO|DragonDrop.BLL.DataServices.ProductDataService|Repo finished and returned to Product Data Service.
+2019-09-24 15:23:12.8526|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 1002315642 in Repo.
+2019-09-24 15:23:12.8526|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+A Product's Unit Price must be greter than 0$.
+
+2019-09-24 15:23:12.8526|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:23:51.3859|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Barcode must be in a valid format
+(X-XXXXX-YYYYY-Z,
+ X=> Manufacturer Code;
+ Y=> Product Code;
+ Z=> Check Digit).
+
+
+2019-09-24 15:23:51.4529|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:27:02.9206|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Product Barcode must be made up entirely of digits.
+
+
+2019-09-24 15:27:02.9636|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:27:10.0533|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Product Description is limited to 300 characters.
+
+2019-09-24 15:27:10.0833|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:27:31.2277|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Product Description is limited to 300 characters.
+
+2019-09-24 15:27:31.2617|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:27:46.9642|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Product Barcode must be precisely 12 characters long.
+Barcode must be in a valid format
+(X-XXXXX-YYYYY-Z,
+ X=> Manufacturer Code;
+ Y=> Product Code;
+ Z=> Check Digit).
+
+
+2019-09-24 15:27:46.9902|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:28:21.9428|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Product Barcode must be made up entirely of digits.
+
+
+2019-09-24 15:28:22.0288|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:30:26.7348|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Products require a Barcode.
+
+2019-09-24 15:30:26.7697|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:33:11.0922|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Product Barcode must be precisely 12 characters long.
+
+
+2019-09-24 15:33:11.1222|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.
+2019-09-24 15:33:11.2312|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product failed Data Service validation and will not be submitted to the Repo. Details:
+Product Barcode must be precisely 12 characters long.
+
+
+2019-09-24 15:33:11.2312|WARN|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service found no record with ID: 0 in Repo.

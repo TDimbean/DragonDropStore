@@ -1,0 +1,835 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68904EB7-2AB9-4895-97C8-195ACCD3325D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DragonDrop.WPF</RootNamespace>
+    <AssemblyName>DragonDrop.WPF</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CommonServiceLocator, Version=2.0.4.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\CommonServiceLocator.2.0.4\lib\net47\CommonServiceLocator.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Interactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Windows.Interactivity.WPF.2.0.20525\lib\net40\Microsoft.Expression.Interactions.dll</HintPath>
+    </Reference>
+    <Reference Include="Prism, Version=7.2.0.1422, Culture=neutral, PublicKeyToken=40ee6c3a2184dc59, processorArchitecture=MSIL">
+      <HintPath>..\packages\Prism.Core.7.2.0.1422\lib\net45\Prism.dll</HintPath>
+    </Reference>
+    <Reference Include="Prism.Wpf, Version=7.2.0.1422, Culture=neutral, PublicKeyToken=40ee6c3a2184dc59, processorArchitecture=MSIL">
+      <HintPath>..\packages\Prism.Wpf.7.2.0.1422\lib\net45\Prism.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.2\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Prism.Wpf.7.2.0.1422\lib\net45\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Unity.Abstractions, Version=5.11.1.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.Abstractions.5.11.1\lib\net47\Unity.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Configuration, Version=5.11.1.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.Configuration.5.11.1\lib\net47\Unity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Container, Version=5.11.1.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.Container.5.11.1\lib\net47\Unity.Container.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="EventToCommandBehavior.cs" />
+    <Compile Include="Helpers\ButtonHelpers.cs" />
+    <Compile Include="Helpers\ButtonStretcher.xaml.cs">
+      <DependentUpon>ButtonStretcher.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\ControlHelpers.cs" />
+    <Compile Include="Helpers\PasswordBoxAssistant.cs" />
+    <Compile Include="Helpers\ResRepoHelpers.cs" />
+    <Compile Include="Interfaces\IAwaitUnlock.cs" />
+    <Compile Include="Interfaces\IReceiveBarcodeControl.cs" />
+    <Compile Include="Interfaces\IReceiveBarcodeAndRemoteCloseControl.cs" />
+    <Compile Include="Interfaces\IRelayReloadAndRemoteCloseControl.cs" />
+    <Compile Include="Interfaces\IRelayReloadControl.cs" />
+    <Compile Include="Interfaces\IRemoteCloseControl.cs" />
+    <Compile Include="Interfaces\IReloadableControl.cs" />
+    <Compile Include="Interfaces\ISelfAndRelayReloadAndRemoteCloseControl.cs" />
+    <Compile Include="MainSubViews\ForgetView.xaml.cs">
+      <DependentUpon>ForgetView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainSubViews\RegisterView.xaml.cs">
+      <DependentUpon>RegisterView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainSubViews\ViewModels\ForgetViewModel.cs" />
+    <Compile Include="MainSubViews\ViewModels\RegisterViewModel.cs" />
+    <Compile Include="MainWindowViewModel.cs" />
+    <Compile Include="StoreViews\CheckoutWindow.xaml.cs">
+      <DependentUpon>CheckoutWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\StoreView.xaml.cs">
+      <DependentUpon>StoreView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\Converters\BoolToVisibilityConverter.cs" />
+    <Compile Include="StoreViews\Tabs\Converters\CodeOrProdToFontSizeConverter.cs" />
+    <Compile Include="StoreViews\Tabs\Converters\InverseVisibilityConverter.cs" />
+    <Compile Include="StoreViews\Tabs\SubViews\ProcessingWindow.xaml.cs">
+      <DependentUpon>ProcessingWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ProcessOrderWindow.xaml.cs">
+      <DependentUpon>ProcessOrderWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ScannerConfigWindow.xaml.cs">
+      <DependentUpon>ScannerConfigWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ShipOrdersWindow.xaml.cs">
+      <DependentUpon>ShipOrdersWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ShipSingleOrderWindow.xaml.cs">
+      <DependentUpon>ShipSingleOrderWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\SingleScanWindow.xaml.cs">
+      <DependentUpon>SingleScanWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\TakeInventoryWindow.xaml.cs">
+      <DependentUpon>TakeInventoryWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\ViewModels\Models\ProcessingProduct.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Models\WpfMappers.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\ProcessingWindowViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\ProcessOrderViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\ScannerConfigViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\ShipOrdersViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\ShipSingleViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\SingleScanViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\TakeInventoryViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\_Admin\AdminCustomersTab.xaml.cs">
+      <DependentUpon>AdminCustomersTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\_Admin\AdminItemsTab.xaml.cs">
+      <DependentUpon>AdminItemsTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\_Admin\AdminMenuTab.xaml.cs">
+      <DependentUpon>AdminMenuTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\_Admin\AdminOrdersTab.xaml.cs">
+      <DependentUpon>AdminOrdersTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\_Admin\AdminPaymentsTab.xaml.cs">
+      <DependentUpon>AdminPaymentsTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\_Admin\AdminProductsTab.xaml.cs">
+      <DependentUpon>AdminProductsTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\Converters\CurrencyFormatConverter.cs" />
+    <Compile Include="StoreViews\Tabs\Converters\IdToPaymentMethodConverter.cs" />
+    <Compile Include="StoreViews\Tabs\Converters\IdToOrderStatusConverter.cs" />
+    <Compile Include="StoreViews\Tabs\Converters\IdToCategoryConverter.cs" />
+    <Compile Include="StoreViews\Tabs\Converters\IdToShippingMethodConverter.cs" />
+    <Compile Include="StoreViews\Tabs\Converters\InverseBooleanConverter.cs" />
+    <Compile Include="StoreViews\Tabs\Converters\OverZeroBooleanConverter.cs" />
+    <Compile Include="StoreViews\Tabs\Converters\RawCodeToUpcConverter.cs" />
+    <Compile Include="StoreViews\Tabs\ICartableTab.cs" />
+    <Compile Include="StoreViews\Tabs\Models\UserOrderProd.cs" />
+    <Compile Include="StoreViews\Tabs\SubViews\AddressPop.xaml.cs">
+      <DependentUpon>AddressPop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\CustomerAddWindow.xaml.cs">
+      <DependentUpon>CustomerAddWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\CustomerEditWindow.xaml.cs">
+      <DependentUpon>CustomerEditWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\CustomerPop.xaml.cs">
+      <DependentUpon>CustomerPop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\EditDefaultsWindow.xaml.cs">
+      <DependentUpon>EditDefaultsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ItemAddWindow.xaml.cs">
+      <DependentUpon>ItemAddWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ItemEditWindow.xaml.cs">
+      <DependentUpon>ItemEditWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\MessageComposerWindow.xaml.cs">
+      <DependentUpon>MessageComposerWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\OrderAddWindow.xaml.cs">
+      <DependentUpon>OrderAddWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\OrderDetailsPop.xaml.cs">
+      <DependentUpon>OrderDetailsPop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\OrderEditWindow.xaml.cs">
+      <DependentUpon>OrderEditWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\OrderModificationWindow.xaml.cs">
+      <DependentUpon>OrderModificationWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\OrderPop.xaml.cs">
+      <DependentUpon>OrderPop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\PaymentAddWindow.xaml.cs">
+      <DependentUpon>PaymentAddWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\PaymentEditWindow.xaml.cs">
+      <DependentUpon>PaymentEditWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ProductAddWindow.xaml.cs">
+      <DependentUpon>ProductAddWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ProductDetailsPop.xaml.cs">
+      <DependentUpon>ProductDetailsPop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ProductEditWindow.xaml.cs">
+      <DependentUpon>ProductEditWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ProductPop.xaml.cs">
+      <DependentUpon>ProductPop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\UserOrderOptions.xaml.cs">
+      <DependentUpon>UserOrderOptions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\UserProdDetailWindow.xaml.cs">
+      <DependentUpon>UserProdDetailWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ValueCellAddWindow.xaml.cs">
+      <DependentUpon>ValueCellAddWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ValueCellRemoveWindow.xaml.cs">
+      <DependentUpon>ValueCellRemoveWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\SubViews\ValueCellWindow.xaml.cs">
+      <DependentUpon>ValueCellWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\_User\UserAccountTab.xaml.cs">
+      <DependentUpon>UserAccountTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\_User\UserCartTab.xaml.cs">
+      <DependentUpon>UserCartTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\_User\UserMenuTab.xaml.cs">
+      <DependentUpon>UserMenuTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\_User\UserOrdersTab.xaml.cs">
+      <DependentUpon>UserOrdersTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\_User\UserPaymentsTab.xaml.cs">
+      <DependentUpon>UserPaymentsTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\_User\UserStoreTab.xaml.cs">
+      <DependentUpon>UserStoreTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreViews\Tabs\ViewModels\Tabs\Admin\AdminCustomersTabViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Tabs\Admin\AdminItemsTabViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Tabs\Admin\AdminOrdersTabViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Tabs\Admin\AdminPaymentsTabViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\DataBags\AdminPaymentViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Tabs\Admin\AdminProductsTabViewModel.cs" />
+    <Compile Include="StoreViews\ViewModels\CheckoutViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Forms\CustomerAddViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Forms\CustomerEditViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\DataBags\CustomerPopViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\DataBags\AddressPopViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\EditDefaultsViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Forms\ItemAddViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Forms\ItemEditViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Models\DefaultRepo.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Models\InputField.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Forms\OrderAddViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\DataBags\OrderDetailsPopViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Forms\OrderEditViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\OrderModViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\DataBags\OrderPopViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Forms\PaymentAddViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Forms\PaymentEditViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Forms\ProductAddViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Forms\ProductEditViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\DataBags\ProductPopViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Tabs\User\UserAccountTabViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\UserCartTabViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\UserOrderOptionsViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Tabs\User\UserOrdersTabViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Tabs\User\UserPaymentsTabViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\DataBags\UserProductDetailsViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\Tabs\User\UserStoreTabViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\ValueCellAddViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\ValueCellEditViewModel.cs" />
+    <Compile Include="StoreViews\Tabs\ViewModels\ValueCellRemoveViewModel.cs" />
+    <Compile Include="StoreViews\ViewModels\Cart.cs" />
+    <Compile Include="StoreViews\ViewModels\StoreViewModel.cs" />
+    <Compile Include="StoreViews\ViewModels\TabViewModel.cs" />
+    <Page Include="Helpers\ButtonStretcher.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainSubViews\ForgetView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainSubViews\RegisterView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="StoreViews\CheckoutWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\StoreView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ProcessingWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ProcessOrderWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ScannerConfigWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ShipOrdersWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ShipSingleOrderWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\SingleScanWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\TakeInventoryWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_Admin\AdminCustomersTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_Admin\AdminItemsTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_Admin\AdminMenuTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_Admin\AdminOrdersTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_Admin\AdminPaymentsTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_Admin\AdminProductsTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\AddressPop.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\CustomerAddWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\CustomerEditWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\CustomerPop.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\EditDefaultsWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ItemAddWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ItemEditWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\MessageComposerWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\OrderAddWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\OrderDetailsPop.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\OrderEditWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\OrderModificationWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\OrderPop.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\PaymentAddWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\PaymentEditWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ProductAddWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ProductDetailsPop.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ProductEditWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ProductPop.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\UserOrderOptions.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\UserProdDetailWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ValueCellAddWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ValueCellRemoveWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\SubViews\ValueCellWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_User\UserAccountTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_User\UserCartTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_User\UserMenuTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_User\UserOrdersTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_User\UserPaymentsTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreViews\Tabs\_User\UserStoreTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\check.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\dragon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DragonDrop.BLL\DragonDrop.BLL.csproj">
+      <Project>{108BB9EF-937C-4531-8707-1BA4D11F11D0}</Project>
+      <Name>DragonDrop.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DragonDrop.DAL\DragonDrop.DAL.csproj">
+      <Project>{80FBC8F9-731D-47C1-A17B-1BE7ACAAFA99}</Project>
+      <Name>DragonDrop.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DragonDrop.Infrastructure\DragonDrop.Infrastructure.csproj">
+      <Project>{3788A178-03F7-4F8D-8ABC-C5D5D6183A8A}</Project>
+      <Name>DragonDrop.Infrastructure</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\close.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\sms.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\mail.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\cart.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\customers.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\orders.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\payments.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\store.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\account.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\orderItem.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\products.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\search.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\addToCart.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\pencil.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\cityBuildings.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\mapMarker.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\person.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\phoneReceiver.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\state.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\checkCircle.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\reset.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\hashtag.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\calendar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\money.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\payMethod.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\newRecord.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\print.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\deliveryTruck.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\deliveryTime.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\barcode.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\info.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\manufacturer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\pawn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\smallStore.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\infoFull.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\datePicker.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\arrow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\parchment.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\cubeContainer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\qty.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\status.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\optionDots.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\swap.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\trash.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\destroy.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\add.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\subtract.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\trashFull.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\minusHolo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\plusHolo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\cashRegister.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\codeScanner.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\whiteSwap.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Art\whiteCancelFull.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Art\whiteCheckFull.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" />
+</Project>

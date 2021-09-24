@@ -1,0 +1,10 @@
+C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.Infrastructure\bin\Debug\NLog.config
+C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.Infrastructure\bin\Debug\DragonDrop.Infrastructure.dll
+C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.Infrastructure\bin\Debug\DragonDrop.Infrastructure.pdb
+C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.Infrastructure\bin\Debug\NLog.dll
+C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.Infrastructure\bin\Debug\NLog.xml
+C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.Infrastructure\obj\Debug\DragonDrop.Infrastructure.csprojAssemblyReference.cache
+C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.Infrastructure\obj\Debug\DragonDrop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.Infrastructure\obj\Debug\DragonDrop.Infrastructure.csproj.CopyComplete
+C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.Infrastructure\obj\Debug\DragonDrop.Infrastructure.dll
+C:\Users\RoosterMaind\Desktop\Ptterns\DragonDropStore\DragonDrop.Infrastructure\obj\Debug\DragonDrop.Infrastructure.pdb

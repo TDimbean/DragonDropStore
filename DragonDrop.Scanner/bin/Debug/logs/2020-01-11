@@ -1,0 +1,8 @@
+2020-01-11 08:16:33.4839|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2020-01-11 08:16:33.4839|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2020-01-11 08:16:34.7776|INFO|DragonDrop.DAL.Implementation.ProductRepository|79 records found.
+2020-01-11 08:16:34.7776|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 79 records from Repo.
+2020-01-11 15:09:47.2048|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting all Products from Repo.
+2020-01-11 15:09:47.2148|INFO|DragonDrop.DAL.Implementation.ProductRepository|Repo fetching all Products...
+2020-01-11 15:09:48.6209|INFO|DragonDrop.DAL.Implementation.ProductRepository|79 records found.
+2020-01-11 15:09:48.6209|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service retrieved 79 records from Repo.

@@ -1,0 +1,614 @@
+2019-09-23 05:01:08.2839|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Name cannot be blank.
+
+2019-09-23 05:01:08.3059|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 05:01:08.3059|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 05:01:08.3059|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 05:01:08.3059|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 05:01:09.0549|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Name cannot be blank.
+
+2019-09-23 05:01:09.0549|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 05:01:09.0549|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 05:01:09.0549|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 05:01:09.0549|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 05:06:02.5696|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1 to Repo.
+2019-09-23 05:06:02.5966|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-23 05:06:02.5966|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 05:06:02.5966|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-23 05:06:02.5966|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-09-23 05:06:02.5966|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 05:06:02.5966|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 05:11:37.0942|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1 to Repo.
+2019-09-23 05:11:37.1182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-23 05:11:37.1182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 05:11:37.1182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-23 05:11:37.1182|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-09-23 05:11:37.1182|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 05:11:37.1182|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 05:12:05.7379|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Name cannot be blank.
+
+2019-09-23 05:12:05.7619|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 05:12:05.7619|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 05:12:06.2689|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Name cannot be blank.
+
+2019-09-23 05:12:06.2689|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 05:12:06.2689|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:15.6363|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:15.6653|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:15.9997|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	2074368282
+2019-09-23 06:20:15.9997|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	2074368282
+2019-09-23 06:20:15.9997|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	2074368282
+2019-09-23 06:20:15.9997|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	2074368282
+2019-09-23 06:20:16.0666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer creation request to Repo. Name:	Will Smith
+2019-09-23 06:20:16.0666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo creating record for Customer named:	Will Smith
+2019-09-23 06:20:16.0666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Customer:/tWill Smith succesfully registered.
+2019-09-23 06:20:16.0666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-09-23 06:20:16.0666|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	4
+2019-09-23 06:20:16.0666|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	4
+2019-09-23 06:20:16.0862|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Name cannot be blank.
+
+2019-09-23 06:20:16.0862|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.0862|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.0862|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.0862|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.2782|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Name cannot be blank.
+
+2019-09-23 06:20:16.2782|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.2782|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.2782|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.2782|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3032|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Name must not exceed 100 characters.
+
+2019-09-23 06:20:16.3032|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3032|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3032|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3032|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3032|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Customer requires a phone number.
+
+2019-09-23 06:20:16.3032|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3032|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3032|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3032|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3032|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Customer requires a phone number.
+
+2019-09-23 06:20:16.3032|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3032|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3032|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3032|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Phone Numbers must have precisely 10 characters.
+Phone number must be in valid format: XXX-XXX-XXXX.
+
+2019-09-23 06:20:16.3202|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3202|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Phone Numbers must have precisely 10 characters.
+
+2019-09-23 06:20:16.3202|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3202|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Phone number must be in valid format: XXX-XXX-XXXX.
+Phone number may only contain digits.
+
+2019-09-23 06:20:16.3202|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3202|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Phone number may only contain digits.
+
+2019-09-23 06:20:16.3202|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3202|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3202|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3262|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Email must not exceed 100 characters.
+
+2019-09-23 06:20:16.3262|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3262|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3262|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3262|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3262|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Address cannot be empty.
+
+2019-09-23 06:20:16.3262|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3262|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3262|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3262|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3262|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Address cannot be empty.
+
+2019-09-23 06:20:16.3262|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3262|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3262|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3262|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Address may not exceed 200 characters.
+
+2019-09-23 06:20:16.3452|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3452|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-09-23 06:20:16.3452|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3452|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-09-23 06:20:16.3452|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3452|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City should not exceed 100 characters; If necessary, please use an abbreviation.
+
+2019-09-23 06:20:16.3452|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3452|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3452|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3593|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+State/County cannot be blank.
+
+2019-09-23 06:20:16.3593|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3593|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3593|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3593|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3593|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+State/County cannot be blank.
+
+2019-09-23 06:20:16.3593|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3593|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3593|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3593|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3593|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+State/County is limited to 50 characters; Where necessary, please use an abbreviation.
+
+2019-09-23 06:20:16.3593|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3593|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3593|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3593|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.3953|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+State/County cannot be blank.
+
+2019-09-23 06:20:16.3953|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	0
+2019-09-23 06:20:16.3953|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	0
+2019-09-23 06:20:16.3953|WARN|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo found no Customer with ID:	0
+2019-09-23 06:20:16.3953|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service found no Customer with ID:	0
+2019-09-23 06:20:16.4273|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1 to Repo.
+2019-09-23 06:20:16.4273|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-23 06:20:16.4273|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:16.4273|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-23 06:20:16.4273|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-09-23 06:20:16.4273|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:16.4273|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:16.9566|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Name cannot be blank.
+
+2019-09-23 06:20:16.9566|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:16.9566|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:16.9566|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Name cannot be blank.
+
+2019-09-23 06:20:16.9566|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:16.9566|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:16.9566|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Name must not exceed 100 characters.
+
+2019-09-23 06:20:16.9566|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:16.9566|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:16.9566|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Customer requires a phone number.
+
+2019-09-23 06:20:16.9566|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:16.9566|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:16.9566|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Customer requires a phone number.
+
+2019-09-23 06:20:16.9566|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:16.9566|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:16.9736|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Phone Numbers must have precisely 10 characters.
+Phone number must be in valid format: XXX-XXX-XXXX.
+
+2019-09-23 06:20:16.9736|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:16.9736|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.3523|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Phone Numbers must have precisely 10 characters.
+
+2019-09-23 06:20:17.3523|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.3523|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.3573|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Phone number must be in valid format: XXX-XXX-XXXX.
+Phone number may only contain digits.
+
+2019-09-23 06:20:17.3573|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.3573|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.3573|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Phone number may only contain digits.
+
+2019-09-23 06:20:17.3573|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.3573|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.3823|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Email must not exceed 100 characters.
+
+2019-09-23 06:20:17.3823|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.3823|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.3893|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Address cannot be empty.
+
+2019-09-23 06:20:17.3893|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.3893|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.3893|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Address cannot be empty.
+
+2019-09-23 06:20:17.3893|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.3893|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.3893|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Address may not exceed 200 characters.
+
+2019-09-23 06:20:17.3893|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.3893|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.4123|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-09-23 06:20:17.4123|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.4123|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.4123|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+
+2019-09-23 06:20:17.4123|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.4123|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.4123|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City should not exceed 100 characters; If necessary, please use an abbreviation.
+
+2019-09-23 06:20:17.4123|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.4123|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.4293|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+State/County cannot be blank.
+
+2019-09-23 06:20:17.4293|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.4293|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.4293|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+State/County cannot be blank.
+
+2019-09-23 06:20:17.4293|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.4293|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.4383|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending Customer update request for Customer with ID:	1 to Repo.
+2019-09-23 06:20:17.4383|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo updating record for Customer with ID:	1
+2019-09-23 06:20:17.4383|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:20:17.4383|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo succesfully updated Customer with ID:	1
+2019-09-23 06:20:17.4383|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned to Customer Data Service.
+2019-09-23 06:20:17.4663|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+City field cannot be blank.
+State/County cannot be blank.
+
+2019-09-23 06:20:17.4663|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:20:17.4663|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:26:50.6657|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+State/County is limited to 50 characters; Where necessary, please use an abbreviation.
+
+2019-09-23 06:26:50.7092|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:26:50.7092|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:32:15.4827|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Phone Numbers must have precisely 10 characters.
+Phone number must be in valid format: XXX-XXX-XXXX.
+
+2019-09-23 06:32:15.5687|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:32:15.5687|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:32:16.7240|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Phone Numbers must have precisely 10 characters.
+
+2019-09-23 06:32:16.7240|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:32:16.7240|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 06:33:59.9501|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Phone number must be in valid format: XXX-XXX-XXXX.
+
+2019-09-23 06:34:00.0071|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service fetching Customer with ID:	1
+2019-09-23 06:34:00.0071|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching Customer with ID:	1
+2019-09-23 12:23:53.3272|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 12:23:53.3532|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 12:23:53.5092|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1591112592 from Repo.
+2019-09-23 12:23:53.5092|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1591112592
+2019-09-23 12:23:53.5102|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	1591112592
+2019-09-23 12:23:53.5102|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	1591112592 in Repo.
+2019-09-23 12:23:53.5332|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting creation of record for Order by Repo.
+2019-09-23 12:23:53.5332|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Ced Brasher at:/t9/9/2019 12:00:00 AM
+2019-09-23 12:23:53.5332|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/9/2019 12:00:00 AM.
+2019-09-23 12:23:53.5332|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Data Service.
+2019-09-23 12:23:53.5332|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	3 from Repo.
+2019-09-23 12:23:53.5332|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	3
+2019-09-23 12:23:54.2122|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+No Customer with ID: 142643372 found in Repo. Orders require an existing Customer to be associated with.
+
+2019-09-23 12:23:54.2132|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:23:54.2132|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:23:54.2132|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:23:54.2132|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:23:54.2132|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Order Date too far into the future. Must be no later than right now.
+Orders cannot be Shipped before being placed.
+
+2019-09-23 12:23:54.2132|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:23:54.2132|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:23:54.2132|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:23:54.2132|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:23:54.2802|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Orders cannot be Shipped before being placed.
+
+2019-09-23 12:23:54.2802|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:23:54.2802|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:23:54.2802|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:23:54.2802|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:23:54.2802|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Orders must have a Shipping Method associated with them.
+
+2019-09-23 12:23:54.2802|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:23:54.2802|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:23:54.2802|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:23:54.2802|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:23:54.2802|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Orders must have a Payment Method associated with them.
+
+2019-09-23 12:23:54.2802|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:23:54.2802|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:23:54.2802|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:23:54.2802|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:23:54.2802|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Orders must have a Status associated with them.
+
+2019-09-23 12:23:54.2802|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:23:54.2802|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:23:54.2802|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:23:54.2802|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:23:54.2802|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+An Order's Shipping Date cannot be missing if it has been Shipped or Delivered.
+
+2019-09-23 12:23:54.2802|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:23:54.2802|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:23:54.2802|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:23:54.2802|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:23:54.3042|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Orders must have a Status associated with them.
+An Order's Shipping Date cannot be missing if it has been Shipped or Delivered.
+
+2019-09-23 12:23:54.3042|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:23:54.3042|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:23:54.3042|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:23:54.3042|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:23:54.3202|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Order Date too far into the future. Must be no later than right now.
+
+2019-09-23 12:23:54.3202|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:23:54.3202|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:23:54.3202|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:23:54.3202|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:27:19.4475|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting creation of record for Order by Repo.
+2019-09-23 12:27:49.7131|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Ced Brasher at:/t9/17/2019 12:00:00 AM
+2019-09-23 12:28:02.8511|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/17/2019 12:00:00 AM.
+2019-09-23 12:28:10.5112|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Data Service.
+2019-09-23 12:29:02.3716|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	3 from Repo.
+2019-09-23 12:29:09.2231|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	3
+2019-09-23 12:30:28.2510|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting creation of record for Order by Repo.
+2019-09-23 12:30:28.2940|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Shayna Chaman at:/t9/17/2019 12:00:00 AM
+2019-09-23 12:30:28.2940|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/17/2019 12:00:00 AM.
+2019-09-23 12:30:28.2940|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Data Service.
+2019-09-23 12:30:28.2940|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:30:28.2940|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:32:16.3761|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Order Date too far into the future; Must be no later than right now.
+Orders cannot be Shipped before being placed.
+
+2019-09-23 12:32:16.4141|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:32:16.4161|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:32:16.4161|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:32:16.4161|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:34:05.7952|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+An Order's Shipping Date cannot be missing if it has been Shipped or Delivered.
+
+2019-09-23 12:34:05.8342|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:34:05.8342|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:34:05.8342|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:34:05.8342|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:34:06.0008|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting creation of record for Order by Repo.
+2019-09-23 12:34:06.0008|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo creating record for Order placed by:	Regine Reimers at:/t9/20/2019 12:00:00 AM
+2019-09-23 12:34:06.0008|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Order succesfully registered at: 9/20/2019 12:00:00 AM.
+2019-09-23 12:34:06.0008|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Data Service.
+2019-09-23 12:37:48.3436|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+An Order's Shipping Date cannot be missing if it has been Shipped or Delivered.
+
+2019-09-23 12:37:48.3826|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:37:48.3826|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:37:48.3886|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:37:48.3886|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:37:48.6266|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+An Order's Shipping Date cannot be missing if it has been Shipped or Delivered.
+
+2019-09-23 12:37:48.6266|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:37:48.6266|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:37:48.6266|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:37:48.6266|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 12:38:37.5206|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Order Date too far into the future; Must be no later than right now.
+
+2019-09-23 12:42:25.8770|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Order Date too far into the future; Must be no later than right now.
+Orders cannot be Shipped before being placed.
+
+2019-09-23 12:42:25.9059|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	0 from Repo.
+2019-09-23 12:42:25.9059|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	0
+2019-09-23 12:42:25.9059|WARN|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo found no Order with ID:	0
+2019-09-23 12:42:25.9059|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service found no Order with ID:	0 in Repo.
+2019-09-23 13:15:13.0595|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting update for record with ID:	1 from Repo.
+2019-09-23 13:15:13.0975|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-09-23 13:15:13.0975|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:15:13.0975|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-09-23 13:15:13.0975|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Order Data Service
+2019-09-23 13:15:13.0975|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:15:13.0975|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:15:13.9385|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: No Customer with ID: 210145962 found in Repo. Orders require an existing Customer to be associated with.
+
+2019-09-23 13:15:13.9385|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:15:13.9385|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:22:25.7152|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-09-23 13:22:25.7532|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-23 13:22:25.7532|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-23 13:22:25.7532|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-09-23 13:22:25.7672|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+Name cannot be blank.
+Customer requires a phone number.
+Address cannot be empty.
+City field cannot be blank.
+State/County cannot be blank.
+
+2019-09-23 13:22:25.7672|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-09-23 13:22:25.7672|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-23 13:22:25.7672|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-23 13:22:25.7672|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-09-23 13:22:59.4792|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-09-23 13:22:59.5178|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-23 13:22:59.5178|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-23 13:22:59.5178|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-09-23 13:22:59.5319|WARN|DragonDrop.BLL.DataServices.CustomerDataService|Customer failed Data Service validation and will not be submitted to the Repo. Details:
+
+2019-09-23 13:22:59.5319|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service sending fetching all request to Repo
+2019-09-23 13:22:59.5319|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers...
+2019-09-23 13:22:59.5319|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-09-23 13:22:59.5319|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Repo returned: 3 records.
+2019-09-23 13:24:57.2487|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-09-23 13:24:57.2967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-23 13:24:57.2967|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-23 13:24:57.2967|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-09-23 13:24:57.3157|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: 
+Order ID must exist within the Repo for an update to be performed; Order Data Service could not find any Order with ID: 218906229 in Repo.
+
+2019-09-23 13:24:57.3157|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-09-23 13:24:57.3157|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-23 13:24:57.3157|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-23 13:24:57.3157|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-09-23 13:25:38.4604|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-09-23 13:25:38.5094|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-23 13:25:38.5104|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-23 13:25:38.5104|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-09-23 13:25:38.5344|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: 
+Order ID must exist within the Repo for an update to be performed; Order Data Service could not find any Order with ID: 1458918565 in Repo.
+
+2019-09-23 13:25:38.5344|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-09-23 13:25:38.5344|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-23 13:25:38.5344|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-23 13:25:38.5344|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-09-23 13:34:44.4238|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-09-23 13:34:44.4598|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-23 13:34:44.4598|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-23 13:34:44.4598|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-09-23 13:34:44.4791|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: 
+Order ID must exist within the Repo for an update to be performed; Order Data Service could not find any Order with ID: 1859812618 in Repo.
+
+2019-09-23 13:34:44.4791|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service retrieving all Orders from Repo.
+2019-09-23 13:34:44.4791|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders...
+2019-09-23 13:34:44.4791|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-09-23 13:34:44.4791|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service  got 3 records from Repo.
+2019-09-23 13:46:31.3767|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: Order Date too far into the future; Must be no later than right now.
+Orders cannot be Shipped before being placed.
+
+2019-09-23 13:46:31.4087|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:46:31.4087|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:46:32.3676|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: Orders cannot be Shipped before being placed.
+
+2019-09-23 13:46:32.3676|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:46:32.3676|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:46:32.5756|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: Orders must have a Shipping Method associated with them.
+
+2019-09-23 13:46:32.5756|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:46:32.5756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:46:32.5756|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: Orders must have a Payment Method associated with them.
+
+2019-09-23 13:46:32.5756|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:46:32.5756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:46:32.5756|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: Orders must have a Status associated with them.
+
+2019-09-23 13:46:32.5756|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:46:32.5756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:46:32.5756|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: An Order's Shipping Date cannot be missing if it has been Shipped or Delivered.
+
+2019-09-23 13:46:32.5756|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:46:32.5756|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:46:32.6396|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: An Order's Shipping Date cannot be missing if it has been Shipped or Delivered.
+
+2019-09-23 13:46:32.6396|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:46:32.6396|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:47:09.2520|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: Order Date too far into the future; Must be no later than right now.
+An Order's Shipping Date cannot be missing if it has been Shipped or Delivered.
+
+2019-09-23 13:47:09.2860|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:47:09.2860|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:47:53.3964|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: Order Date too far into the future; Must be no later than right now.
+
+2019-09-23 13:47:53.4184|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:47:53.4184|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 13:51:39.7660|WARN|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo. Details:
+Order Date too far into the future; Must be no later than right now.
+Orders cannot be Shipped before being placed.
+
+2019-09-23 13:51:39.8110|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 13:51:39.8110|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 14:29:56.1433|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: No Customer with ID: 0 found in Repo. Orders require an existing Customer to be associated with.
+
+2019-09-23 14:29:56.1683|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 14:29:56.1683|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 14:29:56.7133|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: Orders must have a Payment Method associated with them.
+
+2019-09-23 14:29:56.7133|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 14:29:56.7133|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 14:29:56.7133|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: Orders must have a Shipping Method associated with them.
+
+2019-09-23 14:29:56.7133|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 14:29:56.7133|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 14:29:56.7133|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting update for record with ID:	1 from Repo.
+2019-09-23 14:29:56.7133|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-09-23 14:29:56.7133|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 14:29:56.7133|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-09-23 14:29:56.7133|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Order Data Service
+2019-09-23 14:37:05.5928|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: No Customer with ID: 0 found in Repo. Orders require an existing Customer to be associated with.
+
+2019-09-23 14:37:05.6148|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 14:37:05.6148|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 14:37:06.0238|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: Orders must have a Payment Method associated with them.
+
+2019-09-23 14:37:06.0238|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 14:37:06.0238|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 14:37:06.0238|ERROR|DragonDrop.BLL.DataServices.OrderDataService|Order failed Data Service validation and will not be submitted to the Repo for update. Reason: Orders must have a Shipping Method associated with them.
+
+2019-09-23 14:37:06.0238|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Order with ID:	1 from Repo.
+2019-09-23 14:37:06.0258|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 14:37:06.0258|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting update for record with ID:	1 from Repo.
+2019-09-23 14:37:06.0258|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-09-23 14:37:06.0258|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 14:37:06.0258|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-09-23 14:37:06.0258|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Order Data Service
+2019-09-23 14:37:06.0888|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting update for record with ID:	1 from Repo.
+2019-09-23 14:37:06.0888|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-09-23 14:37:06.0888|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 14:37:06.0888|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-09-23 14:37:06.0888|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Order Data Service
+2019-09-23 14:40:04.8132|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting update for record with ID:	1 from Repo.
+2019-09-23 14:40:09.4932|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo updating record for Order with ID:	1
+2019-09-23 14:40:13.3552|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching Order with ID:	1
+2019-09-23 14:41:19.9186|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo succesfully updated Order with ID:	1
+2019-09-23 14:41:24.3506|INFO|DragonDrop.BLL.DataServices.OrderDataService|Repo returned to Order Data Service

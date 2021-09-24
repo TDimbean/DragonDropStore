@@ -1,0 +1,70 @@
+2019-10-17 08:21:45.3398|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo Sorting Customers by Name ascending, then retrieving page 3 of size 1.
+2019-10-17 08:21:45.3398|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers.Name
+2019-10-17 08:21:45.3548|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-10-17 08:21:45.3548|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 3 of size 1 from filtered Customer records.
+2019-10-17 08:21:45.3548|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-10-17 08:21:45.3548|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo got 1 results.
+2019-10-17 08:21:45.4318|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo getting OrderItems sorted by: qty ascending, Page: 2 of Size: 2.
+2019-10-17 08:21:45.4338|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Name
+2019-10-17 08:21:45.4338|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-10-17 08:21:45.4338|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 2 of size 2 from selected OrderItem records.
+2019-10-17 08:21:45.4338|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 1 records.
+2019-10-17 08:21:45.4338|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 1 records.
+2019-10-17 08:21:45.4338|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo Sorting Orders by orderdate ascending, then retrieving page 3 of size 1.
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from filtered Order records.
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo got 1 results.
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records, sorted by: cust in ascending order, and displaying Page 2 of Size: 2.
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-17 08:21:45.4648|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in ascending order by: price and displaying Page: 3 of Size: 2.
+2019-10-17 08:21:45.4888|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Price.
+2019-10-17 08:21:45.4888|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 6 records.
+2019-10-17 08:21:45.4888|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 3 of size 2 from select Product records.
+2019-10-17 08:21:45.4888|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-17 08:21:45.4888|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved: 2 records.
+2019-10-17 08:21:54.1051|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service requesting Page: 1 of Size: 3 from records Filtered by: Name in ascending  order from Repo.
+2019-10-17 08:21:54.1051|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo Sorting Customers by Name ascending, then retrieving page 3 of size 1.
+2019-10-17 08:21:54.1051|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching all Customers.Name
+2019-10-17 08:21:54.1051|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|3 records found.
+2019-10-17 08:21:54.1051|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo fetching page 3 of size 1 from filtered Customer records.
+2019-10-17 08:21:54.1231|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo retrieved 1 records.
+2019-10-17 08:21:54.1231|INFO|DragonDrop.UnitTests.MockRepoes.TestCustomerRepo|Repo got 1 results.
+2019-10-17 08:21:54.1231|INFO|DragonDrop.BLL.DataServices.CustomerDataService|Customer Data Service got 1 records back from Repo.
+2019-10-17 08:21:54.1901|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service requesting Page: 3of Size: 1 of records Sorted by: orderdate in ascending order from Repo.
+2019-10-17 08:21:54.1901|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo Sorting Orders by orderdate ascending, then retrieving page 3 of size 1.
+2019-10-17 08:21:54.1901|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching all Orders.Order Date
+2019-10-17 08:21:54.1901|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|3 records found.
+2019-10-17 08:21:54.1901|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo fetching page 3 of size 1 from filtered Order records.
+2019-10-17 08:21:54.1901|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo retrieved 1 records.
+2019-10-17 08:21:54.1901|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderRepo|Repo got 1 results.
+2019-10-17 08:21:54.1901|INFO|DragonDrop.BLL.DataServices.OrderDataService|Order Data Service received 1 records from Repo.
+2019-10-17 08:21:54.1901|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|Order Item Data Service requesting Page: 2 of Size: 2 of records sorted by: qty in ascending order from Repo.
+2019-10-17 08:21:54.1901|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo getting OrderItems sorted by: qty ascending, Page: 2 of Size: 2.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching all OrderItems.Name
+2019-10-17 08:21:54.2011|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|3 records found.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo fetching page 2 of size 2 from selected OrderItem records.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo retrieved 1 records.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.UnitTests.MockRepoes.TestOrderItemRepo|Repo found 1 records.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.BLL.DataServices.OrderItemDataService|Order Item Data Service received 1 records from Repo.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service requesting Page: 2 of Size:2 of records sorted by: cust in ascending order from Repo.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching Payment records, sorted by: cust in ascending order, and displaying Page 2 of Size: 2.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching all Payments.Customer
+2019-10-17 08:21:54.2011|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|3 records found.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo fetching page 2 of size 2 from select Payment records.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.UnitTests.MockRepoes.TestPaymentRepo|Repo retrieved 1 records.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.BLL.DataServices.PaymentDataService|Payment Data Service received 1 records from Repo.
+2019-10-17 08:21:54.2011|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service requesting Page: 3 of Size: 2 of records Sorted by: price in ascening order from Repo.
+2019-10-17 08:21:54.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in ascending order by: price and displaying Page: 3 of Size: 2.
+2019-10-17 08:21:54.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorting all Product records in asccending order by: Price.
+2019-10-17 08:21:54.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo sorted: 6 records.
+2019-10-17 08:21:54.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo fetching page 3 of size 2 from select Product records.
+2019-10-17 08:21:54.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved 2 records.
+2019-10-17 08:21:54.2141|INFO|DragonDrop.UnitTests.MockRepoes.TestProductRepo|Repo retrieved: 2 records.
+2019-10-17 08:21:54.2141|INFO|DragonDrop.BLL.DataServices.ProductDataService|Product Data Service received 2 records from Repo.
